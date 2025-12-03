@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Organization Repositories (Sortable)</title>
+  <style>
+    body { font-family: system-ui, sans-serif; padding: 1rem; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 0.4rem; font-size: 14px; }
+    th { cursor: pointer; background: #f5f5f5; }
+    tr:nth-child(even) { background: #fafafa; }
+  </style>
+</head>
+<body>
+  <h1>Organization Repositories</h1>
+  <p>
+    This is a sortable view of the same index shown on the org profile.
+    Click a column header to sort by that column.
+  </p>
+
+  <table id="repo-table">
+    <thead>
+      <tr>
+        <th data-key="name">Repo</th>
+        <th data-key="description">Description</th>
+        <th data-key="language">Language</th>
+        <th data-key="status">Status</th>
+        <th data-key="updated">Last Updated</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Filled by JavaScript -->
+    </tbody>
+  </table>
+
+  <script src="repos.js"></script>
+  <script>
+    // simple data-driven render + sort
+    const table = document.getElementById('repo-table');
+    const tbody = table.querySelector('tbody');
+    let currentSort = { key: 'name', dir: 1 };
+
+    function renderRows(data) {
+      tbody.innerHTML = '';
+      data.forEach(repo => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td><a href="${repo.url}" target="_blank" rel="noopener">${repo.name}</a></td>
+          <td>${repo.description || ''}</td>
+          <td>${repo.language || ''}</td>
+          <td>${repo.status || ''}</td>
+          <td>${repo.updated || ''}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function sortData(key) {
+      if (currentSort.key === key) {
+        currentSort.dir *= -1; // toggle
+      } else {
+        currentSort = { key, dir: 1 };
+      }
+      const sorted = [...REPOS].sort((a, b) => {
+        const va = (a[key] || '').toString().toLowerCase();
+        const vb = (b[key] || '').toString().toLowerCase();
+        if (va < vb) return -1 * currentSort.dir;
+        if (va > vb) return 1 * currentSort.dir;
+        return 0;
+      });
+      renderRows(sorted);
+    }
+
+    // attach click handlers
+    table.querySelectorAll('th').forEach(th => {
+      const key = th.dataset.key;
+      th.addEventListener('click', () => sortData(key));
+    });
+
+    // initial render
+    renderRows(REPOS);
+  </script>
+</body>
+</html>

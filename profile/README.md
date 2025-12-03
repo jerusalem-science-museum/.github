@@ -10,6 +10,26 @@
 - **Active**: 1 repos
 - **Dormant**: 29 repos
 
+<details>
+  <summary>Python projects</summary>
+
+  | Repo | Description |
+  |------|-------------|
+  | ...  | ...         |
+
+</details>
+
+<details>
+  <summary>Hardware-heavy exhibits</summary>
+
+  | Repo | Description |
+  |------|-------------|
+  | ...  | ...         |
+
+</details>
+
+
+
 ## Active Projects
 
 | Repo | Description | Language | Last Updated | Topics |
