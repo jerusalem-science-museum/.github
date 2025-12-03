@@ -1,0 +1,84 @@
+name: Update Repository Index
+
+on:
+  schedule:
+    # Run weekly on Monday at 02:00 UTC
+    - cron: '0 2 * * 1'
+  # Allow manual trigger
+  workflow_dispatch:
+  # Trigger on push to main (optional)
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/generate_index.py'
+      - '.github/workflows/update-index.yml'
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Generate repository index
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        ORG_NAME: ${{ github.repository_owner }}
+      run: |
+        cd scripts
+        python generate_index.py
+        cd ..
+    
+    - name: Update main README with index
+      run: |
+        # Merge repos_table.md into main README
+        cat > temp_readme.md << 'EOF'
+        # Organization Repository Index & Management
+        
+        This repository serves as a central hub for discovering, organizing, and maintaining all projects in the organization.
+        
+        ## Quick Links
+        
+        - 📋 [Full Repository Index](#repository-index) - Organized by status and exhibit
+        - 📁 [Repository Structure Guide](docs/REPO_STRUCTURE.md) - Best practices for new projects
+        - 📦 [Project Template](templates/README_PROJECT.md) - Use when creating new repos
+        - 🛠️ [Management Scripts](scripts/) - Automation for repo organization
+        
+        ## Repository Index
+        
+        EOF
+        cat scripts/repos_table.md >> temp_readme.md
+        mv temp_readme.md README.md
+    
+    - name: Create commit if changes exist
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git add README.md scripts/repos_inventory.json scripts/repos_table.md
+          git commit -m "Update repository index [automated]"
+          git push
+        fi
+    
+    - name: Comment on run
+      if: always()
+      run: |
+        echo "✓ Repository index updated successfully"
+        echo "Total repositories indexed: $(grep -c '|' scripts/repos_table.md || echo 'N/A')"
