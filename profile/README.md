@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-17 12:15:42 UTC
+**Last Updated:** 2025-12-17 12:18:24 UTC
 
 **Total Repositories:** 37
 
@@ -10,7 +10,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [edu-photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Active | 2025-12-17 |
+| [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Active | 2025-12-17 |
 
 </details>
 
@@ -19,7 +19,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [ext-ariel-powers-of-10](https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10) | changup of the original powers of ten video for Ariel Uni pu | Python | Active | 2025-12-17 |
+| [ariel-powers-of-10](https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10) | changup of the original powers of ten video for Ariel Uni pu | Python | Active | 2025-12-17 |
 
 </details>
 
@@ -28,9 +28,9 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [ftc-cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2025-12-17 |
-| [ftc-connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | C++ | Active | 2025-12-17 |
-| [ftc-gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2025-12-17 |
+| [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2025-12-17 |
+| [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | C++ | Active | 2025-12-17 |
+| [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2025-12-17 |
 
 </details>
 
@@ -39,7 +39,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [second-incarnation](https://github.com/jerusalem-science-museum/second-incarnation) | N/A | Python | Dormant | 2021-08-24 |
+| [incarnation](https://github.com/jerusalem-science-museum/second-incarnation) | N/A | Python | Dormant | 2021-08-24 |
 
 </details>
 
@@ -48,8 +48,8 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [space-rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Active | 2025-12-17 |
-| [space-what-would-you-take](https://github.com/jerusalem-science-museum/space-what-would-you-take) | a simple interactive voting board to see what visitors would | Python | Active | 2025-12-17 |
+| [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Active | 2025-12-17 |
+| [what-would-you-take](https://github.com/jerusalem-science-museum/space-what-would-you-take) | a simple interactive voting board to see what visitors would | Python | Active | 2025-12-17 |
 
 </details>
 
@@ -58,7 +58,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [Spherical-Laser-Projector](https://github.com/jerusalem-science-museum/Spherical-Laser-Projector) | A spherical laser projector with SVG support | N/A | Dormant | 2017-01-13 |
+| [Laser-Projector](https://github.com/jerusalem-science-museum/Spherical-Laser-Projector) | A spherical laser projector with SVG support | N/A | Dormant | 2017-01-13 |
 
 </details>
 
@@ -67,7 +67,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [archive-ftc-connect-4-robot-legacy](https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2025-12-17 |
+| [ftc-connect-4-robot-legacy](https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2025-12-17 |
 
 </details>
 
