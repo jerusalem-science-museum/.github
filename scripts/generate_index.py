@@ -8,8 +8,9 @@ Creates a Markdown README with collapsible sections grouped by repo prefix.
 Usage:
     export GITHUB_TOKEN="your_token"
     export ORG_NAME="your_organization"
-    export EXHIBIT_NAMES='{"ftc": "Freedom to Create"}'  # optional
     python generate_index.py
+
+Exhibit names are loaded from exhibit_names.json in the same directory.
 
 Output:
     - ../profile/README.md (organization landing page)
@@ -85,22 +86,20 @@ def categorize_repo(repo: Dict) -> str:
         return "Dormant"
 
 
-def extract_exhibit_name(repo_name: str) -> str:
+def extract_exhibit_name(repo_name: str, valid_prefixes: set) -> str:
     """
     Extract exhibit/category name from repo name if using prefix convention.
-    
-    Examples:
-    - exhibits-robots-control → exhibits
-    - tools-batch-processor → tools
-    - labs-research → labs
+    Only returns the prefix if it's in the valid_prefixes set (from exhibit_names.json).
+    Otherwise returns "uncategorized".
     """
     if "-" in repo_name:
         prefix = repo_name.split("-")[0]
-        return prefix
+        if prefix in valid_prefixes:
+            return prefix
     return "uncategorized"
 
 
-def build_repo_index(repos: List[Dict]) -> Dict:
+def build_repo_index(repos: List[Dict], valid_prefixes: set) -> Dict:
     """
     Build structured index of repositories.
     """
@@ -114,7 +113,7 @@ def build_repo_index(repos: List[Dict]) -> Dict:
     
     for repo in repos:
         status = categorize_repo(repo)
-        exhibit = extract_exhibit_name(repo["name"])
+        exhibit = extract_exhibit_name(repo["name"], valid_prefixes)
         
         # Initialize status category
         if status not in index["by_status"]:
@@ -155,15 +154,20 @@ def build_repo_index(repos: List[Dict]) -> Dict:
 
 def get_exhibit_display_names() -> Dict[str, str]:
     """
-    Load exhibit display name mappings from EXHIBIT_NAMES environment variable.
+    Load exhibit display name mappings from exhibit_names.json.
     Expected format: JSON object like {"ftc": "Freedom To Create", "xyz": "XYZ Project"}
     """
-    exhibit_names_json = os.getenv("EXHIBIT_NAMES", "{}")
-    try:
-        return json.loads(exhibit_names_json)
-    except json.JSONDecodeError:
-        print("[!] Warning: EXHIBIT_NAMES is not valid JSON, using raw prefixes")
-        return {}
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    json_path = os.path.join(script_dir, "exhibit_names.json")
+    
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"[!] Warning: Could not load exhibit_names.json: {e}")
+    
+    return {}
 
 
 def generate_markdown_table(index: Dict) -> str:
@@ -233,9 +237,13 @@ def main():
     # Fetch repos
     repos = get_organization_repos(org_name, token)
     
+    # Load valid prefixes from exhibit_names.json
+    exhibit_names = get_exhibit_display_names()
+    valid_prefixes = set(exhibit_names.keys())
+    
     # Build index
     print("[*] Building index structure...")
-    index = build_repo_index(repos)
+    index = build_repo_index(repos, valid_prefixes)
     print(f"[✓] Index built\n")
     
     # Generate markdown table
