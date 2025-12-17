@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-17 14:07:52 UTC
+**Last Updated:** 2025-12-17 12:15:42 UTC
 
 **Total Repositories:** 37
 
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary><strong>ftc</strong> (3 repos)</summary>
+  <summary><strong>Freedom to Create</strong> (3 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary><strong>space</strong> (2 repos)</summary>
+  <summary><strong>Eitan Stiva Space Exhibition</strong> (2 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
@@ -77,8 +77,6 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2025-12-17 |
-| [ScientistsCompetition](https://github.com/jerusalem-science-museum/ScientistsCompetition) | N/A | JavaScript | Dormant | 2021-08-24 |
-| [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
 | [captcha_camera](https://github.com/jerusalem-science-museum/captcha_camera) | N/A | Python | Dormant | 2022-04-02 |
 | [catch_game](https://github.com/jerusalem-science-museum/catch_game) | N/A | Python | Dormant | 2024-03-27 |
 | [catch_game_simulator](https://github.com/jerusalem-science-museum/catch_game_simulator) | N/A | Python | Dormant | 2024-03-27 |
@@ -100,8 +98,10 @@
 | [polarized_camera](https://github.com/jerusalem-science-museum/polarized_camera) | N/A | Shell | Dormant | 2023-01-12 |
 | [rdworks_hack](https://github.com/jerusalem-science-museum/rdworks_hack) | Automaticly approving RDWorks dialogs when uploading a file  | Python | Dormant | 2023-01-12 |
 | [scale_plot](https://github.com/jerusalem-science-museum/scale_plot) | Graph showing the weight over time axis | Python | Dormant | 2022-05-29 |
+| [ScientistsCompetition](https://github.com/jerusalem-science-museum/ScientistsCompetition) | N/A | JavaScript | Dormant | 2021-08-24 |
 | [selfie](https://github.com/jerusalem-science-museum/selfie) | N/A | Python | Dormant | 2021-08-24 |
 | [smart_romba](https://github.com/jerusalem-science-museum/smart_romba) | N/A | Python | Dormant | 2021-12-22 |
 | [swim_simulator](https://github.com/jerusalem-science-museum/swim_simulator) | N/A | Python | Dormant | 2021-10-13 |
+| [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
 
 </details>
