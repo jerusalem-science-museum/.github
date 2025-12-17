@@ -181,6 +181,8 @@ def generate_markdown_table(index: Dict) -> str:
     lines.append(f"**Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
     lines.append(f"**Total Repositories:** {index['total_repos']}\n")
     lines.append("")
+    lines.append("📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides\n")
+    lines.append("")
     
     # Generate collapsible sections by exhibit/prefix
     # Sort exhibits alphabetically (case-insensitive), but put "uncategorized" and "archive" at the end
