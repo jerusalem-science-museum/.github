@@ -3,16 +3,16 @@
 GitHub Repository Inventory Generator
 
 Generates a comprehensive index of all repositories in an organization.
-Creates both JSON (for processing) and Markdown table (for display).
+Creates a Markdown README with collapsible sections grouped by repo prefix.
 
 Usage:
     export GITHUB_TOKEN="your_token"
     export ORG_NAME="your_organization"
+    export EXHIBIT_NAMES='{"ftc": "Freedom to Create"}'  # optional
     python generate_index.py
 
 Output:
-    - repos_inventory.json (structured data)
-    - repos_table.md (markdown table for README)
+    - ../profile/README.md (organization landing page)
 """
 
 import os
@@ -237,13 +237,6 @@ def main():
     print("[*] Building index structure...")
     index = build_repo_index(repos)
     print(f"[✓] Index built\n")
-    
-    # Save JSON index
-    output_json = "repos_inventory.json"
-    print(f"[*] Writing JSON index to {output_json}...")
-    with open(output_json, "w") as f:
-        json.dump(index, f, indent=2)
-    print(f"[✓] Saved {output_json}\n")
     
     # Generate markdown table
     print("[*] Generating markdown table...")

@@ -47,27 +47,6 @@ jobs:
         python generate_index.py
         cd ..
     
-    - name: Update main README with index
-      run: |
-        # Merge repos_table.md into main README
-        cat > temp_readme.md << 'EOF'
-        # Organization Repository Index & Management
-        
-        This repository serves as a central hub for discovering, organizing, and maintaining all projects in the organization.
-        
-        ## Quick Links
-        
-        - 📋 [Full Repository Index](#repository-index) - Organized by status and exhibit
-        - 📁 [Repository Structure Guide](docs/REPO_STRUCTURE.md) - Best practices for new projects
-        - 📦 [Project Template](templates/README_PROJECT.md) - Use when creating new repos
-        - 🛠️ [Management Scripts](scripts/) - Automation for repo organization
-        
-        ## Repository Index
-        
-        EOF
-        cat scripts/repos_table.md >> temp_readme.md
-        mv temp_readme.md README.md
-    
     - name: Create commit if changes exist
       run: |
         git config --local user.email "action@github.com"
@@ -76,7 +55,7 @@ jobs:
         if git diff --quiet; then
           echo "No changes to commit"
         else
-          git add README.md scripts/repos_inventory.json profile/README.md
+          git add profile/README.md
           git commit -m "Update repository index [automated]"
           git push
         fi
