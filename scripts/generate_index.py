@@ -153,55 +153,53 @@ def build_repo_index(repos: List[Dict]) -> Dict:
     return index
 
 
+def get_exhibit_display_names() -> Dict[str, str]:
+    """
+    Load exhibit display name mappings from EXHIBIT_NAMES environment variable.
+    Expected format: JSON object like {"ftc": "Freedom To Create", "xyz": "XYZ Project"}
+    """
+    exhibit_names_json = os.getenv("EXHIBIT_NAMES", "{}")
+    try:
+        return json.loads(exhibit_names_json)
+    except json.JSONDecodeError:
+        print("[!] Warning: EXHIBIT_NAMES is not valid JSON, using raw prefixes")
+        return {}
+
+
 def generate_markdown_table(index: Dict) -> str:
     """
     Generate markdown table representation of repositories.
+    Groups repos by prefix (first word before hyphen) in collapsible sections.
     """
+    exhibit_names = get_exhibit_display_names()
     lines = []
     lines.append("# Organization Repository Index\n")
     lines.append(f"**Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
     lines.append(f"**Total Repositories:** {index['total_repos']}\n")
     lines.append("")
     
-    # Table of contents
-    lines.append("## Summary by Status\n")
-    for status in sorted(index["by_status"].keys()):
-        count = len(index["by_status"][status])
-        lines.append(f"- **{status}**: {count} repos")
-    lines.append("")
-    
-    # Generate tables by status
-    for status in ["Active", "Maintenance", "Dormant", "Archived"]:
-        if status not in index["by_status"] or not index["by_status"][status]:
+    # Generate collapsible sections by exhibit/prefix
+    for exhibit in sorted(index["by_exhibit"].keys()):
+        repos_in_exhibit = [r for r in index["repos"] if r["exhibit"] == exhibit]
+        if not repos_in_exhibit:
             continue
         
-        lines.append(f"## {status} Projects\n")
-        lines.append("| Repo | Description | Language | Last Updated | Topics |")
-        lines.append("|------|-------------|----------|--------------|--------|")
+        display_name = exhibit_names.get(exhibit, exhibit)
+        lines.append(f"<details>")
+        lines.append(f"  <summary><strong>{display_name}</strong> ({len(repos_in_exhibit)} repos)</summary>\n")
+        lines.append("| Repo | Description | Language | Status | Last Updated |")
+        lines.append("|------|-------------|----------|--------|--------------|")
         
-        for repo in sorted(index["repos"], key=lambda x: x["name"]):
-            if repo["status"] != status:
-                continue
-            
+        for repo in sorted(repos_in_exhibit, key=lambda x: x["name"]):
             repo_link = f"[{repo['name']}]({repo['url']})"
             desc = (repo["description"] or "N/A").replace("|", "\\|")[:60]
             lang = repo["language"] or "N/A"
+            status = repo["status"]
             updated = repo["last_updated"][:10]  # YYYY-MM-DD
-            topics = ", ".join(repo["topics"][:3]) if repo["topics"] else "—"
             
-            lines.append(f"| {repo_link} | {desc} | {lang} | {updated} | {topics} |")
+            lines.append(f"| {repo_link} | {desc} | {lang} | {status} | {updated} |")
         
-        lines.append("")
-    
-    # Summary by exhibit
-    lines.append("## Repositories by Exhibit/Category\n")
-    for exhibit in sorted(index["by_exhibit"].keys()):
-        repos = index["by_exhibit"][exhibit]
-        lines.append(f"### {exhibit.upper()}\n")
-        for repo_name in sorted(repos):
-            repo = next(r for r in index["repos"] if r["name"] == repo_name)
-            lines.append(f"- [{repo_name}]({repo['url']}) — {repo['status']}")
-        lines.append("")
+        lines.append("\n</details>\n")
     
     return "\n".join(lines)
 
@@ -237,7 +235,7 @@ def main():
     # Generate markdown table
     print("[*] Generating markdown table...")
     markdown = generate_markdown_table(index)
-    output_md = "repos_table.md"
+    output_md = "../profile/README.md"
     with open(output_md, "w") as f:
         f.write(markdown)
     print(f"[✓] Saved {output_md}\n")

@@ -38,6 +38,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         ORG_NAME: ${{ github.repository_owner }}
+        EXHIBIT_NAMES: ${{ vars.EXHIBIT_NAMES }}
       run: |
         cd scripts
         python generate_index.py
