@@ -1,18 +1,9 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-17 13:22:11 UTC
+**Last Updated:** 2025-12-17 13:23:40 UTC
 
 **Total Repositories:** 37
 
-
-<details>
-  <summary><strong>achive</strong> (1 repos)</summary>
-
-| Repo | Description | Language | Status | Last Updated |
-|------|-------------|----------|--------|--------------|
-| [hbp](https://github.com/jerusalem-science-museum/achive-hbp) | N/A | Python | Active | 2025-12-17 |
-
-</details>
 
 <details>
   <summary><strong>Educational Workshops</strong> (1 repos)</summary>
@@ -72,11 +63,12 @@
 </details>
 
 <details>
-  <summary><strong>archive</strong> (1 repos)</summary>
+  <summary><strong>archive</strong> (2 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [ftc-connect-4-robot-legacy](https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2025-12-17 |
+| [hbp](https://github.com/jerusalem-science-museum/archive-hbp) | N/A | Python | Active | 2025-12-17 |
 
 </details>
 
