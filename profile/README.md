@@ -1,9 +1,18 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-17 12:33:51 UTC
+**Last Updated:** 2025-12-17 13:22:11 UTC
 
 **Total Repositories:** 37
 
+
+<details>
+  <summary><strong>achive</strong> (1 repos)</summary>
+
+| Repo | Description | Language | Status | Last Updated |
+|------|-------------|----------|--------|--------------|
+| [hbp](https://github.com/jerusalem-science-museum/achive-hbp) | N/A | Python | Active | 2025-12-17 |
+
+</details>
 
 <details>
   <summary><strong>Educational Workshops</strong> (1 repos)</summary>
@@ -72,7 +81,7 @@
 </details>
 
 <details>
-  <summary><strong>uncategorized</strong> (27 repos)</summary>
+  <summary><strong>uncategorized</strong> (26 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
@@ -85,7 +94,6 @@
 | [floating_balls](https://github.com/jerusalem-science-museum/floating_balls) | N/A | C++ | Dormant | 2022-08-02 |
 | [gargir](https://github.com/jerusalem-science-museum/gargir) | N/A | Python | Dormant | 2021-08-24 |
 | [graph_game](https://github.com/jerusalem-science-museum/graph_game) | N/A | Python | Dormant | 2021-10-27 |
-| [hbp](https://github.com/jerusalem-science-museum/hbp) | N/A | Python | Dormant | 2021-08-24 |
 | [hbp_doctor_scan](https://github.com/jerusalem-science-museum/hbp_doctor_scan) | HBP Doctor Scan- MRI and CT exams simulator | C++ | Dormant | 2019-08-03 |
 | [hbp_led_ring](https://github.com/jerusalem-science-museum/hbp_led_ring) | HBP LED Ring- 768x16 ring LED display | N/A | Dormant | 2019-08-03 |
 | [hbp_neuron](https://github.com/jerusalem-science-museum/hbp_neuron) | HBP Neuron- LED  illuminated  neuron table | Python | Dormant | 2019-09-13 |
