@@ -73,8 +73,9 @@ jobs:
         if git diff --quiet; then
           echo "No changes to commit"
         else
-          git add README.md scripts/repos_inventory.json scripts/repos_table.md
+          git add README.md scripts/repos_inventory.json profile/README.md
           git commit -m "Update repository index [automated]"
+          git pull --rebase
           git push
         fi
     
