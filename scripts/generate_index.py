@@ -200,7 +200,11 @@ def generate_markdown_table(index: Dict) -> str:
         lines.append("|------|-------------|----------|--------|--------------|")
         
         for repo in sorted(repos_in_exhibit, key=lambda x: x["name"].lower()):
-            repo_link = f"[{repo['name']}]({repo['url']})"
+            # Remove the category prefix from display name if it exists
+            display_repo_name = repo['name']
+            if "-" in display_repo_name and display_repo_name.split("-")[0] == exhibit:
+                display_repo_name = "-".join(display_repo_name.split("-")[1:])
+            repo_link = f"[{display_repo_name}]({repo['url']})"
             desc = (repo["description"] or "N/A").replace("|", "\\|")[:60]
             lang = repo["language"] or "N/A"
             status = repo["status"]
