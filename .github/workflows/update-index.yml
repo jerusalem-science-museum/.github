@@ -34,6 +34,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
     
+    - name: Pull latest changes
+      run: git pull
+    
     - name: Generate repository index
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -75,7 +78,6 @@ jobs:
         else
           git add README.md scripts/repos_inventory.json profile/README.md
           git commit -m "Update repository index [automated]"
-          git pull --rebase
           git push
         fi
     
