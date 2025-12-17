@@ -1,8 +1,11 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-17 15:18:34 UTC
+**Last Updated:** 2025-12-17 15:28:20 UTC
 
-**Total Repositories:** 76
+**Total Repositories:** 77
+
+
+📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
 
 
 <details>
@@ -171,12 +174,13 @@
 </details>
 
 <details>
-  <summary><strong>uncategorized</strong> (7 repos)</summary>
+  <summary><strong>uncategorized</strong> (8 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | PowerShell | Active | 2025-12-17 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Active | 2025-12-17 |
+| [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2025-12-17 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Active | 2025-12-17 |
 | [linux_utils](https://github.com/jerusalem-science-museum/linux_utils) | My common raspbian and ubuntu commands | N/A | Dormant | 2019-10-12 |
 | [toddlers-dept](https://github.com/jerusalem-science-museum/toddlers-dept) | N/A | N/A | Active | 2025-12-17 |
