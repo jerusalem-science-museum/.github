@@ -1,12 +1,12 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-17 12:18:24 UTC
+**Last Updated:** 2025-12-17 12:26:27 UTC
 
 **Total Repositories:** 37
 
 
 <details>
-  <summary><strong>edu</strong> (1 repos)</summary>
+  <summary><strong>Educational Workshops</strong> (1 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary><strong>ext</strong> (1 repos)</summary>
+  <summary><strong>External Exhibitions (not displayed in the museum)</strong> (1 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
