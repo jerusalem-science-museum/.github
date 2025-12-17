@@ -34,7 +34,7 @@ A GitHub Actions workflow runs weekly (and on push) to:
 ## Configuration
 
 ### Exhibit Display Names
-Category prefixes can be mapped to friendly display names via the **organization variable** `EXHIBIT_NAMES` in GitHub Settings → Secrets and variables → Actions → Variables.
+Category prefixes can be mapped to friendly display names via the **organization variable** `EXHIBIT_NAMES` in [GitHub Settings → Secrets and variables → Actions → Variables](https://github.com/jerusalem-science-museum/.github/settings/variables/actions/EXHIBIT_NAMES).
 
 Format (single-line JSON):
 ```json
