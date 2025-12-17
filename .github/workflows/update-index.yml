@@ -55,7 +55,7 @@ jobs:
         if git diff --quiet; then
           echo "No changes to commit"
         else
-          git add profile/README.md
+          git add profile/README.md repos_inventory.json
           git commit -m "Update repository index [automated]"
           git push
         fi

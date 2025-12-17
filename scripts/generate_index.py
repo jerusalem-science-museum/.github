@@ -248,6 +248,12 @@ def main():
     index = build_repo_index(repos, valid_prefixes)
     print(f"[✓] Index built\n")
     
+    # Save JSON inventory to main directory (parent of scripts)
+    output_json = "../repos_inventory.json"
+    with open(output_json, "w") as f:
+        json.dump(index, f, indent=2)
+    print(f"[✓] Saved {output_json}\n")
+    
     # Generate markdown table
     print("[*] Generating markdown table...")
     markdown = generate_markdown_table(index)
