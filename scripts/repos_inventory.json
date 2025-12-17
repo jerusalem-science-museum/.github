@@ -1,13 +1,20 @@
 {
-  "generated_at": "2025-12-03T13:20:32.457475",
-  "total_repos": 30,
+  "generated_at": "2025-12-17T11:43:51.680926",
+  "total_repos": 37,
   "by_status": {
     "Active": [
-      ".github"
+      ".github",
+      "archive-ftc-connect-4-robot-legacy",
+      "edu-photochromic-manipulator",
+      "ext-ariel-powers-of-10",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-gatorade-water-drawings",
+      "space-rfid-what-to-take",
+      "space-what-would-you-take"
     ],
     "Dormant": [
       "ScientistsCompetition",
-      "ScientistsCompetitionV2",
       "Spherical-Laser-Projector",
       "TwinsGuessGame",
       "captcha_camera",
@@ -41,7 +48,6 @@
     "uncategorized": [
       ".github",
       "ScientistsCompetition",
-      "ScientistsCompetitionV2",
       "TwinsGuessGame",
       "captcha_camera",
       "catch_game",
@@ -68,6 +74,24 @@
       "smart_romba",
       "swim_simulator"
     ],
+    "ftc": [
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-gatorade-water-drawings"
+    ],
+    "archive": [
+      "archive-ftc-connect-4-robot-legacy"
+    ],
+    "edu": [
+      "edu-photochromic-manipulator"
+    ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-what-would-you-take"
+    ],
+    "ext": [
+      "ext-ariel-powers-of-10"
+    ],
     "second": [
       "second-incarnation"
     ],
@@ -83,10 +107,130 @@
       "status": "Active",
       "exhibit": "uncategorized",
       "archived": false,
-      "language": null,
+      "language": "Python",
       "topics": [],
-      "last_updated": "2025-12-03T11:04:57Z",
+      "last_updated": "2025-12-17T11:43:42Z",
       "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-cartesian-polar-plotters",
+      "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
+      "description": "moving polar and cartesian 2D plotter positions systems",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2025-12-17T10:24:32Z",
+      "created_at": "2025-09-11T18:32:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "archive-ftc-connect-4-robot-legacy",
+      "url": "https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy",
+      "description": "An Elephant robotics arm that plays Connect 4 against a visitor.",
+      "status": "Active",
+      "exhibit": "archive",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-17T10:18:48Z",
+      "created_at": "2025-11-23T09:03:23Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-connect-4-robot",
+      "url": "https://github.com/jerusalem-science-museum/ftc-connect-4-robot",
+      "description": "An Elephant robotics arm that plays Connect 4 against a visitor.",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2025-12-17T10:16:59Z",
+      "created_at": "2025-11-24T11:07:39Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "edu-photochromic-manipulator",
+      "url": "https://github.com/jerusalem-science-museum/edu-photochromic-manipulator",
+      "description": "Photochromic Manipulator - a kit that use five bar mechanism to draw on a photochromic paper!",
+      "status": "Active",
+      "exhibit": "edu",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-17T10:16:00Z",
+      "created_at": "2025-08-11T09:25:26Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": true
+    },
+    {
+      "name": "space-rfid-what-to-take",
+      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
+      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-17T10:15:36Z",
+      "created_at": "2025-12-14T16:40:03Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-what-would-you-take",
+      "url": "https://github.com/jerusalem-science-museum/space-what-would-you-take",
+      "description": "a simple interactive voting board to see what visitors would take to space",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-17T10:15:14Z",
+      "created_at": "2025-12-10T12:14:41Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ext-ariel-powers-of-10",
+      "url": "https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10",
+      "description": "changup of the original powers of ten video for Ariel Uni purposes.",
+      "status": "Active",
+      "exhibit": "ext",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-17T10:14:29Z",
+      "created_at": "2025-11-05T12:23:07Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-gatorade-water-drawings",
+      "url": "https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings",
+      "description": "a simpler version of the gatorade running man from water drops commercial.",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-17T10:11:18Z",
+      "created_at": "2025-11-05T13:52:58Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -417,21 +561,6 @@
       "topics": [],
       "last_updated": "2021-08-24T08:00:28Z",
       "created_at": "2021-08-24T07:53:31Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "ScientistsCompetitionV2",
-      "url": "https://github.com/jerusalem-science-museum/ScientistsCompetitionV2",
-      "description": null,
-      "status": "Dormant",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": null,
-      "topics": [],
-      "last_updated": "2021-08-24T07:52:01Z",
-      "created_at": "2021-08-24T07:52:01Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
