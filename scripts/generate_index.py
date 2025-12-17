@@ -179,7 +179,16 @@ def generate_markdown_table(index: Dict) -> str:
     lines.append("")
     
     # Generate collapsible sections by exhibit/prefix
-    for exhibit in sorted(index["by_exhibit"].keys()):
+    # Sort exhibits alphabetically (case-insensitive), but put "uncategorized" and "archive" at the end
+    def exhibit_sort_key(e):
+        if e.lower() == "uncategorized":
+            return (2, e.lower())
+        elif e.lower() == "archive":
+            return (1, e.lower())
+        else:
+            return (0, e.lower())
+    
+    for exhibit in sorted(index["by_exhibit"].keys(), key=exhibit_sort_key):
         repos_in_exhibit = [r for r in index["repos"] if r["exhibit"] == exhibit]
         if not repos_in_exhibit:
             continue
@@ -190,7 +199,7 @@ def generate_markdown_table(index: Dict) -> str:
         lines.append("| Repo | Description | Language | Status | Last Updated |")
         lines.append("|------|-------------|----------|--------|--------------|")
         
-        for repo in sorted(repos_in_exhibit, key=lambda x: x["name"]):
+        for repo in sorted(repos_in_exhibit, key=lambda x: x["name"].lower()):
             repo_link = f"[{repo['name']}]({repo['url']})"
             desc = (repo["description"] or "N/A").replace("|", "\\|")[:60]
             lang = repo["language"] or "N/A"
