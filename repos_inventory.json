@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T19:19:07.371111",
+  "generated_at": "2025-12-21T12:45:29.827442",
   "total_repos": 77,
   "by_status": {
     "Active": [
@@ -66,6 +66,7 @@
       "ftc-lazer-drawing",
       "ftc-photogrammetry",
       "ftc-photopolymer",
+      "ftc-shoes-ai",
       "ftf-water-meter-card",
       "illusions-aims",
       "illusions-illusions",
@@ -80,20 +81,74 @@
       "train_outside"
     ],
     "Dormant": [
-      "TwinsGuessGame",
-      "linux_utils"
+      "TwinsGuessGame"
     ]
   },
   "by_exhibit": {
+    "ftc": [
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-drawing-on-the-wall",
+      "ftc-droping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
+    ],
     "uncategorized": [
       ".github",
       "TwinsGuessGame",
       "bernoli-wind",
       "electronic-harp",
       "flashlight-in-the-dark",
-      "linux_utils",
       "toddlers-dept",
       "train_outside"
+    ],
+    "leonardo": [
+      "leonardo-browser",
+      "leonardo-flying-wings",
+      "leonardo-timeline",
+      "leonardo-train-inside"
+    ],
+    "energy": [
+      "energy-acceleration-circuit",
+      "energy-air-pressure",
+      "energy-chliran",
+      "energy-cold-hot",
+      "energy-energy-from-the-wind",
+      "energy-generator",
+      "energy-heating-wires",
+      "energy-horsepower",
+      "energy-how-the-sun-sets-things-in-motion",
+      "energy-hydroflame",
+      "energy-hydrogen-rocket",
+      "energy-incondescent-vs-led",
+      "energy-jumping-ring",
+      "energy-light-a-fire",
+      "energy-log-python",
+      "energy-motor",
+      "energy-pendulum",
+      "energy-transformator"
+    ],
+    "ext": [
+      "ext-ariel-acceleration-circuit",
+      "ext-ariel-flashlight",
+      "ext-ariel-jumping-ring",
+      "ext-ariel-multimedia",
+      "ext-ariel-particle-excelerator",
+      "ext-ariel-powers-of-10",
+      "ext-ariel-wigler"
+    ],
+    "illusions": [
+      "illusions-aims",
+      "illusions-illusions",
+      "illusions-no-code-projects"
+    ],
+    "edu": [
+      "edu-monorepo",
+      "edu-photochromic-manipulator",
+      "edu-scientists-competition"
     ],
     "archive": [
       "archive-agriculture-gargir",
@@ -118,67 +173,12 @@
       "arad-smart-romba",
       "arad-spherical-laser-projector"
     ],
-    "edu": [
-      "edu-monorepo",
-      "edu-photochromic-manipulator",
-      "edu-scientists-competition"
-    ],
-    "ext": [
-      "ext-ariel-acceleration-circuit",
-      "ext-ariel-flashlight",
-      "ext-ariel-jumping-ring",
-      "ext-ariel-multimedia",
-      "ext-ariel-particle-excelerator",
-      "ext-ariel-powers-of-10",
-      "ext-ariel-wigler"
-    ],
-    "leonardo": [
-      "leonardo-browser",
-      "leonardo-flying-wings",
-      "leonardo-timeline",
-      "leonardo-train-inside"
-    ],
-    "illusions": [
-      "illusions-aims",
-      "illusions-illusions",
-      "illusions-no-code-projects"
-    ],
     "dl": [
       "dl-catch-game",
       "dl-catch-game-simulator"
     ],
     "ftf": [
       "ftf-water-meter-card"
-    ],
-    "ftc": [
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-drawing-on-the-wall",
-      "ftc-droping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer"
-    ],
-    "energy": [
-      "energy-acceleration-circuit",
-      "energy-air-pressure",
-      "energy-chliran",
-      "energy-cold-hot",
-      "energy-energy-from-the-wind",
-      "energy-generator",
-      "energy-heating-wires",
-      "energy-horsepower",
-      "energy-how-the-sun-sets-things-in-motion",
-      "energy-hydroflame",
-      "energy-hydrogen-rocket",
-      "energy-incondescent-vs-led",
-      "energy-jumping-ring",
-      "energy-light-a-fire",
-      "energy-log-python",
-      "energy-motor",
-      "energy-pendulum",
-      "energy-transformator"
     ],
     "bear": [
       "bear-bear-eyes",
@@ -191,16 +191,121 @@
   },
   "repos": [
     {
+      "name": "ftc-shoes-ai",
+      "url": "https://github.com/jerusalem-science-museum/ftc-shoes-ai",
+      "description": null,
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "Shell",
+      "topics": [],
+      "last_updated": "2025-12-21T12:42:39Z",
+      "created_at": "2025-12-21T12:35:40Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": ".github",
       "url": "https://github.com/jerusalem-science-museum/.github",
       "description": "main index of repos in the museum",
       "status": "Active",
       "exhibit": "uncategorized",
       "archived": false,
-      "language": "PowerShell",
+      "language": "Python",
       "topics": [],
-      "last_updated": "2025-12-17T19:18:59Z",
+      "last_updated": "2025-12-21T11:47:58Z",
       "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "leonardo-train-inside",
+      "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
+      "description": null,
+      "status": "Active",
+      "exhibit": "leonardo",
+      "archived": false,
+      "language": null,
+      "topics": [],
+      "last_updated": "2025-12-21T11:33:03Z",
+      "created_at": "2025-12-17T14:28:54Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-motor",
+      "url": "https://github.com/jerusalem-science-museum/energy-motor",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2025-12-21T11:32:53Z",
+      "created_at": "2025-12-17T14:26:46Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "leonardo-timeline",
+      "url": "https://github.com/jerusalem-science-museum/leonardo-timeline",
+      "description": null,
+      "status": "Active",
+      "exhibit": "leonardo",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-21T10:00:18Z",
+      "created_at": "2021-08-24T07:48:43Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ext-ariel-particle-excelerator",
+      "url": "https://github.com/jerusalem-science-museum/ext-ariel-particle-excelerator",
+      "description": "Particle Excelerator exhibition for Ariel university.",
+      "status": "Active",
+      "exhibit": "ext",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2025-12-21T09:58:36Z",
+      "created_at": "2022-04-13T20:56:02Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "illusions-aims",
+      "url": "https://github.com/jerusalem-science-museum/illusions-aims",
+      "description": null,
+      "status": "Active",
+      "exhibit": "illusions",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-21T01:01:57Z",
+      "created_at": "2025-12-17T14:28:15Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "edu-monorepo",
+      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
+      "description": null,
+      "status": "Active",
+      "exhibit": "edu",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-20T23:10:15Z",
+      "created_at": "2025-12-17T14:24:02Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -353,36 +458,6 @@
       "created_at": "2021-11-24T19:48:05Z",
       "stars": 1,
       "forks": 1,
-      "is_fork": false
-    },
-    {
-      "name": "ext-ariel-particle-excelerator",
-      "url": "https://github.com/jerusalem-science-museum/ext-ariel-particle-excelerator",
-      "description": "Particle Excelerator exhibition for Ariel university.",
-      "status": "Active",
-      "exhibit": "ext",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2025-12-17T15:10:52Z",
-      "created_at": "2022-04-13T20:56:02Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "leonardo-timeline",
-      "url": "https://github.com/jerusalem-science-museum/leonardo-timeline",
-      "description": null,
-      "status": "Active",
-      "exhibit": "leonardo",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T15:10:27Z",
-      "created_at": "2021-08-24T07:48:43Z",
-      "stars": 0,
-      "forks": 0,
       "is_fork": false
     },
     {
@@ -686,21 +761,6 @@
       "is_fork": false
     },
     {
-      "name": "leonardo-train-inside",
-      "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
-      "description": null,
-      "status": "Active",
-      "exhibit": "leonardo",
-      "archived": false,
-      "language": null,
-      "topics": [],
-      "last_updated": "2025-12-17T14:29:02Z",
-      "created_at": "2025-12-17T14:28:54Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "leonardo-flying-wings",
       "url": "https://github.com/jerusalem-science-museum/leonardo-flying-wings",
       "description": null,
@@ -726,21 +786,6 @@
       "topics": [],
       "last_updated": "2025-12-17T14:28:48Z",
       "created_at": "2025-12-17T14:28:30Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "illusions-aims",
-      "url": "https://github.com/jerusalem-science-museum/illusions-aims",
-      "description": null,
-      "status": "Active",
-      "exhibit": "illusions",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T14:28:26Z",
-      "created_at": "2025-12-17T14:28:15Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -876,21 +921,6 @@
       "topics": [],
       "last_updated": "2025-12-17T14:27:09Z",
       "created_at": "2025-12-17T14:26:55Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-motor",
-      "url": "https://github.com/jerusalem-science-museum/energy-motor",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2025-12-17T14:26:54Z",
-      "created_at": "2025-12-17T14:26:46Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1121,21 +1151,6 @@
       "is_fork": false
     },
     {
-      "name": "edu-monorepo",
-      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
-      "description": null,
-      "status": "Active",
-      "exhibit": "edu",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T14:24:39Z",
-      "created_at": "2025-12-17T14:24:02Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "bernoli-wind",
       "url": "https://github.com/jerusalem-science-museum/bernoli-wind",
       "description": null,
@@ -1326,21 +1341,6 @@
       "topics": [],
       "last_updated": "2021-08-24T08:00:28Z",
       "created_at": "2021-08-24T07:53:31Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "linux_utils",
-      "url": "https://github.com/jerusalem-science-museum/linux_utils",
-      "description": "My common raspbian and ubuntu commands",
-      "status": "Dormant",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": null,
-      "topics": [],
-      "last_updated": "2019-10-12T20:39:54Z",
-      "created_at": "2019-10-12T17:20:46Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false

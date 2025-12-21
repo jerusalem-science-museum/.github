@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-17 19:19:07 UTC
+**Last Updated:** 2025-12-21 12:45:29 UTC
 
 **Total Repositories:** 77
 
@@ -48,7 +48,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Active | 2025-12-17 |
+| [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Active | 2025-12-20 |
 | [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Active | 2025-12-17 |
 | [scientists-competition](https://github.com/jerusalem-science-museum/edu-scientists-competition) | N/A | JavaScript | Active | 2025-12-17 |
 
@@ -74,7 +74,7 @@
 | [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Roff | Active | 2025-12-17 |
 | [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2025-12-17 |
 | [log-python](https://github.com/jerusalem-science-museum/energy-log-python) | N/A | Python | Active | 2025-12-17 |
-| [motor](https://github.com/jerusalem-science-museum/energy-motor) | N/A | C++ | Active | 2025-12-17 |
+| [motor](https://github.com/jerusalem-science-museum/energy-motor) | N/A | C++ | Active | 2025-12-21 |
 | [pendulum](https://github.com/jerusalem-science-museum/energy-pendulum) | N/A | C++ | Active | 2025-12-17 |
 | [transformator](https://github.com/jerusalem-science-museum/energy-transformator) | N/A | C | Active | 2025-12-17 |
 
@@ -89,14 +89,14 @@
 | [ariel-flashlight](https://github.com/jerusalem-science-museum/ext-ariel-flashlight) | N/A | N/A | Active | 2025-12-17 |
 | [ariel-jumping-ring](https://github.com/jerusalem-science-museum/ext-ariel-jumping-ring) | N/A | C | Active | 2025-12-17 |
 | [ariel-multimedia](https://github.com/jerusalem-science-museum/ext-ariel-multimedia) | N/A | C++ | Active | 2025-12-17 |
-| [ariel-particle-excelerator](https://github.com/jerusalem-science-museum/ext-ariel-particle-excelerator) | Particle Excelerator exhibition for Ariel university. | C++ | Active | 2025-12-17 |
+| [ariel-particle-excelerator](https://github.com/jerusalem-science-museum/ext-ariel-particle-excelerator) | Particle Excelerator exhibition for Ariel university. | C++ | Active | 2025-12-21 |
 | [ariel-powers-of-10](https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10) | changup of the original powers of ten video for Ariel Uni pu | Python | Active | 2025-12-17 |
 | [ariel-wigler](https://github.com/jerusalem-science-museum/ext-ariel-wigler) | N/A | C++ | Active | 2025-12-17 |
 
 </details>
 
 <details>
-  <summary><strong>Freedom to Create</strong> (8 repos)</summary>
+  <summary><strong>Freedom to Create</strong> (9 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
@@ -108,6 +108,7 @@
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2025-12-17 |
 | [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | N/A | C | Active | 2025-12-17 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Active | 2025-12-17 |
+| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | N/A | Shell | Active | 2025-12-21 |
 
 </details>
 
@@ -125,7 +126,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2025-12-17 |
+| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2025-12-21 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Active | 2025-12-17 |
 | [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Active | 2025-12-17 |
 
@@ -138,8 +139,8 @@
 |------|-------------|----------|--------|--------------|
 | [browser](https://github.com/jerusalem-science-museum/leonardo-browser) | N/A | Python | Active | 2025-12-17 |
 | [flying-wings](https://github.com/jerusalem-science-museum/leonardo-flying-wings) | N/A | N/A | Active | 2025-12-17 |
-| [timeline](https://github.com/jerusalem-science-museum/leonardo-timeline) | N/A | Python | Active | 2025-12-17 |
-| [train-inside](https://github.com/jerusalem-science-museum/leonardo-train-inside) | N/A | N/A | Active | 2025-12-17 |
+| [timeline](https://github.com/jerusalem-science-museum/leonardo-timeline) | N/A | Python | Active | 2025-12-21 |
+| [train-inside](https://github.com/jerusalem-science-museum/leonardo-train-inside) | N/A | N/A | Active | 2025-12-21 |
 
 </details>
 
@@ -174,15 +175,14 @@
 </details>
 
 <details>
-  <summary><strong>uncategorized</strong> (8 repos)</summary>
+  <summary><strong>uncategorized</strong> (7 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | PowerShell | Active | 2025-12-17 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2025-12-21 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Active | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2025-12-17 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Active | 2025-12-17 |
-| [linux_utils](https://github.com/jerusalem-science-museum/linux_utils) | My common raspbian and ubuntu commands | N/A | Dormant | 2019-10-12 |
 | [toddlers-dept](https://github.com/jerusalem-science-museum/toddlers-dept) | N/A | N/A | Active | 2025-12-17 |
 | [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Active | 2025-12-17 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
