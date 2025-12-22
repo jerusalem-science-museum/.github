@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T12:45:29.827442",
+  "generated_at": "2025-12-22T03:45:07.682805",
   "total_repos": 77,
   "by_status": {
     "Active": [
@@ -85,6 +85,15 @@
     ]
   },
   "by_exhibit": {
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
+    ],
     "ftc": [
       "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
@@ -95,15 +104,6 @@
       "ftc-photogrammetry",
       "ftc-photopolymer",
       "ftc-shoes-ai"
-    ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
     ],
     "leonardo": [
       "leonardo-browser",
@@ -191,6 +191,21 @@
   },
   "repos": [
     {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-21T12:45:34Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "ftc-shoes-ai",
       "url": "https://github.com/jerusalem-science-museum/ftc-shoes-ai",
       "description": null,
@@ -201,21 +216,6 @@
       "topics": [],
       "last_updated": "2025-12-21T12:42:39Z",
       "created_at": "2025-12-21T12:35:40Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-21T11:47:58Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
