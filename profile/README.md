@@ -1,8 +1,8 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-22 03:45:07 UTC
+**Last Updated:** 2025-12-29 03:51:29 UTC
 
-**Total Repositories:** 77
+**Total Repositories:** 78
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
@@ -18,7 +18,7 @@
 | [polarized-camera](https://github.com/jerusalem-science-museum/arad-polarized-camera) | N/A | Shell | Active | 2025-12-17 |
 | [rdworks-hack](https://github.com/jerusalem-science-museum/arad-rdworks-hack) | Automaticly approving RDWorks dialogs when uploading a file  | Python | Active | 2025-12-17 |
 | [scale-plot](https://github.com/jerusalem-science-museum/arad-scale-plot) | Graph showing the weight over time axis | Python | Active | 2025-12-17 |
-| [smart-romba](https://github.com/jerusalem-science-museum/arad-smart-romba) | N/A | Python | Active | 2025-12-17 |
+| [smart-romba](https://github.com/jerusalem-science-museum/arad-smart-romba) | N/A | Python | Active | 2025-12-24 |
 | [spherical-laser-projector](https://github.com/jerusalem-science-museum/arad-spherical-laser-projector) | A spherical laser projector with SVG support | N/A | Active | 2025-12-17 |
 
 </details>
@@ -108,7 +108,7 @@
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2025-12-17 |
 | [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | N/A | C | Active | 2025-12-17 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Active | 2025-12-17 |
-| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | N/A | Shell | Active | 2025-12-21 |
+| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | N/A | Shell | Active | 2025-12-24 |
 
 </details>
 
@@ -126,7 +126,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2025-12-21 |
+| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2025-12-24 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Active | 2025-12-17 |
 | [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Active | 2025-12-17 |
 
@@ -145,10 +145,11 @@
 </details>
 
 <details>
-  <summary><strong>Eitan Stiva Space Exhibition</strong> (2 repos)</summary>
+  <summary><strong>Eitan Stiva Space Exhibition</strong> (3 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
+| [multimedia](https://github.com/jerusalem-science-museum/space-multimedia) | N/A | N/A | Active | 2025-12-24 |
 | [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Active | 2025-12-17 |
 | [what-would-you-take](https://github.com/jerusalem-science-museum/space-what-would-you-take) | a simple interactive voting board to see what visitors would | Python | Active | 2025-12-17 |
 
@@ -179,7 +180,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2025-12-21 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2025-12-22 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Active | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2025-12-17 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Active | 2025-12-17 |

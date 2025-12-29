@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T03:45:07.682805",
-  "total_repos": 77,
+  "generated_at": "2025-12-29T03:51:29.078893",
+  "total_repos": 78,
   "by_status": {
     "Active": [
       ".github",
@@ -75,6 +75,7 @@
       "leonardo-flying-wings",
       "leonardo-timeline",
       "leonardo-train-inside",
+      "space-multimedia",
       "space-rfid-what-to-take",
       "space-what-would-you-take",
       "toddlers-dept",
@@ -85,14 +86,15 @@
     ]
   },
   "by_exhibit": {
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
+    "illusions": [
+      "illusions-aims",
+      "illusions-illusions",
+      "illusions-no-code-projects"
+    ],
+    "space": [
+      "space-multimedia",
+      "space-rfid-what-to-take",
+      "space-what-would-you-take"
     ],
     "ftc": [
       "ftc-cartesian-polar-plotters",
@@ -104,6 +106,24 @@
       "ftc-photogrammetry",
       "ftc-photopolymer",
       "ftc-shoes-ai"
+    ],
+    "arad": [
+      "arad-floating-balls",
+      "arad-interactive-selfie",
+      "arad-polarized-camera",
+      "arad-rdworks-hack",
+      "arad-scale-plot",
+      "arad-smart-romba",
+      "arad-spherical-laser-projector"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
     ],
     "leonardo": [
       "leonardo-browser",
@@ -140,11 +160,6 @@
       "ext-ariel-powers-of-10",
       "ext-ariel-wigler"
     ],
-    "illusions": [
-      "illusions-aims",
-      "illusions-illusions",
-      "illusions-no-code-projects"
-    ],
     "edu": [
       "edu-monorepo",
       "edu-photochromic-manipulator",
@@ -164,15 +179,6 @@
       "archive-time-to-move-swim-simulator",
       "archive-turing-captcha-camera"
     ],
-    "arad": [
-      "arad-floating-balls",
-      "arad-interactive-selfie",
-      "arad-polarized-camera",
-      "arad-rdworks-hack",
-      "arad-scale-plot",
-      "arad-smart-romba",
-      "arad-spherical-laser-projector"
-    ],
     "dl": [
       "dl-catch-game",
       "dl-catch-game-simulator"
@@ -183,24 +189,35 @@
     "bear": [
       "bear-bear-eyes",
       "bear-no-code-projects"
-    ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-what-would-you-take"
     ]
   },
   "repos": [
     {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
+      "name": "illusions-aims",
+      "url": "https://github.com/jerusalem-science-museum/illusions-aims",
+      "description": null,
       "status": "Active",
-      "exhibit": "uncategorized",
+      "exhibit": "illusions",
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2025-12-21T12:45:34Z",
-      "created_at": "2025-12-03T11:02:04Z",
+      "last_updated": "2025-12-24T19:23:28Z",
+      "created_at": "2025-12-22T12:22:35Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-multimedia",
+      "url": "https://github.com/jerusalem-science-museum/space-multimedia",
+      "description": null,
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": null,
+      "topics": [],
+      "last_updated": "2025-12-24T19:21:08Z",
+      "created_at": "2025-12-24T19:21:08Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -214,8 +231,38 @@
       "archived": false,
       "language": "Shell",
       "topics": [],
-      "last_updated": "2025-12-21T12:42:39Z",
+      "last_updated": "2025-12-24T14:22:21Z",
       "created_at": "2025-12-21T12:35:40Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "arad-smart-romba",
+      "url": "https://github.com/jerusalem-science-museum/arad-smart-romba",
+      "description": null,
+      "status": "Active",
+      "exhibit": "arad",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-24T14:20:40Z",
+      "created_at": "2021-11-26T13:35:44Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2025-12-22T03:45:11Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -281,21 +328,6 @@
       "is_fork": false
     },
     {
-      "name": "illusions-aims",
-      "url": "https://github.com/jerusalem-science-museum/illusions-aims",
-      "description": null,
-      "status": "Active",
-      "exhibit": "illusions",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-21T01:01:57Z",
-      "created_at": "2025-12-17T14:28:15Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "edu-monorepo",
       "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
       "description": null,
@@ -354,21 +386,6 @@
       "stars": 0,
       "forks": 0,
       "is_fork": true
-    },
-    {
-      "name": "arad-smart-romba",
-      "url": "https://github.com/jerusalem-science-museum/arad-smart-romba",
-      "description": null,
-      "status": "Active",
-      "exhibit": "arad",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T15:13:39Z",
-      "created_at": "2021-11-26T13:35:44Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
     },
     {
       "name": "archive-leonardo-selfie",
