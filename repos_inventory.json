@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T03:51:29.078893",
-  "total_repos": 78,
+  "generated_at": "2026-01-05T03:57:38.793461",
+  "total_repos": 79,
   "by_status": {
     "Active": [
       ".github",
@@ -49,6 +49,7 @@
       "energy-log-python",
       "energy-motor",
       "energy-pendulum",
+      "energy-skip-sceen",
       "energy-transformator",
       "ext-ariel-acceleration-circuit",
       "ext-ariel-flashlight",
@@ -75,8 +76,8 @@
       "leonardo-flying-wings",
       "leonardo-timeline",
       "leonardo-train-inside",
-      "space-multimedia",
       "space-rfid-what-to-take",
+      "space-skip-screen",
       "space-what-would-you-take",
       "toddlers-dept",
       "train_outside"
@@ -86,15 +87,45 @@
     ]
   },
   "by_exhibit": {
+    "space": [
+      "space-rfid-what-to-take",
+      "space-skip-screen",
+      "space-what-would-you-take"
+    ],
+    "energy": [
+      "energy-acceleration-circuit",
+      "energy-air-pressure",
+      "energy-chliran",
+      "energy-cold-hot",
+      "energy-energy-from-the-wind",
+      "energy-generator",
+      "energy-heating-wires",
+      "energy-horsepower",
+      "energy-how-the-sun-sets-things-in-motion",
+      "energy-hydroflame",
+      "energy-hydrogen-rocket",
+      "energy-incondescent-vs-led",
+      "energy-jumping-ring",
+      "energy-light-a-fire",
+      "energy-log-python",
+      "energy-motor",
+      "energy-pendulum",
+      "energy-skip-sceen",
+      "energy-transformator"
+    ],
     "illusions": [
       "illusions-aims",
       "illusions-illusions",
       "illusions-no-code-projects"
     ],
-    "space": [
-      "space-multimedia",
-      "space-rfid-what-to-take",
-      "space-what-would-you-take"
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
     ],
     "ftc": [
       "ftc-cartesian-polar-plotters",
@@ -116,40 +147,11 @@
       "arad-smart-romba",
       "arad-spherical-laser-projector"
     ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
-    ],
     "leonardo": [
       "leonardo-browser",
       "leonardo-flying-wings",
       "leonardo-timeline",
       "leonardo-train-inside"
-    ],
-    "energy": [
-      "energy-acceleration-circuit",
-      "energy-air-pressure",
-      "energy-chliran",
-      "energy-cold-hot",
-      "energy-energy-from-the-wind",
-      "energy-generator",
-      "energy-heating-wires",
-      "energy-horsepower",
-      "energy-how-the-sun-sets-things-in-motion",
-      "energy-hydroflame",
-      "energy-hydrogen-rocket",
-      "energy-incondescent-vs-led",
-      "energy-jumping-ring",
-      "energy-light-a-fire",
-      "energy-log-python",
-      "energy-motor",
-      "energy-pendulum",
-      "energy-transformator"
     ],
     "ext": [
       "ext-ariel-acceleration-circuit",
@@ -193,6 +195,51 @@
   },
   "repos": [
     {
+      "name": "space-rfid-what-to-take",
+      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
+      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-01-04T14:22:06Z",
+      "created_at": "2025-12-14T16:40:03Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-skip-screen",
+      "url": "https://github.com/jerusalem-science-museum/space-skip-screen",
+      "description": null,
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2025-12-29T13:40:55Z",
+      "created_at": "2025-12-24T19:21:08Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-skip-sceen",
+      "url": "https://github.com/jerusalem-science-museum/energy-skip-sceen",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2025-12-29T13:37:47Z",
+      "created_at": "2025-12-29T13:31:08Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "illusions-aims",
       "url": "https://github.com/jerusalem-science-museum/illusions-aims",
       "description": null,
@@ -201,23 +248,23 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2025-12-24T19:23:28Z",
+      "last_updated": "2025-12-29T13:17:44Z",
       "created_at": "2025-12-22T12:22:35Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
     },
     {
-      "name": "space-multimedia",
-      "url": "https://github.com/jerusalem-science-museum/space-multimedia",
-      "description": null,
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
       "status": "Active",
-      "exhibit": "space",
+      "exhibit": "uncategorized",
       "archived": false,
-      "language": null,
+      "language": "Python",
       "topics": [],
-      "last_updated": "2025-12-24T19:21:08Z",
-      "created_at": "2025-12-24T19:21:08Z",
+      "last_updated": "2025-12-29T03:51:32Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -248,21 +295,6 @@
       "topics": [],
       "last_updated": "2025-12-24T14:20:40Z",
       "created_at": "2021-11-26T13:35:44Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-22T03:45:11Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1286,21 +1318,6 @@
       "stars": 0,
       "forks": 0,
       "is_fork": true
-    },
-    {
-      "name": "space-rfid-what-to-take",
-      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
-      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T10:15:36Z",
-      "created_at": "2025-12-14T16:40:03Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
     },
     {
       "name": "space-what-would-you-take",

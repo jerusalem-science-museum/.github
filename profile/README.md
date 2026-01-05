@@ -1,8 +1,8 @@
 # Organization Repository Index
 
-**Last Updated:** 2025-12-29 03:51:29 UTC
+**Last Updated:** 2026-01-05 03:57:38 UTC
 
-**Total Repositories:** 78
+**Total Repositories:** 79
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary><strong>Energy</strong> (18 repos)</summary>
+  <summary><strong>Energy</strong> (19 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
@@ -76,6 +76,7 @@
 | [log-python](https://github.com/jerusalem-science-museum/energy-log-python) | N/A | Python | Active | 2025-12-17 |
 | [motor](https://github.com/jerusalem-science-museum/energy-motor) | N/A | C++ | Active | 2025-12-21 |
 | [pendulum](https://github.com/jerusalem-science-museum/energy-pendulum) | N/A | C++ | Active | 2025-12-17 |
+| [skip-sceen](https://github.com/jerusalem-science-museum/energy-skip-sceen) | N/A | C++ | Active | 2025-12-29 |
 | [transformator](https://github.com/jerusalem-science-museum/energy-transformator) | N/A | C | Active | 2025-12-17 |
 
 </details>
@@ -126,7 +127,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2025-12-24 |
+| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2025-12-29 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Active | 2025-12-17 |
 | [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Active | 2025-12-17 |
 
@@ -149,8 +150,8 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [multimedia](https://github.com/jerusalem-science-museum/space-multimedia) | N/A | N/A | Active | 2025-12-24 |
-| [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Active | 2025-12-17 |
+| [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Active | 2026-01-04 |
+| [skip-screen](https://github.com/jerusalem-science-museum/space-skip-screen) | N/A | C++ | Active | 2025-12-29 |
 | [what-would-you-take](https://github.com/jerusalem-science-museum/space-what-would-you-take) | a simple interactive voting board to see what visitors would | Python | Active | 2025-12-17 |
 
 </details>
@@ -180,7 +181,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2025-12-22 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2025-12-29 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Active | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2025-12-17 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Active | 2025-12-17 |
