@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T03:57:38.793461",
-  "total_repos": 79,
+  "generated_at": "2026-01-12T03:51:46.247864",
+  "total_repos": 80,
   "by_status": {
     "Active": [
       ".github",
@@ -80,7 +80,8 @@
       "space-skip-screen",
       "space-what-would-you-take",
       "toddlers-dept",
-      "train_outside"
+      "train_outside",
+      "what-would-you-take-to-space"
     ],
     "Dormant": [
       "TwinsGuessGame"
@@ -91,6 +92,27 @@
       "space-rfid-what-to-take",
       "space-skip-screen",
       "space-what-would-you-take"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside",
+      "what-would-you-take-to-space"
+    ],
+    "ftc": [
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-drawing-on-the-wall",
+      "ftc-droping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
     ],
     "energy": [
       "energy-acceleration-circuit",
@@ -117,26 +139,6 @@
       "illusions-aims",
       "illusions-illusions",
       "illusions-no-code-projects"
-    ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
-    ],
-    "ftc": [
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-drawing-on-the-wall",
-      "ftc-droping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
     ],
     "arad": [
       "arad-floating-balls",
@@ -195,21 +197,6 @@
   },
   "repos": [
     {
-      "name": "space-rfid-what-to-take",
-      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
-      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-01-04T14:22:06Z",
-      "created_at": "2025-12-14T16:40:03Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "space-skip-screen",
       "url": "https://github.com/jerusalem-science-museum/space-skip-screen",
       "description": null,
@@ -218,8 +205,68 @@
       "archived": false,
       "language": "C++",
       "topics": [],
-      "last_updated": "2025-12-29T13:40:55Z",
+      "last_updated": "2026-01-08T16:32:44Z",
       "created_at": "2025-12-24T19:21:08Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-rfid-what-to-take",
+      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
+      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-01-08T12:38:33Z",
+      "created_at": "2025-12-14T16:40:03Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "what-would-you-take-to-space",
+      "url": "https://github.com/jerusalem-science-museum/what-would-you-take-to-space",
+      "description": "a simple interactive voting board to see what visitors would take to space",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "CSS",
+      "topics": [],
+      "last_updated": "2026-01-08T09:53:14Z",
+      "created_at": "2026-01-06T14:16:55Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-cartesian-polar-plotters",
+      "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
+      "description": "moving polar and cartesian 2D plotter positions systems",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-01-05T12:28:34Z",
+      "created_at": "2025-09-11T18:32:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-01-05T03:57:42Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -250,21 +297,6 @@
       "topics": [],
       "last_updated": "2025-12-29T13:17:44Z",
       "created_at": "2025-12-22T12:22:35Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-29T03:51:32Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1255,21 +1287,6 @@
       "topics": [],
       "last_updated": "2025-12-17T13:23:17Z",
       "created_at": "2021-08-24T07:44:05Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "ftc-cartesian-polar-plotters",
-      "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
-      "description": "moving polar and cartesian 2D plotter positions systems",
-      "status": "Active",
-      "exhibit": "ftc",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2025-12-17T10:24:32Z",
-      "created_at": "2025-09-11T18:32:58Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
