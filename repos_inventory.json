@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T03:51:46.247864",
+  "generated_at": "2026-01-31T17:31:01.687394",
   "total_repos": 80,
   "by_status": {
     "Active": [
@@ -59,6 +59,7 @@
       "ext-ariel-powers-of-10",
       "ext-ariel-wigler",
       "flashlight-in-the-dark",
+      "ftc-WireBender-master",
       "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
       "ftc-drawing-on-the-wall",
@@ -78,10 +79,9 @@
       "leonardo-train-inside",
       "space-rfid-what-to-take",
       "space-skip-screen",
-      "space-what-would-you-take",
+      "space-what-would-you-take-to-space",
       "toddlers-dept",
-      "train_outside",
-      "what-would-you-take-to-space"
+      "train_outside"
     ],
     "Dormant": [
       "TwinsGuessGame"
@@ -91,19 +91,10 @@
     "space": [
       "space-rfid-what-to-take",
       "space-skip-screen",
-      "space-what-would-you-take"
-    ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside",
-      "what-would-you-take-to-space"
+      "space-what-would-you-take-to-space"
     ],
     "ftc": [
+      "ftc-WireBender-master",
       "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
       "ftc-drawing-on-the-wall",
@@ -113,6 +104,20 @@
       "ftc-photogrammetry",
       "ftc-photopolymer",
       "ftc-shoes-ai"
+    ],
+    "edu": [
+      "edu-monorepo",
+      "edu-photochromic-manipulator",
+      "edu-scientists-competition"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
     ],
     "energy": [
       "energy-acceleration-circuit",
@@ -164,11 +169,6 @@
       "ext-ariel-powers-of-10",
       "ext-ariel-wigler"
     ],
-    "edu": [
-      "edu-monorepo",
-      "edu-photochromic-manipulator",
-      "edu-scientists-competition"
-    ],
     "archive": [
       "archive-agriculture-gargir",
       "archive-ftc-connect-4-robot-legacy",
@@ -197,16 +197,46 @@
   },
   "repos": [
     {
-      "name": "space-skip-screen",
-      "url": "https://github.com/jerusalem-science-museum/space-skip-screen",
-      "description": null,
+      "name": "space-what-would-you-take-to-space",
+      "url": "https://github.com/jerusalem-science-museum/space-what-would-you-take-to-space",
+      "description": "a simple interactive voting board to see what visitors would take to space",
       "status": "Active",
       "exhibit": "space",
       "archived": false,
-      "language": "C++",
+      "language": "JavaScript",
       "topics": [],
-      "last_updated": "2026-01-08T16:32:44Z",
-      "created_at": "2025-12-24T19:21:08Z",
+      "last_updated": "2026-01-31T17:26:47Z",
+      "created_at": "2026-01-06T14:16:55Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-WireBender-master",
+      "url": "https://github.com/jerusalem-science-museum/ftc-WireBender-master",
+      "description": null,
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-01-26T12:31:25Z",
+      "created_at": "2026-01-25T14:07:51Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "edu-monorepo",
+      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
+      "description": null,
+      "status": "Active",
+      "exhibit": "edu",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-01-25T14:42:46Z",
+      "created_at": "2025-12-17T14:24:02Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -220,23 +250,38 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-01-08T12:38:33Z",
+      "last_updated": "2026-01-25T10:59:44Z",
       "created_at": "2025-12-14T16:40:03Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
     },
     {
-      "name": "what-would-you-take-to-space",
-      "url": "https://github.com/jerusalem-science-museum/what-would-you-take-to-space",
-      "description": "a simple interactive voting board to see what visitors would take to space",
+      "name": "space-skip-screen",
+      "url": "https://github.com/jerusalem-science-museum/space-skip-screen",
+      "description": null,
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-01-18T21:37:09Z",
+      "created_at": "2025-12-24T19:21:08Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
       "status": "Active",
       "exhibit": "uncategorized",
       "archived": false,
-      "language": "CSS",
+      "language": "Python",
       "topics": [],
-      "last_updated": "2026-01-08T09:53:14Z",
-      "created_at": "2026-01-06T14:16:55Z",
+      "last_updated": "2026-01-12T03:51:50Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -252,21 +297,6 @@
       "topics": [],
       "last_updated": "2026-01-05T12:28:34Z",
       "created_at": "2025-09-11T18:32:58Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-01-05T03:57:42Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -387,21 +417,6 @@
       "topics": [],
       "last_updated": "2025-12-21T09:58:36Z",
       "created_at": "2022-04-13T20:56:02Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "edu-monorepo",
-      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
-      "description": null,
-      "status": "Active",
-      "exhibit": "edu",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-20T23:10:15Z",
-      "created_at": "2025-12-17T14:24:02Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1335,21 +1350,6 @@
       "stars": 0,
       "forks": 0,
       "is_fork": true
-    },
-    {
-      "name": "space-what-would-you-take",
-      "url": "https://github.com/jerusalem-science-museum/space-what-would-you-take",
-      "description": "a simple interactive voting board to see what visitors would take to space",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T10:15:14Z",
-      "created_at": "2025-12-10T12:14:41Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
     },
     {
       "name": "ext-ariel-powers-of-10",
