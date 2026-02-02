@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-01-31 17:31:01 UTC
+**Last Updated:** 2026-02-02 04:26:12 UTC
 
 **Total Repositories:** 80
 
@@ -182,7 +182,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-01-12 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-01-31 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Active | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2025-12-17 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Active | 2025-12-17 |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T17:31:01.687394",
+  "generated_at": "2026-02-02T04:26:12.198097",
   "total_repos": 80,
   "by_status": {
     "Active": [
@@ -88,6 +88,15 @@
     ]
   },
   "by_exhibit": {
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
+    ],
     "space": [
       "space-rfid-what-to-take",
       "space-skip-screen",
@@ -109,15 +118,6 @@
       "edu-monorepo",
       "edu-photochromic-manipulator",
       "edu-scientists-competition"
-    ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
     ],
     "energy": [
       "energy-acceleration-circuit",
@@ -197,6 +197,21 @@
   },
   "repos": [
     {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-01-31T17:31:05Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "space-what-would-you-take-to-space",
       "url": "https://github.com/jerusalem-science-museum/space-what-would-you-take-to-space",
       "description": "a simple interactive voting board to see what visitors would take to space",
@@ -267,21 +282,6 @@
       "topics": [],
       "last_updated": "2026-01-18T21:37:09Z",
       "created_at": "2025-12-24T19:21:08Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-01-12T03:51:50Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
