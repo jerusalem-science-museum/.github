@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T04:26:12.198097",
-  "total_repos": 80,
+  "generated_at": "2026-02-09T04:29:02.224768",
+  "total_repos": 81,
   "by_status": {
     "Active": [
       ".github",
@@ -79,6 +79,7 @@
       "leonardo-train-inside",
       "space-rfid-what-to-take",
       "space-skip-screen",
+      "space-tv",
       "space-what-would-you-take-to-space",
       "toddlers-dept",
       "train_outside"
@@ -88,31 +89,11 @@
     ]
   },
   "by_exhibit": {
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
-    ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-skip-screen",
-      "space-what-would-you-take-to-space"
-    ],
-    "ftc": [
-      "ftc-WireBender-master",
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-drawing-on-the-wall",
-      "ftc-droping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
+    "leonardo": [
+      "leonardo-browser",
+      "leonardo-flying-wings",
+      "leonardo-timeline",
+      "leonardo-train-inside"
     ],
     "edu": [
       "edu-monorepo",
@@ -140,10 +121,46 @@
       "energy-skip-sceen",
       "energy-transformator"
     ],
+    "ext": [
+      "ext-ariel-acceleration-circuit",
+      "ext-ariel-flashlight",
+      "ext-ariel-jumping-ring",
+      "ext-ariel-multimedia",
+      "ext-ariel-particle-excelerator",
+      "ext-ariel-powers-of-10",
+      "ext-ariel-wigler"
+    ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-skip-screen",
+      "space-tv",
+      "space-what-would-you-take-to-space"
+    ],
+    "ftc": [
+      "ftc-WireBender-master",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-drawing-on-the-wall",
+      "ftc-droping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
+    ],
     "illusions": [
       "illusions-aims",
       "illusions-illusions",
       "illusions-no-code-projects"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
     ],
     "arad": [
       "arad-floating-balls",
@@ -153,21 +170,6 @@
       "arad-scale-plot",
       "arad-smart-romba",
       "arad-spherical-laser-projector"
-    ],
-    "leonardo": [
-      "leonardo-browser",
-      "leonardo-flying-wings",
-      "leonardo-timeline",
-      "leonardo-train-inside"
-    ],
-    "ext": [
-      "ext-ariel-acceleration-circuit",
-      "ext-ariel-flashlight",
-      "ext-ariel-jumping-ring",
-      "ext-ariel-multimedia",
-      "ext-ariel-particle-excelerator",
-      "ext-ariel-powers-of-10",
-      "ext-ariel-wigler"
     ],
     "archive": [
       "archive-agriculture-gargir",
@@ -197,6 +199,126 @@
   },
   "repos": [
     {
+      "name": "leonardo-train-inside",
+      "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
+      "description": null,
+      "status": "Active",
+      "exhibit": "leonardo",
+      "archived": false,
+      "language": null,
+      "topics": [],
+      "last_updated": "2026-02-08T22:52:36Z",
+      "created_at": "2025-12-17T14:28:54Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "edu-monorepo",
+      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
+      "description": null,
+      "status": "Active",
+      "exhibit": "edu",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-08T22:34:31Z",
+      "created_at": "2025-12-17T14:24:02Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-horsepower",
+      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-02-08T18:37:56Z",
+      "created_at": "2025-12-17T14:25:40Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ext-ariel-powers-of-10",
+      "url": "https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10",
+      "description": "changup of the original powers of ten video for Ariel Uni purposes.",
+      "status": "Active",
+      "exhibit": "ext",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-05T10:33:09Z",
+      "created_at": "2025-11-05T12:23:07Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-rfid-what-to-take",
+      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
+      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-03T16:39:02Z",
+      "created_at": "2025-12-14T16:40:03Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-tv",
+      "url": "https://github.com/jerusalem-science-museum/space-tv",
+      "description": "automation for tvs in space exhibition (turn on automatically)",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-02-03T16:38:35Z",
+      "created_at": "2026-02-03T16:27:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-gatorade-water-drawings",
+      "url": "https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings",
+      "description": "a simpler version of the gatorade running man from water drops commercial.",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-03T10:29:57Z",
+      "created_at": "2025-11-05T13:52:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "illusions-illusions",
+      "url": "https://github.com/jerusalem-science-museum/illusions-illusions",
+      "description": null,
+      "status": "Active",
+      "exhibit": "illusions",
+      "archived": false,
+      "language": "PLSQL",
+      "topics": [],
+      "last_updated": "2026-02-02T12:43:44Z",
+      "created_at": "2021-08-24T07:49:22Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": ".github",
       "url": "https://github.com/jerusalem-science-museum/.github",
       "description": "main index of repos in the museum",
@@ -205,7 +327,7 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-01-31T17:31:05Z",
+      "last_updated": "2026-02-02T04:26:16Z",
       "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
@@ -237,36 +359,6 @@
       "topics": [],
       "last_updated": "2026-01-26T12:31:25Z",
       "created_at": "2026-01-25T14:07:51Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "edu-monorepo",
-      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
-      "description": null,
-      "status": "Active",
-      "exhibit": "edu",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-01-25T14:42:46Z",
-      "created_at": "2025-12-17T14:24:02Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "space-rfid-what-to-take",
-      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
-      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-01-25T10:59:44Z",
-      "created_at": "2025-12-14T16:40:03Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -357,21 +449,6 @@
       "topics": [],
       "last_updated": "2025-12-24T14:20:40Z",
       "created_at": "2021-11-26T13:35:44Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "leonardo-train-inside",
-      "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
-      "description": null,
-      "status": "Active",
-      "exhibit": "leonardo",
-      "archived": false,
-      "language": null,
-      "topics": [],
-      "last_updated": "2025-12-21T11:33:03Z",
-      "created_at": "2025-12-17T14:28:54Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -582,21 +659,6 @@
       "topics": [],
       "last_updated": "2025-12-17T15:09:50Z",
       "created_at": "2022-04-02T03:38:46Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "illusions-illusions",
-      "url": "https://github.com/jerusalem-science-museum/illusions-illusions",
-      "description": null,
-      "status": "Active",
-      "exhibit": "illusions",
-      "archived": false,
-      "language": "PLSQL",
-      "topics": [],
-      "last_updated": "2025-12-17T15:09:25Z",
-      "created_at": "2021-08-24T07:49:22Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1127,21 +1189,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-horsepower",
-      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2025-12-17T14:25:50Z",
-      "created_at": "2025-12-17T14:25:40Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-heating-wires",
       "url": "https://github.com/jerusalem-science-museum/energy-heating-wires",
       "description": null,
@@ -1350,36 +1397,6 @@
       "stars": 0,
       "forks": 0,
       "is_fork": true
-    },
-    {
-      "name": "ext-ariel-powers-of-10",
-      "url": "https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10",
-      "description": "changup of the original powers of ten video for Ariel Uni purposes.",
-      "status": "Active",
-      "exhibit": "ext",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T10:14:29Z",
-      "created_at": "2025-11-05T12:23:07Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "ftc-gatorade-water-drawings",
-      "url": "https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings",
-      "description": "a simpler version of the gatorade running man from water drops commercial.",
-      "status": "Active",
-      "exhibit": "ftc",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T10:11:18Z",
-      "created_at": "2025-11-05T13:52:58Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
     },
     {
       "name": "TwinsGuessGame",
