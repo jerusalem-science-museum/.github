@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T04:29:02.224768",
-  "total_repos": 81,
+  "generated_at": "2026-02-10T14:17:32.614055",
+  "total_repos": 82,
   "by_status": {
     "Active": [
       ".github",
@@ -60,6 +60,7 @@
       "ext-ariel-wigler",
       "flashlight-in-the-dark",
       "ftc-WireBender-master",
+      "ftc-basicPoly",
       "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
       "ftc-drawing-on-the-wall",
@@ -89,16 +90,18 @@
     ]
   },
   "by_exhibit": {
-    "leonardo": [
-      "leonardo-browser",
-      "leonardo-flying-wings",
-      "leonardo-timeline",
-      "leonardo-train-inside"
-    ],
-    "edu": [
-      "edu-monorepo",
-      "edu-photochromic-manipulator",
-      "edu-scientists-competition"
+    "ftc": [
+      "ftc-WireBender-master",
+      "ftc-basicPoly",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-drawing-on-the-wall",
+      "ftc-droping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
     ],
     "energy": [
       "energy-acceleration-circuit",
@@ -121,6 +124,12 @@
       "energy-skip-sceen",
       "energy-transformator"
     ],
+    "leonardo": [
+      "leonardo-browser",
+      "leonardo-flying-wings",
+      "leonardo-timeline",
+      "leonardo-train-inside"
+    ],
     "ext": [
       "ext-ariel-acceleration-circuit",
       "ext-ariel-flashlight",
@@ -130,29 +139,6 @@
       "ext-ariel-powers-of-10",
       "ext-ariel-wigler"
     ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-skip-screen",
-      "space-tv",
-      "space-what-would-you-take-to-space"
-    ],
-    "ftc": [
-      "ftc-WireBender-master",
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-drawing-on-the-wall",
-      "ftc-droping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
-    ],
-    "illusions": [
-      "illusions-aims",
-      "illusions-illusions",
-      "illusions-no-code-projects"
-    ],
     "uncategorized": [
       ".github",
       "TwinsGuessGame",
@@ -161,6 +147,22 @@
       "flashlight-in-the-dark",
       "toddlers-dept",
       "train_outside"
+    ],
+    "edu": [
+      "edu-monorepo",
+      "edu-photochromic-manipulator",
+      "edu-scientists-competition"
+    ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-skip-screen",
+      "space-tv",
+      "space-what-would-you-take-to-space"
+    ],
+    "illusions": [
+      "illusions-aims",
+      "illusions-illusions",
+      "illusions-no-code-projects"
     ],
     "arad": [
       "arad-floating-balls",
@@ -199,6 +201,36 @@
   },
   "repos": [
     {
+      "name": "ftc-basicPoly",
+      "url": "https://github.com/jerusalem-science-museum/ftc-basicPoly",
+      "description": null,
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "JavaScript",
+      "topics": [],
+      "last_updated": "2026-02-10T14:16:28Z",
+      "created_at": "2026-02-10T13:51:39Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-air-pressure",
+      "url": "https://github.com/jerusalem-science-museum/energy-air-pressure",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-10T10:13:09Z",
+      "created_at": "2025-12-17T14:24:41Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "leonardo-train-inside",
       "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
       "description": null,
@@ -207,8 +239,143 @@
       "archived": false,
       "language": null,
       "topics": [],
-      "last_updated": "2026-02-08T22:52:36Z",
+      "last_updated": "2026-02-09T16:51:14Z",
       "created_at": "2025-12-17T14:28:54Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-pendulum",
+      "url": "https://github.com/jerusalem-science-museum/energy-pendulum",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-02-09T16:50:01Z",
+      "created_at": "2025-12-17T14:26:55Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-light-a-fire",
+      "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-09T16:49:42Z",
+      "created_at": "2025-12-17T14:26:33Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-jumping-ring",
+      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-09T16:49:27Z",
+      "created_at": "2025-12-17T14:26:25Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-hydrogen-rocket",
+      "url": "https://github.com/jerusalem-science-museum/energy-hydrogen-rocket",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-09T16:48:54Z",
+      "created_at": "2025-12-17T14:26:09Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-hydroflame",
+      "url": "https://github.com/jerusalem-science-museum/energy-hydroflame",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-02-09T16:42:28Z",
+      "created_at": "2025-12-17T14:25:59Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-horsepower",
+      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-02-09T16:42:08Z",
+      "created_at": "2025-12-17T14:25:40Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-chliran",
+      "url": "https://github.com/jerusalem-science-museum/energy-chliran",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-02-09T16:41:35Z",
+      "created_at": "2025-12-17T14:24:50Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ext-ariel-powers-of-10",
+      "url": "https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10",
+      "description": "changup of the original powers of ten video for Ariel Uni purposes.",
+      "status": "Active",
+      "exhibit": "ext",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-09T09:09:35Z",
+      "created_at": "2025-11-05T12:23:07Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-09T04:29:06Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -224,36 +391,6 @@
       "topics": [],
       "last_updated": "2026-02-08T22:34:31Z",
       "created_at": "2025-12-17T14:24:02Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-horsepower",
-      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2026-02-08T18:37:56Z",
-      "created_at": "2025-12-17T14:25:40Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "ext-ariel-powers-of-10",
-      "url": "https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10",
-      "description": "changup of the original powers of ten video for Ariel Uni purposes.",
-      "status": "Active",
-      "exhibit": "ext",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-05T10:33:09Z",
-      "created_at": "2025-11-05T12:23:07Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -314,21 +451,6 @@
       "topics": [],
       "last_updated": "2026-02-02T12:43:44Z",
       "created_at": "2021-08-24T07:49:22Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-02T04:26:16Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1069,21 +1191,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-pendulum",
-      "url": "https://github.com/jerusalem-science-museum/energy-pendulum",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2025-12-17T14:27:09Z",
-      "created_at": "2025-12-17T14:26:55Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-log-python",
       "url": "https://github.com/jerusalem-science-museum/energy-log-python",
       "description": null,
@@ -1099,36 +1206,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-light-a-fire",
-      "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T14:26:43Z",
-      "created_at": "2025-12-17T14:26:33Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-jumping-ring",
-      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Roff",
-      "topics": [],
-      "last_updated": "2025-12-17T14:26:35Z",
-      "created_at": "2025-12-17T14:26:25Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-incondescent-vs-led",
       "url": "https://github.com/jerusalem-science-museum/energy-incondescent-vs-led",
       "description": null,
@@ -1139,36 +1216,6 @@
       "topics": [],
       "last_updated": "2025-12-17T14:26:25Z",
       "created_at": "2025-12-17T14:26:17Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-hydrogen-rocket",
-      "url": "https://github.com/jerusalem-science-museum/energy-hydrogen-rocket",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T14:26:21Z",
-      "created_at": "2025-12-17T14:26:09Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-hydroflame",
-      "url": "https://github.com/jerusalem-science-museum/energy-hydroflame",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2025-12-17T14:26:08Z",
-      "created_at": "2025-12-17T14:25:59Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1244,36 +1291,6 @@
       "topics": [],
       "last_updated": "2025-12-17T14:25:04Z",
       "created_at": "2025-12-17T14:24:57Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-chliran",
-      "url": "https://github.com/jerusalem-science-museum/energy-chliran",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2025-12-17T14:25:01Z",
-      "created_at": "2025-12-17T14:24:50Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-air-pressure",
-      "url": "https://github.com/jerusalem-science-museum/energy-air-pressure",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Roff",
-      "topics": [],
-      "last_updated": "2025-12-17T14:24:52Z",
-      "created_at": "2025-12-17T14:24:41Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
