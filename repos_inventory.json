@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T14:17:32.614055",
+  "generated_at": "2026-02-16T04:27:23.631129",
   "total_repos": 82,
   "by_status": {
     "Active": [
@@ -90,19 +90,6 @@
     ]
   },
   "by_exhibit": {
-    "ftc": [
-      "ftc-WireBender-master",
-      "ftc-basicPoly",
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-drawing-on-the-wall",
-      "ftc-droping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
-    ],
     "energy": [
       "energy-acceleration-circuit",
       "energy-air-pressure",
@@ -124,6 +111,34 @@
       "energy-skip-sceen",
       "energy-transformator"
     ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-skip-screen",
+      "space-tv",
+      "space-what-would-you-take-to-space"
+    ],
+    "ftc": [
+      "ftc-WireBender-master",
+      "ftc-basicPoly",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-drawing-on-the-wall",
+      "ftc-droping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
+    ],
     "leonardo": [
       "leonardo-browser",
       "leonardo-flying-wings",
@@ -139,25 +154,10 @@
       "ext-ariel-powers-of-10",
       "ext-ariel-wigler"
     ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
-    ],
     "edu": [
       "edu-monorepo",
       "edu-photochromic-manipulator",
       "edu-scientists-competition"
-    ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-skip-screen",
-      "space-tv",
-      "space-what-would-you-take-to-space"
     ],
     "illusions": [
       "illusions-aims",
@@ -201,16 +201,121 @@
   },
   "repos": [
     {
+      "name": "energy-heating-wires",
+      "url": "https://github.com/jerusalem-science-museum/energy-heating-wires",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-02-15T18:36:37Z",
+      "created_at": "2025-12-17T14:25:32Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-hydroflame",
+      "url": "https://github.com/jerusalem-science-museum/energy-hydroflame",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-02-15T18:15:45Z",
+      "created_at": "2025-12-17T14:25:59Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-rfid-what-to-take",
+      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
+      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-15T09:46:34Z",
+      "created_at": "2025-12-14T16:40:03Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "ftc-basicPoly",
       "url": "https://github.com/jerusalem-science-museum/ftc-basicPoly",
-      "description": null,
+      "description": "3d objects with changing polygon counts",
       "status": "Active",
       "exhibit": "ftc",
       "archived": false,
       "language": "JavaScript",
       "topics": [],
-      "last_updated": "2026-02-10T14:16:28Z",
+      "last_updated": "2026-02-12T10:32:56Z",
       "created_at": "2026-02-10T13:51:39Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-log-python",
+      "url": "https://github.com/jerusalem-science-museum/energy-log-python",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-11T23:03:17Z",
+      "created_at": "2025-12-17T14:26:39Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-jumping-ring",
+      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-11T10:28:46Z",
+      "created_at": "2025-12-17T14:26:25Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-hydrogen-rocket",
+      "url": "https://github.com/jerusalem-science-museum/energy-hydrogen-rocket",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-11T10:28:26Z",
+      "created_at": "2025-12-17T14:26:09Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-horsepower",
+      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-02-11T10:28:10Z",
+      "created_at": "2025-12-17T14:25:40Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -224,8 +329,23 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-02-10T10:13:09Z",
+      "last_updated": "2026-02-11T10:27:42Z",
       "created_at": "2025-12-17T14:24:41Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-10T14:17:39Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -276,66 +396,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-jumping-ring",
-      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-09T16:49:27Z",
-      "created_at": "2025-12-17T14:26:25Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-hydrogen-rocket",
-      "url": "https://github.com/jerusalem-science-museum/energy-hydrogen-rocket",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-09T16:48:54Z",
-      "created_at": "2025-12-17T14:26:09Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-hydroflame",
-      "url": "https://github.com/jerusalem-science-museum/energy-hydroflame",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2026-02-09T16:42:28Z",
-      "created_at": "2025-12-17T14:25:59Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-horsepower",
-      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2026-02-09T16:42:08Z",
-      "created_at": "2025-12-17T14:25:40Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-chliran",
       "url": "https://github.com/jerusalem-science-museum/energy-chliran",
       "description": null,
@@ -366,21 +426,6 @@
       "is_fork": false
     },
     {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-09T04:29:06Z",
-      "created_at": "2025-12-03T11:02:04Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "edu-monorepo",
       "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
       "description": null,
@@ -391,21 +436,6 @@
       "topics": [],
       "last_updated": "2026-02-08T22:34:31Z",
       "created_at": "2025-12-17T14:24:02Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "space-rfid-what-to-take",
-      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
-      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-03T16:39:02Z",
-      "created_at": "2025-12-14T16:40:03Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1191,21 +1221,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-log-python",
-      "url": "https://github.com/jerusalem-science-museum/energy-log-python",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T14:26:49Z",
-      "created_at": "2025-12-17T14:26:39Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-incondescent-vs-led",
       "url": "https://github.com/jerusalem-science-museum/energy-incondescent-vs-led",
       "description": null,
@@ -1231,21 +1246,6 @@
       "topics": [],
       "last_updated": "2025-12-17T14:26:02Z",
       "created_at": "2025-12-17T14:25:49Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-heating-wires",
-      "url": "https://github.com/jerusalem-science-museum/energy-heating-wires",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2025-12-17T14:25:43Z",
-      "created_at": "2025-12-17T14:25:32Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
