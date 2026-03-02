@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T04:26:34.644344",
+  "generated_at": "2026-03-02T04:16:33.349196",
   "total_repos": 82,
   "by_status": {
     "Active": [
@@ -90,6 +90,34 @@
     ]
   },
   "by_exhibit": {
+    "ftc": [
+      "ftc-WireBender-master",
+      "ftc-basicPoly",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-drawing-on-the-wall",
+      "ftc-droping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
+    ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-skip-screen",
+      "space-tv",
+      "space-what-would-you-take-to-space"
+    ],
     "energy": [
       "energy-acceleration-circuit",
       "energy-air-pressure",
@@ -111,21 +139,6 @@
       "energy-skip-sceen",
       "energy-transformator"
     ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
-    ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-skip-screen",
-      "space-tv",
-      "space-what-would-you-take-to-space"
-    ],
     "leonardo": [
       "leonardo-browser",
       "leonardo-flying-wings",
@@ -136,19 +149,6 @@
       "illusions-aims",
       "illusions-illusions",
       "illusions-no-code-projects"
-    ],
-    "ftc": [
-      "ftc-WireBender-master",
-      "ftc-basicPoly",
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-drawing-on-the-wall",
-      "ftc-droping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
     ],
     "ext": [
       "ext-ariel-acceleration-circuit",
@@ -201,6 +201,66 @@
   },
   "repos": [
     {
+      "name": "ftc-basicPoly",
+      "url": "https://github.com/jerusalem-science-museum/ftc-basicPoly",
+      "description": "3d objects with changing polygon counts",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "JavaScript",
+      "topics": [],
+      "last_updated": "2026-02-25T09:18:19Z",
+      "created_at": "2026-02-10T13:51:39Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-cartesian-polar-plotters",
+      "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
+      "description": "moving polar and cartesian 2D plotter positions systems",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-02-24T09:09:15Z",
+      "created_at": "2025-09-11T18:32:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-23T12:29:47Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-rfid-what-to-take",
+      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
+      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-02-23T12:08:34Z",
+      "created_at": "2025-12-14T16:40:03Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "energy-transformator",
       "url": "https://github.com/jerusalem-science-museum/energy-transformator",
       "description": null,
@@ -231,21 +291,6 @@
       "is_fork": false
     },
     {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-19T13:25:09Z",
-      "created_at": "2025-12-03T11:02:04Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "space-what-would-you-take-to-space",
       "url": "https://github.com/jerusalem-science-museum/space-what-would-you-take-to-space",
       "description": "a simple interactive voting board to see what visitors would take to space",
@@ -256,21 +301,6 @@
       "topics": [],
       "last_updated": "2026-02-19T12:58:55Z",
       "created_at": "2026-01-06T14:16:55Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "space-rfid-what-to-take",
-      "url": "https://github.com/jerusalem-science-museum/space-rfid-what-to-take",
-      "description": "Interactive RFID-triggered image display system for museum exhibits. Maps RFID tags to images with automatic welcome screen and fullscreen display.",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-19T10:39:26Z",
-      "created_at": "2025-12-14T16:40:03Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -441,21 +471,6 @@
       "is_fork": false
     },
     {
-      "name": "ftc-basicPoly",
-      "url": "https://github.com/jerusalem-science-museum/ftc-basicPoly",
-      "description": "3d objects with changing polygon counts",
-      "status": "Active",
-      "exhibit": "ftc",
-      "archived": false,
-      "language": "JavaScript",
-      "topics": [],
-      "last_updated": "2026-02-12T10:32:56Z",
-      "created_at": "2026-02-10T13:51:39Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-jumping-ring",
       "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
       "description": null,
@@ -601,21 +616,6 @@
       "topics": [],
       "last_updated": "2026-01-18T21:37:09Z",
       "created_at": "2025-12-24T19:21:08Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "ftc-cartesian-polar-plotters",
-      "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
-      "description": "moving polar and cartesian 2D plotter positions systems",
-      "status": "Active",
-      "exhibit": "ftc",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2026-01-05T12:28:34Z",
-      "created_at": "2025-09-11T18:32:58Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
