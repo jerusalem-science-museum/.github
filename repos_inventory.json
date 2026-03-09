@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T04:16:33.349196",
+  "generated_at": "2026-03-09T04:20:21.605974",
   "total_repos": 82,
   "by_status": {
     "Active": [
@@ -90,6 +90,26 @@
     ]
   },
   "by_exhibit": {
+    "illusions": [
+      "illusions-aims",
+      "illusions-illusions",
+      "illusions-no-code-projects"
+    ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-skip-screen",
+      "space-tv",
+      "space-what-would-you-take-to-space"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
+    ],
     "ftc": [
       "ftc-WireBender-master",
       "ftc-basicPoly",
@@ -102,21 +122,6 @@
       "ftc-photogrammetry",
       "ftc-photopolymer",
       "ftc-shoes-ai"
-    ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
-    ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-skip-screen",
-      "space-tv",
-      "space-what-would-you-take-to-space"
     ],
     "energy": [
       "energy-acceleration-circuit",
@@ -144,11 +149,6 @@
       "leonardo-flying-wings",
       "leonardo-timeline",
       "leonardo-train-inside"
-    ],
-    "illusions": [
-      "illusions-aims",
-      "illusions-illusions",
-      "illusions-no-code-projects"
     ],
     "ext": [
       "ext-ariel-acceleration-circuit",
@@ -201,6 +201,51 @@
   },
   "repos": [
     {
+      "name": "illusions-aims",
+      "url": "https://github.com/jerusalem-science-museum/illusions-aims",
+      "description": null,
+      "status": "Active",
+      "exhibit": "illusions",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-03-08T16:43:17Z",
+      "created_at": "2025-12-22T12:22:35Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-tv",
+      "url": "https://github.com/jerusalem-science-museum/space-tv",
+      "description": "automation for tvs in space exhibition (turn on automatically)",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-03-08T07:37:38Z",
+      "created_at": "2026-02-03T16:27:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-03-02T04:16:37Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "ftc-basicPoly",
       "url": "https://github.com/jerusalem-science-museum/ftc-basicPoly",
       "description": "3d objects with changing polygon counts",
@@ -226,21 +271,6 @@
       "topics": [],
       "last_updated": "2026-02-24T09:09:15Z",
       "created_at": "2025-09-11T18:32:58Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-23T12:29:47Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -561,21 +591,6 @@
       "is_fork": false
     },
     {
-      "name": "space-tv",
-      "url": "https://github.com/jerusalem-science-museum/space-tv",
-      "description": "automation for tvs in space exhibition (turn on automatically)",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2026-02-03T16:38:35Z",
-      "created_at": "2026-02-03T16:27:58Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "ftc-gatorade-water-drawings",
       "url": "https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings",
       "description": "a simpler version of the gatorade running man from water drops commercial.",
@@ -631,21 +646,6 @@
       "topics": [],
       "last_updated": "2025-12-29T13:37:47Z",
       "created_at": "2025-12-29T13:31:08Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "illusions-aims",
-      "url": "https://github.com/jerusalem-science-museum/illusions-aims",
-      "description": null,
-      "status": "Active",
-      "exhibit": "illusions",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-29T13:17:44Z",
-      "created_at": "2025-12-22T12:22:35Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
