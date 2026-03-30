@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-03-23T04:30:37.795801",
+  "generated_at": "2026-03-30T04:47:02.661450",
   "total_repos": 83,
   "by_status": {
     "Active": [
       ".github",
-      "arad-smart-romba",
       "edu-monorepo",
       "energy-acceleration-circuit",
       "energy-air-pressure",
@@ -45,6 +44,7 @@
       "arad-polarized-camera",
       "arad-rdworks-hack",
       "arad-scale-plot",
+      "arad-smart-romba",
       "arad-spherical-laser-projector",
       "archive-agriculture-gargir",
       "archive-ftc-connect-4-robot-legacy",
@@ -93,6 +93,20 @@
     ]
   },
   "by_exhibit": {
+    "edu": [
+      "edu-monorepo",
+      "edu-photochromic-manipulator",
+      "edu-scientists-competition"
+    ],
+    "uncategorized": [
+      ".github",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "toddlers-dept",
+      "train_outside"
+    ],
     "illusions": [
       "illusions-aims",
       "illusions-illusions",
@@ -116,20 +130,6 @@
       "leonardo-flying-wings",
       "leonardo-timeline",
       "leonardo-train-inside"
-    ],
-    "edu": [
-      "edu-monorepo",
-      "edu-photochromic-manipulator",
-      "edu-scientists-competition"
-    ],
-    "uncategorized": [
-      ".github",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "toddlers-dept",
-      "train_outside"
     ],
     "space": [
       "space-rfid-what-to-take",
@@ -204,6 +204,51 @@
     ]
   },
   "repos": [
+    {
+      "name": "edu-monorepo",
+      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
+      "description": null,
+      "status": "Active",
+      "exhibit": "edu",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-03-29T21:16:29Z",
+      "created_at": "2025-12-17T14:24:02Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "train_outside",
+      "url": "https://github.com/jerusalem-science-museum/train_outside",
+      "description": null,
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-03-29T20:42:50Z",
+      "created_at": "2025-12-17T14:59:59Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-03-23T04:30:41Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
     {
       "name": "illusions-aims",
       "url": "https://github.com/jerusalem-science-museum/illusions-aims",
@@ -280,21 +325,6 @@
       "is_fork": false
     },
     {
-      "name": "edu-monorepo",
-      "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
-      "description": null,
-      "status": "Active",
-      "exhibit": "edu",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-03-16T22:23:05Z",
-      "created_at": "2025-12-17T14:24:02Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "leonardo-flying-wings",
       "url": "https://github.com/jerusalem-science-museum/leonardo-flying-wings",
       "description": null,
@@ -310,21 +340,6 @@
       "is_fork": false
     },
     {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-03-16T04:41:49Z",
-      "created_at": "2025-12-03T11:02:04Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "space-rotating_camera",
       "url": "https://github.com/jerusalem-science-museum/space-rotating_camera",
       "description": null,
@@ -335,21 +350,6 @@
       "topics": [],
       "last_updated": "2026-03-15T17:34:04Z",
       "created_at": "2026-03-15T17:27:06Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "train_outside",
-      "url": "https://github.com/jerusalem-science-museum/train_outside",
-      "description": null,
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2026-03-15T14:01:08Z",
-      "created_at": "2025-12-17T14:59:59Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -718,7 +718,7 @@
       "name": "arad-smart-romba",
       "url": "https://github.com/jerusalem-science-museum/arad-smart-romba",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "arad",
       "archived": false,
       "language": "Python",
