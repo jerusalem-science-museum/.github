@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T04:46:26.336009",
+  "generated_at": "2026-04-13T05:15:55.272998",
   "total_repos": 83,
   "by_status": {
     "Active": [
@@ -93,6 +93,31 @@
     ]
   },
   "by_exhibit": {
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside"
+    ],
+    "ext": [
+      "ext-ariel-acceleration-circuit",
+      "ext-ariel-flashlight",
+      "ext-ariel-jumping-ring",
+      "ext-ariel-multimedia",
+      "ext-ariel-particle-excelerator",
+      "ext-ariel-powers-of-10",
+      "ext-ariel-wigler"
+    ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-rotating_camera",
+      "space-skip-screen",
+      "space-tv",
+      "space-what-would-you-take-to-space"
+    ],
     "ftc": [
       "ftc-WireBender-master",
       "ftc-basicPoly",
@@ -110,15 +135,6 @@
       "dl-catch-game-simulator",
       "dl-toddlers-dept"
     ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside"
-    ],
     "edu": [
       "edu-monorepo",
       "edu-photochromic-manipulator",
@@ -134,13 +150,6 @@
       "leonardo-flying-wings",
       "leonardo-timeline",
       "leonardo-train-inside"
-    ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-rotating_camera",
-      "space-skip-screen",
-      "space-tv",
-      "space-what-would-you-take-to-space"
     ],
     "energy": [
       "energy-acceleration-circuit",
@@ -162,15 +171,6 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
-    ],
-    "ext": [
-      "ext-ariel-acceleration-circuit",
-      "ext-ariel-flashlight",
-      "ext-ariel-jumping-ring",
-      "ext-ariel-multimedia",
-      "ext-ariel-particle-excelerator",
-      "ext-ariel-powers-of-10",
-      "ext-ariel-wigler"
     ],
     "arad": [
       "arad-floating-balls",
@@ -204,6 +204,66 @@
     ]
   },
   "repos": [
+    {
+      "name": "train_outside",
+      "url": "https://github.com/jerusalem-science-museum/train_outside",
+      "description": null,
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-04-12T11:01:26Z",
+      "created_at": "2025-12-17T14:59:59Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ext-ariel-powers-of-10",
+      "url": "https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10",
+      "description": "changup of the original powers of ten video for Ariel Uni purposes.",
+      "status": "Active",
+      "exhibit": "ext",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-04-12T08:44:55Z",
+      "created_at": "2025-11-05T12:23:07Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "space-tv",
+      "url": "https://github.com/jerusalem-science-museum/space-tv",
+      "description": "automation for tvs in space exhibition (turn on automatically)",
+      "status": "Active",
+      "exhibit": "space",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-04-07T00:34:32Z",
+      "created_at": "2026-02-03T16:27:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-04-06T04:46:30Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
     {
       "name": "ftc-dropping-drops",
       "url": "https://github.com/jerusalem-science-museum/ftc-dropping-drops",
@@ -295,36 +355,6 @@
       "is_fork": false
     },
     {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-03-30T04:47:07Z",
-      "created_at": "2025-12-03T11:02:04Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "train_outside",
-      "url": "https://github.com/jerusalem-science-museum/train_outside",
-      "description": null,
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2026-03-29T20:42:50Z",
-      "created_at": "2025-12-17T14:59:59Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "illusions-aims",
       "url": "https://github.com/jerusalem-science-museum/illusions-aims",
       "description": null,
@@ -410,21 +440,6 @@
       "topics": [],
       "last_updated": "2026-03-15T17:34:04Z",
       "created_at": "2026-03-15T17:27:06Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "space-tv",
-      "url": "https://github.com/jerusalem-science-museum/space-tv",
-      "description": "automation for tvs in space exhibition (turn on automatically)",
-      "status": "Active",
-      "exhibit": "space",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2026-03-10T15:45:51Z",
-      "created_at": "2026-02-03T16:27:58Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -695,21 +710,6 @@
       "topics": [],
       "last_updated": "2026-02-09T16:49:42Z",
       "created_at": "2025-12-17T14:26:33Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "ext-ariel-powers-of-10",
-      "url": "https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10",
-      "description": "changup of the original powers of ten video for Ariel Uni purposes.",
-      "status": "Active",
-      "exhibit": "ext",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-09T09:09:35Z",
-      "created_at": "2025-11-05T12:23:07Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
