@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T05:14:57.919801",
+  "generated_at": "2026-04-27T05:26:22.105864",
   "total_repos": 83,
   "by_status": {
     "Active": [
@@ -23,7 +23,6 @@
       "energy-skip-sceen",
       "energy-transformator",
       "ext-ariel-powers-of-10",
-      "ftc-WireBender-master",
       "ftc-basicPoly",
       "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
@@ -81,6 +80,7 @@
       "ext-ariel-particle-excelerator",
       "ext-ariel-wigler",
       "flashlight-in-the-dark",
+      "ftc-WireBender-master",
       "ftc-photopolymer",
       "ftf-water-meter-card",
       "illusions-no-code-projects",
@@ -93,10 +93,6 @@
     ]
   },
   "by_exhibit": {
-    "bear": [
-      "bear-bear-eyes",
-      "bear-no-code-projects"
-    ],
     "ftc": [
       "ftc-WireBender-master",
       "ftc-basicPoly",
@@ -109,6 +105,27 @@
       "ftc-photopolymer",
       "ftc-shoes-ai"
     ],
+    "energy": [
+      "energy-acceleration-circuit",
+      "energy-air-pressure",
+      "energy-chliran",
+      "energy-cold-hot",
+      "energy-energy-from-the-wind",
+      "energy-generator",
+      "energy-heating-wires",
+      "energy-horsepower",
+      "energy-how-the-sun-sets-things-in-motion",
+      "energy-hydroflame",
+      "energy-hydrogen-rocket",
+      "energy-incondescent-vs-led",
+      "energy-jumping-ring",
+      "energy-light-a-fire",
+      "energy-log-python",
+      "energy-motor",
+      "energy-pendulum",
+      "energy-skip-sceen",
+      "energy-transformator"
+    ],
     "uncategorized": [
       ".github",
       "Aircraft-launcher",
@@ -117,6 +134,10 @@
       "electronic-harp",
       "flashlight-in-the-dark",
       "train_outside"
+    ],
+    "bear": [
+      "bear-bear-eyes",
+      "bear-no-code-projects"
     ],
     "ext": [
       "ext-ariel-acceleration-circuit",
@@ -155,27 +176,6 @@
       "leonardo-timeline",
       "leonardo-train-inside"
     ],
-    "energy": [
-      "energy-acceleration-circuit",
-      "energy-air-pressure",
-      "energy-chliran",
-      "energy-cold-hot",
-      "energy-energy-from-the-wind",
-      "energy-generator",
-      "energy-heating-wires",
-      "energy-horsepower",
-      "energy-how-the-sun-sets-things-in-motion",
-      "energy-hydroflame",
-      "energy-hydrogen-rocket",
-      "energy-incondescent-vs-led",
-      "energy-jumping-ring",
-      "energy-light-a-fire",
-      "energy-log-python",
-      "energy-motor",
-      "energy-pendulum",
-      "energy-skip-sceen",
-      "energy-transformator"
-    ],
     "arad": [
       "arad-floating-balls",
       "arad-interactive-selfie",
@@ -204,6 +204,66 @@
     ]
   },
   "repos": [
+    {
+      "name": "ftc-gatorade-water-drawings",
+      "url": "https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings",
+      "description": "a simpler version of the gatorade running man from water drops commercial.",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-04-26T13:47:52Z",
+      "created_at": "2025-11-05T13:52:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-jumping-ring",
+      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-04-23T10:57:20Z",
+      "created_at": "2025-12-17T14:26:25Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-log-python",
+      "url": "https://github.com/jerusalem-science-museum/energy-log-python",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-04-23T10:56:40Z",
+      "created_at": "2025-12-17T14:26:39Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-04-20T05:15:02Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
     {
       "name": "bear-no-code-projects",
       "url": "https://github.com/jerusalem-science-museum/bear-no-code-projects",
@@ -275,21 +335,6 @@
       "topics": [],
       "last_updated": "2026-04-13T08:34:07Z",
       "created_at": "2025-11-05T12:23:07Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-04-13T05:15:59Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -640,21 +685,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-log-python",
-      "url": "https://github.com/jerusalem-science-museum/energy-log-python",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-17T18:54:07Z",
-      "created_at": "2025-12-17T14:26:39Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-heating-wires",
       "url": "https://github.com/jerusalem-science-museum/energy-heating-wires",
       "description": null,
@@ -680,21 +710,6 @@
       "topics": [],
       "last_updated": "2026-02-15T18:15:45Z",
       "created_at": "2025-12-17T14:25:59Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-jumping-ring",
-      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-11T10:28:46Z",
-      "created_at": "2025-12-17T14:26:25Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -745,25 +760,10 @@
       "is_fork": false
     },
     {
-      "name": "ftc-gatorade-water-drawings",
-      "url": "https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings",
-      "description": "a simpler version of the gatorade running man from water drops commercial.",
-      "status": "Active",
-      "exhibit": "ftc",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-02-03T10:29:57Z",
-      "created_at": "2025-11-05T13:52:58Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "ftc-WireBender-master",
       "url": "https://github.com/jerusalem-science-museum/ftc-WireBender-master",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "ftc",
       "archived": false,
       "language": "Python",
