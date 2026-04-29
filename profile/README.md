@@ -1,8 +1,8 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-04-27 05:26:22 UTC
+**Last Updated:** 2026-04-29 13:33:19 UTC
 
-**Total Repositories:** 83
+**Total Repositories:** 84
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
@@ -45,10 +45,11 @@
 </details>
 
 <details>
-  <summary><strong>Educational Workshops</strong> (3 repos)</summary>
+  <summary><strong>Educational Workshops</strong> (4 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
+| [Computer-Vision-Final](https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final) | Asaf Kesler's project in Machine Learning and Computer Scien | Python | Active | 2026-04-29 |
 | [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Active | 2026-03-30 |
 | [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Maintenance | 2025-12-17 |
 | [scientists-competition](https://github.com/jerusalem-science-museum/edu-scientists-competition) | N/A | JavaScript | Maintenance | 2025-12-17 |
@@ -106,7 +107,7 @@
 | [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2026-04-14 |
 | [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-04-13 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Active | 2026-04-05 |
-| [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2026-04-26 |
+| [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2026-04-28 |
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-03-31 |
 | [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | N/A | Python | Active | 2026-03-18 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Maintenance | 2025-12-17 |
@@ -185,7 +186,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-04-20 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-04-27 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Active | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Maintenance | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-04-13 |
