@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:42:40.861663",
+  "generated_at": "2026-05-11T06:00:21.142201",
   "total_repos": 85,
   "by_status": {
     "Active": [
@@ -19,7 +19,6 @@
       "energy-hydroflame",
       "energy-hydrogen-rocket",
       "energy-jumping-ring",
-      "energy-light-a-fire",
       "energy-log-python",
       "energy-pendulum",
       "energy-skip-sceen",
@@ -74,6 +73,7 @@
       "energy-generator",
       "energy-how-the-sun-sets-things-in-motion",
       "energy-incondescent-vs-led",
+      "energy-light-a-fire",
       "energy-motor",
       "ext-ariel-acceleration-circuit",
       "ext-ariel-flashlight",
@@ -95,6 +95,24 @@
     ]
   },
   "by_exhibit": {
+    "leonardo": [
+      "leonardo-browser",
+      "leonardo-flying-wings",
+      "leonardo-timeline",
+      "leonardo-train-inside"
+    ],
+    "ftc": [
+      "ftc-WireBender-master",
+      "ftc-basicPoly",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-dropping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
+    ],
     "energy": [
       "energy-3-languages",
       "energy-acceleration-circuit",
@@ -117,17 +135,14 @@
       "energy-skip-sceen",
       "energy-transformator"
     ],
-    "ftc": [
-      "ftc-WireBender-master",
-      "ftc-basicPoly",
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-dropping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside"
     ],
     "ext": [
       "ext-ariel-acceleration-circuit",
@@ -137,15 +152,6 @@
       "ext-ariel-particle-excelerator",
       "ext-ariel-powers-of-10",
       "ext-ariel-wigler"
-    ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside"
     ],
     "edu": [
       "edu-Computer-Vision-Final",
@@ -173,12 +179,6 @@
       "illusions-aims",
       "illusions-illusions",
       "illusions-no-code-projects"
-    ],
-    "leonardo": [
-      "leonardo-browser",
-      "leonardo-flying-wings",
-      "leonardo-timeline",
-      "leonardo-train-inside"
     ],
     "arad": [
       "arad-floating-balls",
@@ -209,6 +209,36 @@
   },
   "repos": [
     {
+      "name": "leonardo-train-inside",
+      "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
+      "description": null,
+      "status": "Active",
+      "exhibit": "leonardo",
+      "archived": false,
+      "language": null,
+      "topics": [],
+      "last_updated": "2026-05-07T16:03:50Z",
+      "created_at": "2025-12-17T14:28:54Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "ftc-lazer-drawing",
+      "url": "https://github.com/jerusalem-science-museum/ftc-lazer-drawing",
+      "description": null,
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-05-07T14:32:02Z",
+      "created_at": "2025-12-17T14:27:38Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "energy-3-languages",
       "url": "https://github.com/jerusalem-science-museum/energy-3-languages",
       "description": null,
@@ -217,8 +247,23 @@
       "archived": false,
       "language": null,
       "topics": [],
-      "last_updated": "2026-05-06T08:13:58Z",
+      "last_updated": "2026-05-06T10:06:57Z",
       "created_at": "2026-05-06T08:13:57Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-05-06T09:42:46Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -254,21 +299,6 @@
       "is_fork": false
     },
     {
-      "name": "ftc-lazer-drawing",
-      "url": "https://github.com/jerusalem-science-museum/ftc-lazer-drawing",
-      "description": null,
-      "status": "Active",
-      "exhibit": "ftc",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-05-05T06:43:38Z",
-      "created_at": "2025-12-17T14:27:38Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-log-python",
       "url": "https://github.com/jerusalem-science-museum/energy-log-python",
       "description": null,
@@ -279,21 +309,6 @@
       "topics": [],
       "last_updated": "2026-05-05T05:59:13Z",
       "created_at": "2025-12-17T14:26:39Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-05-04T05:36:49Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -489,21 +504,6 @@
       "topics": [],
       "last_updated": "2026-03-22T18:47:11Z",
       "created_at": "2025-12-22T12:22:35Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "leonardo-train-inside",
-      "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
-      "description": null,
-      "status": "Active",
-      "exhibit": "leonardo",
-      "archived": false,
-      "language": null,
-      "topics": [],
-      "last_updated": "2026-03-22T00:53:19Z",
-      "created_at": "2025-12-17T14:28:54Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -782,7 +782,7 @@
       "name": "energy-light-a-fire",
       "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": "Python",
