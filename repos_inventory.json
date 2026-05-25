@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T06:37:19.633745",
-  "total_repos": 85,
+  "generated_at": "2026-05-25T14:19:22.303063",
+  "total_repos": 86,
   "by_status": {
     "Active": [
       ".github",
@@ -14,7 +14,9 @@
       "energy-acceleration-circuit",
       "energy-air-pressure",
       "energy-heating-wires",
+      "energy-horsepower",
       "energy-hydrogen-rocket",
+      "energy-information",
       "energy-jumping-ring",
       "energy-light-a-fire",
       "energy-log-python",
@@ -64,7 +66,6 @@
       "energy-cold-hot",
       "energy-energy-from-the-wind",
       "energy-generator",
-      "energy-horsepower",
       "energy-how-the-sun-sets-things-in-motion",
       "energy-hydroflame",
       "energy-incondescent-vs-led",
@@ -109,6 +110,7 @@
       "energy-hydroflame",
       "energy-hydrogen-rocket",
       "energy-incondescent-vs-led",
+      "energy-information",
       "energy-jumping-ring",
       "energy-light-a-fire",
       "energy-log-python",
@@ -116,6 +118,15 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
+    ],
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside"
     ],
     "ftc": [
       "ftc-WireBender-master",
@@ -133,15 +144,6 @@
       "illusions-aims",
       "illusions-illusions",
       "illusions-no-code-projects"
-    ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside"
     ],
     "leonardo": [
       "leonardo-browser",
@@ -209,6 +211,51 @@
   },
   "repos": [
     {
+      "name": "energy-information",
+      "url": "https://github.com/jerusalem-science-museum/energy-information",
+      "description": "information",
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Shell",
+      "topics": [],
+      "last_updated": "2026-05-25T13:26:01Z",
+      "created_at": "2026-05-25T12:30:27Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-jumping-ring",
+      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-05-25T11:04:44Z",
+      "created_at": "2025-12-17T14:26:25Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-horsepower",
+      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "C",
+      "topics": [],
+      "last_updated": "2026-05-25T11:03:37Z",
+      "created_at": "2025-12-17T14:25:40Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "energy-air-pressure",
       "url": "https://github.com/jerusalem-science-museum/energy-air-pressure",
       "description": null,
@@ -217,8 +264,23 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-05-25T06:03:45Z",
+      "last_updated": "2026-05-25T08:31:09Z",
       "created_at": "2025-12-17T14:24:41Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-05-25T06:37:24Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -279,21 +341,6 @@
       "topics": [],
       "last_updated": "2026-05-20T08:02:57Z",
       "created_at": "2025-09-11T18:32:58Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-05-18T06:16:42Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -447,21 +494,6 @@
       "stars": 0,
       "forks": 0,
       "is_fork": true
-    },
-    {
-      "name": "energy-jumping-ring",
-      "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-04-23T10:57:20Z",
-      "created_at": "2025-12-17T14:26:25Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
     },
     {
       "name": "bear-no-code-projects",
@@ -774,21 +806,6 @@
       "topics": [],
       "last_updated": "2026-02-15T18:15:45Z",
       "created_at": "2025-12-17T14:25:59Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "energy-horsepower",
-      "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
-      "description": null,
-      "status": "Maintenance",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "C",
-      "topics": [],
-      "last_updated": "2026-02-11T10:28:10Z",
-      "created_at": "2025-12-17T14:25:40Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
