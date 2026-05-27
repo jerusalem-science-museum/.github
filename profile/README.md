@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-05-26 13:49:10 UTC
+**Last Updated:** 2026-05-27 13:07:13 UTC
 
 **Total Repositories:** 87
 
@@ -113,7 +113,7 @@
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-05-07 |
 | [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Active | 2026-05-26 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Maintenance | 2025-12-17 |
-| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | N/A | Active | 2026-05-26 |
+| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Active | 2026-05-27 |
 | [WireBender-master](https://github.com/jerusalem-science-museum/ftc-WireBender-master) | N/A | Python | Maintenance | 2026-01-26 |
 
 </details>
@@ -189,7 +189,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-05-25 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-05-26 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Active | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Maintenance | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-05-12 |
