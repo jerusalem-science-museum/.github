@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-05-27 13:07:13 UTC
+**Last Updated:** 2026-06-01 06:59:47 UTC
 
 **Total Repositories:** 87
 
@@ -63,7 +63,7 @@
 |------|-------------|----------|--------|--------------|
 | [3-languages](https://github.com/jerusalem-science-museum/energy-3-languages) | N/A | N/A | Active | 2026-05-06 |
 | [acceleration-circuit](https://github.com/jerusalem-science-museum/energy-acceleration-circuit) | N/A | C++ | Active | 2026-03-10 |
-| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-05-25 |
+| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-05-28 |
 | [chliran](https://github.com/jerusalem-science-museum/energy-chliran) | N/A | C++ | Maintenance | 2026-02-17 |
 | [cold-hot](https://github.com/jerusalem-science-museum/energy-cold-hot) | N/A | N/A | Maintenance | 2025-12-17 |
 | [energy-from-the-wind](https://github.com/jerusalem-science-museum/energy-energy-from-the-wind) | N/A | N/A | Maintenance | 2025-12-17 |
@@ -107,13 +107,13 @@
 |------|-------------|----------|--------|--------------|
 | [basicPoly](https://github.com/jerusalem-science-museum/ftc-basicPoly) | 3d objects with changing polygon counts | JavaScript | Maintenance | 2026-02-25 |
 | [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2026-05-20 |
-| [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-04-13 |
+| [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-05-31 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Active | 2026-04-05 |
 | [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2026-05-20 |
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-05-07 |
 | [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Active | 2026-05-26 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Maintenance | 2025-12-17 |
-| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Active | 2026-05-27 |
+| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Active | 2026-05-28 |
 | [WireBender-master](https://github.com/jerusalem-science-museum/ftc-WireBender-master) | N/A | Python | Maintenance | 2026-01-26 |
 
 </details>
@@ -189,7 +189,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-05-26 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-05-27 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Active | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Maintenance | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-05-12 |
