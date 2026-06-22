@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-06-15 07:23:23 UTC
+**Last Updated:** 2026-06-22 07:26:55 UTC
 
 **Total Repositories:** 88
 
@@ -13,13 +13,13 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [floating-balls](https://github.com/jerusalem-science-museum/arad-floating-balls) | N/A | C++ | Maintenance | 2025-12-17 |
-| [interactive-selfie](https://github.com/jerusalem-science-museum/arad-interactive-selfie) | Interactive selfie exhibit of shlomit. | Processing | Maintenance | 2025-12-17 |
-| [polarized-camera](https://github.com/jerusalem-science-museum/arad-polarized-camera) | N/A | Shell | Maintenance | 2025-12-17 |
+| [floating-balls](https://github.com/jerusalem-science-museum/arad-floating-balls) | N/A | C++ | Dormant | 2025-12-17 |
+| [interactive-selfie](https://github.com/jerusalem-science-museum/arad-interactive-selfie) | Interactive selfie exhibit of shlomit. | Processing | Dormant | 2025-12-17 |
+| [polarized-camera](https://github.com/jerusalem-science-museum/arad-polarized-camera) | N/A | Shell | Dormant | 2025-12-17 |
 | [rdworks-hack](https://github.com/jerusalem-science-museum/arad-rdworks-hack) | Automaticly approving RDWorks dialogs when uploading a file  | Python | Active | 2026-06-08 |
-| [scale-plot](https://github.com/jerusalem-science-museum/arad-scale-plot) | Graph showing the weight over time axis | Python | Maintenance | 2025-12-17 |
+| [scale-plot](https://github.com/jerusalem-science-museum/arad-scale-plot) | Graph showing the weight over time axis | Python | Dormant | 2025-12-17 |
 | [smart-romba](https://github.com/jerusalem-science-museum/arad-smart-romba) | N/A | Python | Maintenance | 2025-12-24 |
-| [spherical-laser-projector](https://github.com/jerusalem-science-museum/arad-spherical-laser-projector) | A spherical laser projector with SVG support | N/A | Maintenance | 2025-12-17 |
+| [spherical-laser-projector](https://github.com/jerusalem-science-museum/arad-spherical-laser-projector) | A spherical laser projector with SVG support | N/A | Dormant | 2025-12-17 |
 
 </details>
 
@@ -28,7 +28,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [bear-eyes](https://github.com/jerusalem-science-museum/bear-bear-eyes) | N/A | N/A | Maintenance | 2025-12-17 |
+| [bear-eyes](https://github.com/jerusalem-science-museum/bear-bear-eyes) | N/A | N/A | Dormant | 2025-12-17 |
 | [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Active | 2026-04-19 |
 
 </details>
@@ -38,8 +38,8 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [catch-game](https://github.com/jerusalem-science-museum/dl-catch-game) | N/A | Python | Maintenance | 2025-12-17 |
-| [catch-game-simulator](https://github.com/jerusalem-science-museum/dl-catch-game-simulator) | N/A | Python | Maintenance | 2025-12-17 |
+| [catch-game](https://github.com/jerusalem-science-museum/dl-catch-game) | N/A | Python | Dormant | 2025-12-17 |
+| [catch-game-simulator](https://github.com/jerusalem-science-museum/dl-catch-game-simulator) | N/A | Python | Dormant | 2025-12-17 |
 | [toddlers-dept](https://github.com/jerusalem-science-museum/dl-toddlers-dept) | N/A | N/A | Active | 2026-03-30 |
 
 </details>
@@ -51,8 +51,8 @@
 |------|-------------|----------|--------|--------------|
 | [Computer-Vision-Final](https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final) | Asaf Kesler's project in Machine Learning and Computer Scien | Python | Active | 2026-04-29 |
 | [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Active | 2026-03-30 |
-| [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Maintenance | 2025-12-17 |
-| [scientists-competition](https://github.com/jerusalem-science-museum/edu-scientists-competition) | N/A | JavaScript | Maintenance | 2025-12-17 |
+| [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Dormant | 2025-12-17 |
+| [scientists-competition](https://github.com/jerusalem-science-museum/edu-scientists-competition) | N/A | JavaScript | Dormant | 2025-12-17 |
 
 </details>
 
@@ -65,15 +65,15 @@
 | [acceleration-circuit](https://github.com/jerusalem-science-museum/energy-acceleration-circuit) | N/A | C++ | Maintenance | 2026-03-10 |
 | [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-05-28 |
 | [chliran](https://github.com/jerusalem-science-museum/energy-chliran) | N/A | C++ | Maintenance | 2026-02-17 |
-| [cold-hot](https://github.com/jerusalem-science-museum/energy-cold-hot) | N/A | N/A | Maintenance | 2025-12-17 |
-| [energy-from-the-wind](https://github.com/jerusalem-science-museum/energy-energy-from-the-wind) | N/A | N/A | Maintenance | 2025-12-17 |
-| [generator](https://github.com/jerusalem-science-museum/energy-generator) | N/A | C | Maintenance | 2025-12-17 |
+| [cold-hot](https://github.com/jerusalem-science-museum/energy-cold-hot) | N/A | N/A | Dormant | 2025-12-17 |
+| [energy-from-the-wind](https://github.com/jerusalem-science-museum/energy-energy-from-the-wind) | N/A | N/A | Dormant | 2025-12-17 |
+| [generator](https://github.com/jerusalem-science-museum/energy-generator) | N/A | C | Dormant | 2025-12-17 |
 | [heating-wires](https://github.com/jerusalem-science-museum/energy-heating-wires) | N/A | C | Active | 2026-05-14 |
 | [horsepower](https://github.com/jerusalem-science-museum/energy-horsepower) | N/A | C | Active | 2026-05-25 |
-| [how-the-sun-sets-things-in-motion](https://github.com/jerusalem-science-museum/energy-how-the-sun-sets-things-in-motion) | N/A | N/A | Maintenance | 2025-12-17 |
+| [how-the-sun-sets-things-in-motion](https://github.com/jerusalem-science-museum/energy-how-the-sun-sets-things-in-motion) | N/A | N/A | Dormant | 2025-12-17 |
 | [hydroflame](https://github.com/jerusalem-science-museum/energy-hydroflame) | N/A | C | Active | 2026-06-07 |
 | [hydrogen-rocket](https://github.com/jerusalem-science-museum/energy-hydrogen-rocket) | N/A | Python | Active | 2026-06-08 |
-| [incondescent-vs-led](https://github.com/jerusalem-science-museum/energy-incondescent-vs-led) | N/A | C++ | Maintenance | 2025-12-17 |
+| [incondescent-vs-led](https://github.com/jerusalem-science-museum/energy-incondescent-vs-led) | N/A | C++ | Dormant | 2025-12-17 |
 | [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Active | 2026-05-25 |
 | [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Python | Active | 2026-05-25 |
 | [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-05-20 |
@@ -90,13 +90,13 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [ariel-acceleration-circuit](https://github.com/jerusalem-science-museum/ext-ariel-acceleration-circuit) | N/A | C++ | Maintenance | 2025-12-17 |
-| [ariel-flashlight](https://github.com/jerusalem-science-museum/ext-ariel-flashlight) | N/A | N/A | Maintenance | 2025-12-17 |
-| [ariel-jumping-ring](https://github.com/jerusalem-science-museum/ext-ariel-jumping-ring) | N/A | C | Maintenance | 2025-12-17 |
-| [ariel-multimedia](https://github.com/jerusalem-science-museum/ext-ariel-multimedia) | N/A | C++ | Maintenance | 2025-12-17 |
-| [ariel-particle-excelerator](https://github.com/jerusalem-science-museum/ext-ariel-particle-excelerator) | Particle Excelerator exhibition for Ariel university. | C++ | Maintenance | 2025-12-21 |
+| [ariel-acceleration-circuit](https://github.com/jerusalem-science-museum/ext-ariel-acceleration-circuit) | N/A | C++ | Dormant | 2025-12-17 |
+| [ariel-flashlight](https://github.com/jerusalem-science-museum/ext-ariel-flashlight) | N/A | N/A | Dormant | 2025-12-17 |
+| [ariel-jumping-ring](https://github.com/jerusalem-science-museum/ext-ariel-jumping-ring) | N/A | C | Dormant | 2025-12-17 |
+| [ariel-multimedia](https://github.com/jerusalem-science-museum/ext-ariel-multimedia) | N/A | C++ | Dormant | 2025-12-17 |
+| [ariel-particle-excelerator](https://github.com/jerusalem-science-museum/ext-ariel-particle-excelerator) | Particle Excelerator exhibition for Ariel university. | C++ | Dormant | 2025-12-21 |
 | [ariel-powers-of-10](https://github.com/jerusalem-science-museum/ext-ariel-powers-of-10) | changup of the original powers of ten video for Ariel Uni pu | Python | Active | 2026-06-02 |
-| [ariel-wigler](https://github.com/jerusalem-science-museum/ext-ariel-wigler) | N/A | C++ | Maintenance | 2025-12-17 |
+| [ariel-wigler](https://github.com/jerusalem-science-museum/ext-ariel-wigler) | N/A | C++ | Dormant | 2025-12-17 |
 
 </details>
 
@@ -110,9 +110,9 @@
 | [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-06-03 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Active | 2026-04-05 |
 | [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2026-05-20 |
-| [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-06-10 |
+| [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-06-18 |
 | [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Active | 2026-05-26 |
-| [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Maintenance | 2025-12-17 |
+| [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Dormant | 2025-12-17 |
 | [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Active | 2026-05-28 |
 | [WireBender-master](https://github.com/jerusalem-science-museum/ftc-WireBender-master) | N/A | Python | Maintenance | 2026-01-26 |
 
@@ -123,7 +123,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [water-meter-card](https://github.com/jerusalem-science-museum/ftf-water-meter-card) | N/A | C++ | Maintenance | 2025-12-17 |
+| [water-meter-card](https://github.com/jerusalem-science-museum/ftf-water-meter-card) | N/A | C++ | Dormant | 2025-12-17 |
 
 </details>
 
@@ -134,7 +134,7 @@
 |------|-------------|----------|--------|--------------|
 | [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2026-05-20 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Maintenance | 2026-02-17 |
-| [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Maintenance | 2025-12-17 |
+| [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Dormant | 2025-12-17 |
 
 </details>
 
@@ -145,7 +145,7 @@
 |------|-------------|----------|--------|--------------|
 | [browser](https://github.com/jerusalem-science-museum/leonardo-browser) | N/A | Python | Active | 2026-05-26 |
 | [flying-wings](https://github.com/jerusalem-science-museum/leonardo-flying-wings) | N/A | Python | Active | 2026-06-03 |
-| [timeline](https://github.com/jerusalem-science-museum/leonardo-timeline) | N/A | Python | Maintenance | 2025-12-21 |
+| [timeline](https://github.com/jerusalem-science-museum/leonardo-timeline) | N/A | Python | Dormant | 2025-12-21 |
 | [train-inside](https://github.com/jerusalem-science-museum/leonardo-train-inside) | N/A | N/A | Active | 2026-05-07 |
 
 </details>
@@ -168,19 +168,19 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [agriculture-gargir](https://github.com/jerusalem-science-museum/archive-agriculture-gargir) | N/A | Python | Maintenance | 2025-12-17 |
-| [ftc-connect-4-robot-legacy](https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Maintenance | 2025-12-17 |
+| [agriculture-gargir](https://github.com/jerusalem-science-museum/archive-agriculture-gargir) | N/A | Python | Dormant | 2025-12-17 |
+| [ftc-connect-4-robot-legacy](https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Dormant | 2025-12-17 |
 | [ftc-shoes-ai](https://github.com/jerusalem-science-museum/archive-ftc-shoes-ai) | N/A | Shell | Active | 2026-05-26 |
-| [hbp](https://github.com/jerusalem-science-museum/archive-hbp) | N/A | Python | Maintenance | 2025-12-17 |
-| [hbp-doctor-scan](https://github.com/jerusalem-science-museum/archive-hbp-doctor-scan) | HBP Doctor Scan- MRI and CT exams simulator | C++ | Maintenance | 2025-12-17 |
-| [hbp-led-ring](https://github.com/jerusalem-science-museum/archive-hbp-led-ring) | HBP LED Ring- 768x16 ring LED display | N/A | Maintenance | 2025-12-17 |
-| [hbp-neuron](https://github.com/jerusalem-science-museum/archive-hbp-neuron) | HBP Neuron- LED  illuminated  neuron table | Python | Maintenance | 2025-12-17 |
-| [leonardo-selfie](https://github.com/jerusalem-science-museum/archive-leonardo-selfie) | N/A | Python | Maintenance | 2025-12-17 |
-| [math-graph-game](https://github.com/jerusalem-science-museum/archive-math-graph-game) | N/A | Python | Maintenance | 2025-12-17 |
-| [mathematic-car-plot](https://github.com/jerusalem-science-museum/archive-mathematic-car-plot) | N/A | Python | Maintenance | 2025-12-17 |
-| [second-incarnation](https://github.com/jerusalem-science-museum/archive-second-incarnation) | N/A | Python | Maintenance | 2025-12-17 |
-| [time-to-move-swim-simulator](https://github.com/jerusalem-science-museum/archive-time-to-move-swim-simulator) | N/A | Python | Maintenance | 2025-12-17 |
-| [turing-captcha-camera](https://github.com/jerusalem-science-museum/archive-turing-captcha-camera) | N/A | Python | Maintenance | 2025-12-17 |
+| [hbp](https://github.com/jerusalem-science-museum/archive-hbp) | N/A | Python | Dormant | 2025-12-17 |
+| [hbp-doctor-scan](https://github.com/jerusalem-science-museum/archive-hbp-doctor-scan) | HBP Doctor Scan- MRI and CT exams simulator | C++ | Dormant | 2025-12-17 |
+| [hbp-led-ring](https://github.com/jerusalem-science-museum/archive-hbp-led-ring) | HBP LED Ring- 768x16 ring LED display | N/A | Dormant | 2025-12-17 |
+| [hbp-neuron](https://github.com/jerusalem-science-museum/archive-hbp-neuron) | HBP Neuron- LED  illuminated  neuron table | Python | Dormant | 2025-12-17 |
+| [leonardo-selfie](https://github.com/jerusalem-science-museum/archive-leonardo-selfie) | N/A | Python | Dormant | 2025-12-17 |
+| [math-graph-game](https://github.com/jerusalem-science-museum/archive-math-graph-game) | N/A | Python | Dormant | 2025-12-17 |
+| [mathematic-car-plot](https://github.com/jerusalem-science-museum/archive-mathematic-car-plot) | N/A | Python | Dormant | 2025-12-17 |
+| [second-incarnation](https://github.com/jerusalem-science-museum/archive-second-incarnation) | N/A | Python | Dormant | 2025-12-17 |
+| [time-to-move-swim-simulator](https://github.com/jerusalem-science-museum/archive-time-to-move-swim-simulator) | N/A | Python | Dormant | 2025-12-17 |
+| [turing-captcha-camera](https://github.com/jerusalem-science-museum/archive-turing-captcha-camera) | N/A | Python | Dormant | 2025-12-17 |
 
 </details>
 
@@ -189,12 +189,12 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-06-08 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-06-15 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Active | 2026-03-30 |
-| [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Maintenance | 2025-12-17 |
+| [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-05-12 |
-| [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Maintenance | 2025-12-17 |
-| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-06-10 |
+| [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Dormant | 2025-12-17 |
+| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-06-21 |
 | [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Active | 2026-04-12 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
 
