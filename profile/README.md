@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-06-22 07:26:55 UTC
+**Last Updated:** 2026-06-29 06:50:45 UTC
 
 **Total Repositories:** 88
 
@@ -18,7 +18,7 @@
 | [polarized-camera](https://github.com/jerusalem-science-museum/arad-polarized-camera) | N/A | Shell | Dormant | 2025-12-17 |
 | [rdworks-hack](https://github.com/jerusalem-science-museum/arad-rdworks-hack) | Automaticly approving RDWorks dialogs when uploading a file  | Python | Active | 2026-06-08 |
 | [scale-plot](https://github.com/jerusalem-science-museum/arad-scale-plot) | Graph showing the weight over time axis | Python | Dormant | 2025-12-17 |
-| [smart-romba](https://github.com/jerusalem-science-museum/arad-smart-romba) | N/A | Python | Maintenance | 2025-12-24 |
+| [smart-romba](https://github.com/jerusalem-science-museum/arad-smart-romba) | N/A | Python | Dormant | 2025-12-24 |
 | [spherical-laser-projector](https://github.com/jerusalem-science-museum/arad-spherical-laser-projector) | A spherical laser projector with SVG support | N/A | Dormant | 2025-12-17 |
 
 </details>
@@ -40,7 +40,7 @@
 |------|-------------|----------|--------|--------------|
 | [catch-game](https://github.com/jerusalem-science-museum/dl-catch-game) | N/A | Python | Dormant | 2025-12-17 |
 | [catch-game-simulator](https://github.com/jerusalem-science-museum/dl-catch-game-simulator) | N/A | Python | Dormant | 2025-12-17 |
-| [toddlers-dept](https://github.com/jerusalem-science-museum/dl-toddlers-dept) | N/A | N/A | Active | 2026-03-30 |
+| [toddlers-dept](https://github.com/jerusalem-science-museum/dl-toddlers-dept) | N/A | N/A | Maintenance | 2026-03-30 |
 
 </details>
 
@@ -50,7 +50,7 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [Computer-Vision-Final](https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final) | Asaf Kesler's project in Machine Learning and Computer Scien | Python | Active | 2026-04-29 |
-| [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Active | 2026-03-30 |
+| [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Maintenance | 2026-03-30 |
 | [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Dormant | 2025-12-17 |
 | [scientists-competition](https://github.com/jerusalem-science-museum/edu-scientists-competition) | N/A | JavaScript | Dormant | 2025-12-17 |
 
@@ -107,7 +107,7 @@
 |------|-------------|----------|--------|--------------|
 | [basicPoly](https://github.com/jerusalem-science-museum/ftc-basicPoly) | 3d objects with changing polygon counts | JavaScript | Maintenance | 2026-02-25 |
 | [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2026-05-20 |
-| [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-06-03 |
+| [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-06-23 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Active | 2026-04-05 |
 | [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2026-05-20 |
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-06-18 |
@@ -189,12 +189,12 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-06-15 |
-| [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Active | 2026-03-30 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-06-22 |
+| [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Maintenance | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-05-12 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Dormant | 2025-12-17 |
-| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-06-21 |
+| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-06-28 |
 | [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Active | 2026-04-12 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
 
