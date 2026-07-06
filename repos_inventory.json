@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T06:50:45.383084",
+  "generated_at": "2026-07-06T06:38:22.408879",
   "total_repos": 88,
   "by_status": {
     "Active": [
@@ -24,7 +24,6 @@
       "ext-ariel-powers-of-10",
       "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
-      "ftc-dropping-drops",
       "ftc-gatorade-water-drawings",
       "ftc-lazer-drawing",
       "ftc-photogrammetry",
@@ -33,7 +32,6 @@
       "leonardo-browser",
       "leonardo-flying-wings",
       "leonardo-train-inside",
-      "space-tv",
       "train_outside"
     ],
     "Maintenance": [
@@ -47,10 +45,12 @@
       "energy-transformator",
       "ftc-WireBender-master",
       "ftc-basicPoly",
+      "ftc-dropping-drops",
       "illusions-illusions",
       "space-rfid-what-to-take",
       "space-rotating_camera",
       "space-skip-screen",
+      "space-tv",
       "space-what-would-you-take-to-space"
     ],
     "Dormant": [
@@ -223,8 +223,23 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-06-28T07:01:35Z",
+      "last_updated": "2026-06-29T11:43:31Z",
       "created_at": "2026-06-06T12:39:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-06-29T06:50:49Z",
+      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -240,21 +255,6 @@
       "topics": [],
       "last_updated": "2026-06-23T10:05:13Z",
       "created_at": "2025-11-24T11:07:39Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-06-22T07:27:08Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -668,7 +668,7 @@
       "name": "space-tv",
       "url": "https://github.com/jerusalem-science-museum/space-tv",
       "description": "automation for tvs in space exhibition (turn on automatically)",
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "space",
       "archived": false,
       "language": "C++",
@@ -683,7 +683,7 @@
       "name": "ftc-dropping-drops",
       "url": "https://github.com/jerusalem-science-museum/ftc-dropping-drops",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "ftc",
       "archived": false,
       "language": "Python",
