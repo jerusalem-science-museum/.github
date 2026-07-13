@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-07-06 06:38:22 UTC
+**Last Updated:** 2026-07-13 05:39:28 UTC
 
 **Total Repositories:** 88
 
@@ -63,23 +63,23 @@
 |------|-------------|----------|--------|--------------|
 | [3-languages](https://github.com/jerusalem-science-museum/energy-3-languages) | N/A | N/A | Active | 2026-05-06 |
 | [acceleration-circuit](https://github.com/jerusalem-science-museum/energy-acceleration-circuit) | N/A | C++ | Maintenance | 2026-03-10 |
-| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-05-28 |
-| [chliran](https://github.com/jerusalem-science-museum/energy-chliran) | N/A | C++ | Maintenance | 2026-02-17 |
+| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-07-12 |
+| [chliran](https://github.com/jerusalem-science-museum/energy-chliran) | N/A | C++ | Active | 2026-07-12 |
 | [cold-hot](https://github.com/jerusalem-science-museum/energy-cold-hot) | N/A | N/A | Dormant | 2025-12-17 |
 | [energy-from-the-wind](https://github.com/jerusalem-science-museum/energy-energy-from-the-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [generator](https://github.com/jerusalem-science-museum/energy-generator) | N/A | C | Dormant | 2025-12-17 |
 | [heating-wires](https://github.com/jerusalem-science-museum/energy-heating-wires) | N/A | C | Active | 2026-05-14 |
-| [horsepower](https://github.com/jerusalem-science-museum/energy-horsepower) | N/A | C | Active | 2026-05-25 |
+| [horsepower](https://github.com/jerusalem-science-museum/energy-horsepower) | N/A | C | Active | 2026-07-12 |
 | [how-the-sun-sets-things-in-motion](https://github.com/jerusalem-science-museum/energy-how-the-sun-sets-things-in-motion) | N/A | N/A | Dormant | 2025-12-17 |
 | [hydroflame](https://github.com/jerusalem-science-museum/energy-hydroflame) | N/A | C | Active | 2026-06-07 |
-| [hydrogen-rocket](https://github.com/jerusalem-science-museum/energy-hydrogen-rocket) | N/A | Python | Active | 2026-06-08 |
+| [hydrogen-rocket](https://github.com/jerusalem-science-museum/energy-hydrogen-rocket) | N/A | Python | Active | 2026-07-12 |
 | [incondescent-vs-led](https://github.com/jerusalem-science-museum/energy-incondescent-vs-led) | N/A | C++ | Dormant | 2025-12-17 |
 | [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Active | 2026-05-25 |
-| [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Python | Active | 2026-05-25 |
-| [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-05-20 |
+| [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Python | Active | 2026-07-12 |
+| [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-07-12 |
 | [log-python](https://github.com/jerusalem-science-museum/energy-log-python) | N/A | HTML | Active | 2026-06-08 |
 | [motor](https://github.com/jerusalem-science-museum/energy-motor) | N/A | C++ | Active | 2026-06-03 |
-| [pendulum](https://github.com/jerusalem-science-museum/energy-pendulum) | N/A | C++ | Maintenance | 2026-02-17 |
+| [pendulum](https://github.com/jerusalem-science-museum/energy-pendulum) | N/A | C++ | Active | 2026-07-12 |
 | [skip-sceen](https://github.com/jerusalem-science-museum/energy-skip-sceen) | N/A | C++ | Maintenance | 2026-03-10 |
 | [transformator](https://github.com/jerusalem-science-museum/energy-transformator) | N/A | C | Maintenance | 2026-02-22 |
 
@@ -189,13 +189,13 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-06-29 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-07-06 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Maintenance | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-05-12 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Dormant | 2025-12-17 |
-| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-06-29 |
-| [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Active | 2026-04-12 |
+| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-07-06 |
+| [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Maintenance | 2026-04-12 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
 
 </details>
