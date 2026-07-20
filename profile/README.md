@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-07-13 05:39:28 UTC
+**Last Updated:** 2026-07-20 05:41:26 UTC
 
 **Total Repositories:** 88
 
@@ -29,7 +29,7 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [bear-eyes](https://github.com/jerusalem-science-museum/bear-bear-eyes) | N/A | N/A | Dormant | 2025-12-17 |
-| [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Active | 2026-04-19 |
+| [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Active | 2026-07-16 |
 
 </details>
 
@@ -63,7 +63,7 @@
 |------|-------------|----------|--------|--------------|
 | [3-languages](https://github.com/jerusalem-science-museum/energy-3-languages) | N/A | N/A | Active | 2026-05-06 |
 | [acceleration-circuit](https://github.com/jerusalem-science-museum/energy-acceleration-circuit) | N/A | C++ | Maintenance | 2026-03-10 |
-| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-07-12 |
+| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-07-16 |
 | [chliran](https://github.com/jerusalem-science-museum/energy-chliran) | N/A | C++ | Active | 2026-07-12 |
 | [cold-hot](https://github.com/jerusalem-science-museum/energy-cold-hot) | N/A | N/A | Dormant | 2025-12-17 |
 | [energy-from-the-wind](https://github.com/jerusalem-science-museum/energy-energy-from-the-wind) | N/A | N/A | Dormant | 2025-12-17 |
@@ -157,7 +157,7 @@
 |------|-------------|----------|--------|--------------|
 | [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Maintenance | 2026-02-23 |
 | [rotating_camera](https://github.com/jerusalem-science-museum/space-rotating_camera) | N/A | N/A | Maintenance | 2026-03-15 |
-| [skip-screen](https://github.com/jerusalem-science-museum/space-skip-screen) | N/A | C++ | Maintenance | 2026-01-18 |
+| [skip-screen](https://github.com/jerusalem-science-museum/space-skip-screen) | N/A | C++ | Dormant | 2026-01-18 |
 | [tv](https://github.com/jerusalem-science-museum/space-tv) | automation for tvs in space exhibition (turn on automaticall | C++ | Maintenance | 2026-04-07 |
 | [what-would-you-take-to-space](https://github.com/jerusalem-science-museum/space-what-would-you-take-to-space) | a simple interactive voting board to see what visitors would | JavaScript | Maintenance | 2026-02-19 |
 
@@ -189,13 +189,13 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-07-06 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-07-13 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Maintenance | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-05-12 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Dormant | 2025-12-17 |
-| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-07-06 |
-| [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Maintenance | 2026-04-12 |
+| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-07-19 |
+| [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Active | 2026-07-14 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
 
 </details>
