@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-07-27 05:52:28 UTC
+**Last Updated:** 2026-08-03 05:43:40 UTC
 
 **Total Repositories:** 88
 
@@ -29,7 +29,7 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [bear-eyes](https://github.com/jerusalem-science-museum/bear-bear-eyes) | N/A | N/A | Dormant | 2025-12-17 |
-| [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Active | 2026-07-16 |
+| [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Active | 2026-07-29 |
 
 </details>
 
@@ -49,7 +49,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [Computer-Vision-Final](https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final) | Asaf Kesler's project in Machine Learning and Computer Scien | Python | Active | 2026-04-29 |
+| [Computer-Vision-Final](https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final) | Asaf Kesler's project in Machine Learning and Computer Scien | Python | Maintenance | 2026-04-29 |
 | [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Maintenance | 2026-03-30 |
 | [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Dormant | 2025-12-17 |
 | [scientists-competition](https://github.com/jerusalem-science-museum/edu-scientists-competition) | N/A | JavaScript | Dormant | 2025-12-17 |
@@ -134,7 +134,7 @@
 |------|-------------|----------|--------|--------------|
 | [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2026-05-20 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Maintenance | 2026-02-17 |
-| [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Dormant | 2025-12-17 |
+| [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Active | 2026-07-28 |
 
 </details>
 
@@ -189,7 +189,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-07-20 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-07-27 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Maintenance | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Active | 2026-05-12 |

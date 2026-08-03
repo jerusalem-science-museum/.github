@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T05:52:28.746378",
+  "generated_at": "2026-08-03T05:43:40.396476",
   "total_repos": 88,
   "by_status": {
     "Active": [
@@ -8,7 +8,6 @@
       "arad-rdworks-hack",
       "archive-ftc-shoes-ai",
       "bear-no-code-projects",
-      "edu-Computer-Vision-Final",
       "electronic-harp",
       "energy-3-languages",
       "energy-air-pressure",
@@ -31,6 +30,7 @@
       "ftc-photogrammetry",
       "ftc-shoes-ai",
       "illusions-aims",
+      "illusions-no-code-projects",
       "leonardo-browser",
       "leonardo-flying-wings",
       "leonardo-train-inside",
@@ -39,6 +39,7 @@
     "Maintenance": [
       "Aircraft-launcher",
       "dl-toddlers-dept",
+      "edu-Computer-Vision-Final",
       "edu-monorepo",
       "energy-acceleration-circuit",
       "energy-skip-sceen",
@@ -92,12 +93,20 @@
       "ftc-WireBender-master",
       "ftc-photopolymer",
       "ftf-water-meter-card",
-      "illusions-no-code-projects",
       "leonardo-timeline",
       "space-skip-screen"
     ]
   },
   "by_exhibit": {
+    "bear": [
+      "bear-bear-eyes",
+      "bear-no-code-projects"
+    ],
+    "illusions": [
+      "illusions-aims",
+      "illusions-illusions",
+      "illusions-no-code-projects"
+    ],
     "uncategorized": [
       ".github",
       "Aircraft-launcher",
@@ -107,10 +116,6 @@
       "electronic-harp",
       "flashlight-in-the-dark",
       "train_outside"
-    ],
-    "bear": [
-      "bear-bear-eyes",
-      "bear-no-code-projects"
     ],
     "energy": [
       "energy-3-languages",
@@ -186,11 +191,6 @@
       "archive-time-to-move-swim-simulator",
       "archive-turing-captcha-camera"
     ],
-    "illusions": [
-      "illusions-aims",
-      "illusions-illusions",
-      "illusions-no-code-projects"
-    ],
     "edu": [
       "edu-Computer-Vision-Final",
       "edu-monorepo",
@@ -215,16 +215,31 @@
   },
   "repos": [
     {
-      "name": "Mekorot-AR-Sandbox",
-      "url": "https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox",
-      "description": "Exhibit for Mekorot: Physical objects on the table have ArUco markers. The camera detects those markers, the program decides where water can flow, and the projector draws the water/other animations back onto the physical table.",
+      "name": "bear-no-code-projects",
+      "url": "https://github.com/jerusalem-science-museum/bear-no-code-projects",
+      "description": null,
       "status": "Active",
-      "exhibit": "uncategorized",
+      "exhibit": "bear",
       "archived": false,
-      "language": "Python",
+      "language": null,
       "topics": [],
-      "last_updated": "2026-07-26T08:13:54Z",
-      "created_at": "2026-06-06T12:39:58Z",
+      "last_updated": "2026-07-29T07:38:47Z",
+      "created_at": "2025-12-17T14:18:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "illusions-no-code-projects",
+      "url": "https://github.com/jerusalem-science-museum/illusions-no-code-projects",
+      "description": null,
+      "status": "Active",
+      "exhibit": "illusions",
+      "archived": false,
+      "language": null,
+      "topics": [],
+      "last_updated": "2026-07-28T14:00:19Z",
+      "created_at": "2025-12-17T14:28:30Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -238,23 +253,23 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-07-20T05:41:33Z",
+      "last_updated": "2026-07-27T05:52:37Z",
       "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
     },
     {
-      "name": "bear-no-code-projects",
-      "url": "https://github.com/jerusalem-science-museum/bear-no-code-projects",
-      "description": null,
+      "name": "Mekorot-AR-Sandbox",
+      "url": "https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox",
+      "description": "Exhibit for Mekorot: Physical objects on the table have ArUco markers. The camera detects those markers, the program decides where water can flow, and the projector draws the water/other animations back onto the physical table.",
       "status": "Active",
-      "exhibit": "bear",
+      "exhibit": "uncategorized",
       "archived": false,
-      "language": null,
+      "language": "Python",
       "topics": [],
-      "last_updated": "2026-07-16T10:16:41Z",
-      "created_at": "2025-12-17T14:18:58Z",
+      "last_updated": "2026-07-26T08:13:54Z",
+      "created_at": "2026-06-06T12:39:58Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -683,7 +698,7 @@
       "name": "edu-Computer-Vision-Final",
       "url": "https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final",
       "description": "Asaf Kesler's project in Machine Learning and Computer Science for the Science Museum.",
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "edu",
       "archived": false,
       "language": "Python",
@@ -1305,21 +1320,6 @@
       "topics": [],
       "last_updated": "2025-12-17T14:36:00Z",
       "created_at": "2025-12-17T14:35:52Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "illusions-no-code-projects",
-      "url": "https://github.com/jerusalem-science-museum/illusions-no-code-projects",
-      "description": null,
-      "status": "Dormant",
-      "exhibit": "illusions",
-      "archived": false,
-      "language": null,
-      "topics": [],
-      "last_updated": "2025-12-17T14:28:48Z",
-      "created_at": "2025-12-17T14:28:30Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
