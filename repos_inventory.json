@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T05:43:40.396476",
+  "generated_at": "2026-08-10T03:58:16.513925",
   "total_repos": 88,
   "by_status": {
     "Active": [
@@ -9,7 +9,6 @@
       "archive-ftc-shoes-ai",
       "bear-no-code-projects",
       "electronic-harp",
-      "energy-3-languages",
       "energy-air-pressure",
       "energy-chliran",
       "energy-heating-wires",
@@ -33,7 +32,6 @@
       "illusions-no-code-projects",
       "leonardo-browser",
       "leonardo-flying-wings",
-      "leonardo-train-inside",
       "train_outside"
     ],
     "Maintenance": [
@@ -41,12 +39,14 @@
       "dl-toddlers-dept",
       "edu-Computer-Vision-Final",
       "edu-monorepo",
+      "energy-3-languages",
       "energy-acceleration-circuit",
       "energy-skip-sceen",
       "energy-transformator",
       "ftc-basicPoly",
       "ftc-dropping-drops",
       "illusions-illusions",
+      "leonardo-train-inside",
       "space-rfid-what-to-take",
       "space-rotating_camera",
       "space-tv",
@@ -98,14 +98,14 @@
     ]
   },
   "by_exhibit": {
-    "bear": [
-      "bear-bear-eyes",
-      "bear-no-code-projects"
-    ],
-    "illusions": [
-      "illusions-aims",
-      "illusions-illusions",
-      "illusions-no-code-projects"
+    "arad": [
+      "arad-floating-balls",
+      "arad-interactive-selfie",
+      "arad-polarized-camera",
+      "arad-rdworks-hack",
+      "arad-scale-plot",
+      "arad-smart-romba",
+      "arad-spherical-laser-projector"
     ],
     "uncategorized": [
       ".github",
@@ -116,6 +116,15 @@
       "electronic-harp",
       "flashlight-in-the-dark",
       "train_outside"
+    ],
+    "bear": [
+      "bear-bear-eyes",
+      "bear-no-code-projects"
+    ],
+    "illusions": [
+      "illusions-aims",
+      "illusions-illusions",
+      "illusions-no-code-projects"
     ],
     "energy": [
       "energy-3-languages",
@@ -151,15 +160,6 @@
       "ftc-photogrammetry",
       "ftc-photopolymer",
       "ftc-shoes-ai"
-    ],
-    "arad": [
-      "arad-floating-balls",
-      "arad-interactive-selfie",
-      "arad-polarized-camera",
-      "arad-rdworks-hack",
-      "arad-scale-plot",
-      "arad-smart-romba",
-      "arad-spherical-laser-projector"
     ],
     "leonardo": [
       "leonardo-browser",
@@ -215,6 +215,36 @@
   },
   "repos": [
     {
+      "name": "arad-rdworks-hack",
+      "url": "https://github.com/jerusalem-science-museum/arad-rdworks-hack",
+      "description": "Automaticly approving RDWorks dialogs when uploading a file to the laser cut machine.",
+      "status": "Active",
+      "exhibit": "arad",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-08-09T21:02:35Z",
+      "created_at": "2021-05-05T07:32:45Z",
+      "stars": 1,
+      "forks": 2,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-08-03T05:43:44Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "bear-no-code-projects",
       "url": "https://github.com/jerusalem-science-museum/bear-no-code-projects",
       "description": null,
@@ -240,21 +270,6 @@
       "topics": [],
       "last_updated": "2026-07-28T14:00:19Z",
       "created_at": "2025-12-17T14:28:30Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-07-27T05:52:37Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -437,21 +452,6 @@
       "created_at": "2025-12-17T14:26:39Z",
       "stars": 0,
       "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "arad-rdworks-hack",
-      "url": "https://github.com/jerusalem-science-museum/arad-rdworks-hack",
-      "description": "Automaticly approving RDWorks dialogs when uploading a file to the laser cut machine.",
-      "status": "Active",
-      "exhibit": "arad",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-06-08T12:29:32Z",
-      "created_at": "2021-05-05T07:32:45Z",
-      "stars": 2,
-      "forks": 2,
       "is_fork": false
     },
     {
@@ -668,7 +668,7 @@
       "name": "leonardo-train-inside",
       "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "leonardo",
       "archived": false,
       "language": null,
@@ -683,7 +683,7 @@
       "name": "energy-3-languages",
       "url": "https://github.com/jerusalem-science-museum/energy-3-languages",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": null,
