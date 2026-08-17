@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T03:58:16.513925",
+  "generated_at": "2026-08-17T03:01:05.623905",
   "total_repos": 88,
   "by_status": {
     "Active": [
@@ -8,10 +8,8 @@
       "arad-rdworks-hack",
       "archive-ftc-shoes-ai",
       "bear-no-code-projects",
-      "electronic-harp",
       "energy-air-pressure",
       "energy-chliran",
-      "energy-heating-wires",
       "energy-horsepower",
       "energy-hydroflame",
       "energy-hydrogen-rocket",
@@ -39,13 +37,14 @@
       "dl-toddlers-dept",
       "edu-Computer-Vision-Final",
       "edu-monorepo",
+      "electronic-harp",
       "energy-3-languages",
       "energy-acceleration-circuit",
+      "energy-heating-wires",
       "energy-skip-sceen",
       "energy-transformator",
       "ftc-basicPoly",
       "ftc-dropping-drops",
-      "illusions-illusions",
       "leonardo-train-inside",
       "space-rfid-what-to-take",
       "space-rotating_camera",
@@ -93,20 +92,12 @@
       "ftc-WireBender-master",
       "ftc-photopolymer",
       "ftf-water-meter-card",
+      "illusions-illusions",
       "leonardo-timeline",
       "space-skip-screen"
     ]
   },
   "by_exhibit": {
-    "arad": [
-      "arad-floating-balls",
-      "arad-interactive-selfie",
-      "arad-polarized-camera",
-      "arad-rdworks-hack",
-      "arad-scale-plot",
-      "arad-smart-romba",
-      "arad-spherical-laser-projector"
-    ],
     "uncategorized": [
       ".github",
       "Aircraft-launcher",
@@ -116,6 +107,15 @@
       "electronic-harp",
       "flashlight-in-the-dark",
       "train_outside"
+    ],
+    "arad": [
+      "arad-floating-balls",
+      "arad-interactive-selfie",
+      "arad-polarized-camera",
+      "arad-rdworks-hack",
+      "arad-scale-plot",
+      "arad-smart-romba",
+      "arad-spherical-laser-projector"
     ],
     "bear": [
       "bear-bear-eyes",
@@ -215,6 +215,21 @@
   },
   "repos": [
     {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-08-10T03:58:25Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "arad-rdworks-hack",
       "url": "https://github.com/jerusalem-science-museum/arad-rdworks-hack",
       "description": "Automaticly approving RDWorks dialogs when uploading a file to the laser cut machine.",
@@ -227,21 +242,6 @@
       "created_at": "2021-05-05T07:32:45Z",
       "stars": 1,
       "forks": 2,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-08-03T05:43:44Z",
-      "created_at": "2025-12-03T11:02:04Z",
-      "stars": 0,
-      "forks": 0,
       "is_fork": false
     },
     {
@@ -638,7 +638,7 @@
       "name": "energy-heating-wires",
       "url": "https://github.com/jerusalem-science-museum/energy-heating-wires",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": "C",
@@ -653,7 +653,7 @@
       "name": "electronic-harp",
       "url": "https://github.com/jerusalem-science-museum/electronic-harp",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "uncategorized",
       "archived": false,
       "language": "C++",
@@ -893,7 +893,7 @@
       "name": "illusions-illusions",
       "url": "https://github.com/jerusalem-science-museum/illusions-illusions",
       "description": null,
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "illusions",
       "archived": false,
       "language": "PLSQL",
