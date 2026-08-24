@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-08-17 03:01:05 UTC
+**Last Updated:** 2026-08-24 03:04:21 UTC
 
 **Total Repositories:** 88
 
@@ -72,16 +72,16 @@
 | [horsepower](https://github.com/jerusalem-science-museum/energy-horsepower) | N/A | C | Active | 2026-07-12 |
 | [how-the-sun-sets-things-in-motion](https://github.com/jerusalem-science-museum/energy-how-the-sun-sets-things-in-motion) | N/A | N/A | Dormant | 2025-12-17 |
 | [hydroflame](https://github.com/jerusalem-science-museum/energy-hydroflame) | N/A | C | Active | 2026-06-07 |
-| [hydrogen-rocket](https://github.com/jerusalem-science-museum/energy-hydrogen-rocket) | N/A | Python | Active | 2026-07-12 |
+| [hydrogen-rocket](https://github.com/jerusalem-science-museum/energy-hydrogen-rocket) | N/A | C | Active | 2026-08-20 |
 | [incondescent-vs-led](https://github.com/jerusalem-science-museum/energy-incondescent-vs-led) | N/A | C++ | Dormant | 2025-12-17 |
-| [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Active | 2026-05-25 |
+| [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Maintenance | 2026-05-25 |
 | [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Python | Active | 2026-07-12 |
 | [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-07-12 |
 | [log-python](https://github.com/jerusalem-science-museum/energy-log-python) | N/A | HTML | Active | 2026-06-08 |
 | [motor](https://github.com/jerusalem-science-museum/energy-motor) | N/A | C++ | Active | 2026-06-03 |
 | [pendulum](https://github.com/jerusalem-science-museum/energy-pendulum) | N/A | C++ | Active | 2026-07-12 |
 | [skip-sceen](https://github.com/jerusalem-science-museum/energy-skip-sceen) | N/A | C++ | Maintenance | 2026-03-10 |
-| [transformator](https://github.com/jerusalem-science-museum/energy-transformator) | N/A | C | Maintenance | 2026-02-22 |
+| [transformator](https://github.com/jerusalem-science-museum/energy-transformator) | N/A | C | Dormant | 2026-02-22 |
 
 </details>
 
@@ -106,12 +106,12 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [basicPoly](https://github.com/jerusalem-science-museum/ftc-basicPoly) | 3d objects with changing polygon counts | JavaScript | Maintenance | 2026-02-25 |
-| [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2026-05-20 |
+| [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Maintenance | 2026-05-20 |
 | [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-06-23 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Maintenance | 2026-04-05 |
-| [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Active | 2026-05-20 |
+| [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Maintenance | 2026-05-20 |
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-06-18 |
-| [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Active | 2026-05-26 |
+| [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Active | 2026-08-21 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Dormant | 2025-12-17 |
 | [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Active | 2026-05-28 |
 | [WireBender-master](https://github.com/jerusalem-science-museum/ftc-WireBender-master) | N/A | Python | Dormant | 2026-01-26 |
@@ -132,7 +132,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Active | 2026-05-20 |
+| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Maintenance | 2026-05-20 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Dormant | 2026-02-17 |
 | [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Active | 2026-07-28 |
 
@@ -155,11 +155,11 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Maintenance | 2026-02-23 |
+| [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Dormant | 2026-02-23 |
 | [rotating_camera](https://github.com/jerusalem-science-museum/space-rotating_camera) | N/A | N/A | Maintenance | 2026-03-15 |
 | [skip-screen](https://github.com/jerusalem-science-museum/space-skip-screen) | N/A | C++ | Dormant | 2026-01-18 |
 | [tv](https://github.com/jerusalem-science-museum/space-tv) | automation for tvs in space exhibition (turn on automaticall | C++ | Maintenance | 2026-04-07 |
-| [what-would-you-take-to-space](https://github.com/jerusalem-science-museum/space-what-would-you-take-to-space) | a simple interactive voting board to see what visitors would | JavaScript | Maintenance | 2026-02-19 |
+| [what-would-you-take-to-space](https://github.com/jerusalem-science-museum/space-what-would-you-take-to-space) | a simple interactive voting board to see what visitors would | JavaScript | Dormant | 2026-02-19 |
 
 </details>
 
@@ -189,7 +189,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-08-10 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-08-17 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Maintenance | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
