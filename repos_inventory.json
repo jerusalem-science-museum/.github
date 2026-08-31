@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-08-24T03:04:21.288511",
+  "generated_at": "2026-08-31T08:15:55.732818",
   "total_repos": 88,
   "by_status": {
     "Active": [
       ".github",
       "Mekorot-AR-Sandbox",
       "arad-rdworks-hack",
-      "archive-ftc-shoes-ai",
       "bear-no-code-projects",
       "energy-air-pressure",
       "energy-chliran",
@@ -22,14 +21,13 @@
       "ftc-connect-4-robot",
       "ftc-lazer-drawing",
       "ftc-photogrammetry",
-      "ftc-shoes-ai",
       "illusions-no-code-projects",
-      "leonardo-browser",
       "leonardo-flying-wings",
       "train_outside"
     ],
     "Maintenance": [
       "Aircraft-launcher",
+      "archive-ftc-shoes-ai",
       "dl-toddlers-dept",
       "edu-Computer-Vision-Final",
       "edu-monorepo",
@@ -39,11 +37,12 @@
       "energy-heating-wires",
       "energy-information",
       "energy-skip-sceen",
-      "ftc-basicPoly",
       "ftc-cartesian-polar-plotters",
       "ftc-dropping-drops",
       "ftc-gatorade-water-drawings",
+      "ftc-shoes-ai",
       "illusions-aims",
+      "leonardo-browser",
       "leonardo-train-inside",
       "space-rotating_camera",
       "space-tv"
@@ -88,6 +87,7 @@
       "ext-ariel-wigler",
       "flashlight-in-the-dark",
       "ftc-WireBender-master",
+      "ftc-basicPoly",
       "ftc-photopolymer",
       "ftf-water-meter-card",
       "illusions-illusions",
@@ -98,6 +98,16 @@
     ]
   },
   "by_exhibit": {
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "Mekorot-AR-Sandbox",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside"
+    ],
     "ftc": [
       "ftc-WireBender-master",
       "ftc-basicPoly",
@@ -132,16 +142,6 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
-    ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "Mekorot-AR-Sandbox",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside"
     ],
     "arad": [
       "arad-floating-balls",
@@ -215,6 +215,21 @@
   },
   "repos": [
     {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-08-24T03:05:09Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "ftc-photogrammetry",
       "url": "https://github.com/jerusalem-science-museum/ftc-photogrammetry",
       "description": "a multicam setup for creating a 3d model of a visitor's head",
@@ -240,21 +255,6 @@
       "topics": [],
       "last_updated": "2026-08-20T11:00:57Z",
       "created_at": "2025-12-17T14:26:09Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-08-17T03:01:37Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -533,7 +533,7 @@
       "name": "ftc-shoes-ai",
       "url": "https://github.com/jerusalem-science-museum/ftc-shoes-ai",
       "description": "a webpage that lets you describe a shoe and using openAI generates an image.",
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "ftc",
       "archived": false,
       "language": "JavaScript",
@@ -548,7 +548,7 @@
       "name": "archive-ftc-shoes-ai",
       "url": "https://github.com/jerusalem-science-museum/archive-ftc-shoes-ai",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "archive",
       "archived": false,
       "language": "Shell",
@@ -563,7 +563,7 @@
       "name": "leonardo-browser",
       "url": "https://github.com/jerusalem-science-museum/leonardo-browser",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "leonardo",
       "archived": false,
       "language": "Python",
@@ -833,7 +833,7 @@
       "name": "ftc-basicPoly",
       "url": "https://github.com/jerusalem-science-museum/ftc-basicPoly",
       "description": "3d objects with changing polygon counts",
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "ftc",
       "archived": false,
       "language": "JavaScript",

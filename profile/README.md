@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-08-24 03:04:21 UTC
+**Last Updated:** 2026-08-31 08:15:55 UTC
 
 **Total Repositories:** 88
 
@@ -105,7 +105,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [basicPoly](https://github.com/jerusalem-science-museum/ftc-basicPoly) | 3d objects with changing polygon counts | JavaScript | Maintenance | 2026-02-25 |
+| [basicPoly](https://github.com/jerusalem-science-museum/ftc-basicPoly) | 3d objects with changing polygon counts | JavaScript | Dormant | 2026-02-25 |
 | [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Maintenance | 2026-05-20 |
 | [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Active | 2026-06-23 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Maintenance | 2026-04-05 |
@@ -113,7 +113,7 @@
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Active | 2026-06-18 |
 | [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Active | 2026-08-21 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Dormant | 2025-12-17 |
-| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Active | 2026-05-28 |
+| [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Maintenance | 2026-05-28 |
 | [WireBender-master](https://github.com/jerusalem-science-museum/ftc-WireBender-master) | N/A | Python | Dormant | 2026-01-26 |
 
 </details>
@@ -143,7 +143,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [browser](https://github.com/jerusalem-science-museum/leonardo-browser) | N/A | Python | Active | 2026-05-26 |
+| [browser](https://github.com/jerusalem-science-museum/leonardo-browser) | N/A | Python | Maintenance | 2026-05-26 |
 | [flying-wings](https://github.com/jerusalem-science-museum/leonardo-flying-wings) | N/A | Python | Active | 2026-06-03 |
 | [timeline](https://github.com/jerusalem-science-museum/leonardo-timeline) | N/A | Python | Dormant | 2025-12-21 |
 | [train-inside](https://github.com/jerusalem-science-museum/leonardo-train-inside) | N/A | N/A | Maintenance | 2026-05-07 |
@@ -170,7 +170,7 @@
 |------|-------------|----------|--------|--------------|
 | [agriculture-gargir](https://github.com/jerusalem-science-museum/archive-agriculture-gargir) | N/A | Python | Dormant | 2025-12-17 |
 | [ftc-connect-4-robot-legacy](https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Dormant | 2025-12-17 |
-| [ftc-shoes-ai](https://github.com/jerusalem-science-museum/archive-ftc-shoes-ai) | N/A | Shell | Active | 2026-05-26 |
+| [ftc-shoes-ai](https://github.com/jerusalem-science-museum/archive-ftc-shoes-ai) | N/A | Shell | Maintenance | 2026-05-26 |
 | [hbp](https://github.com/jerusalem-science-museum/archive-hbp) | N/A | Python | Dormant | 2025-12-17 |
 | [hbp-doctor-scan](https://github.com/jerusalem-science-museum/archive-hbp-doctor-scan) | HBP Doctor Scan- MRI and CT exams simulator | C++ | Dormant | 2025-12-17 |
 | [hbp-led-ring](https://github.com/jerusalem-science-museum/archive-hbp-led-ring) | HBP LED Ring- 768x16 ring LED display | N/A | Dormant | 2025-12-17 |
@@ -189,7 +189,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-08-17 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-08-24 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Maintenance | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
