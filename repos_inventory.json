@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:40:06.267750",
+  "generated_at": "2026-09-21T07:43:53.911345",
   "total_repos": 88,
   "by_status": {
     "Active": [
@@ -16,7 +16,6 @@
       "energy-log-python",
       "energy-pendulum",
       "ftc-connect-4-robot",
-      "ftc-lazer-drawing",
       "ftc-photogrammetry",
       "illusions-no-code-projects",
       "train_outside"
@@ -37,6 +36,7 @@
       "ftc-cartesian-polar-plotters",
       "ftc-dropping-drops",
       "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
       "ftc-shoes-ai",
       "illusions-aims",
       "leonardo-browser",
@@ -98,16 +98,6 @@
     ]
   },
   "by_exhibit": {
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "Mekorot-AR-Sandbox",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside"
-    ],
     "energy": [
       "energy-3-languages",
       "energy-acceleration-circuit",
@@ -130,6 +120,16 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
+    ],
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "Mekorot-AR-Sandbox",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside"
     ],
     "ftc": [
       "ftc-WireBender-master",
@@ -215,6 +215,21 @@
   },
   "repos": [
     {
+      "name": "energy-light-a-fire",
+      "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-09-17T12:42:50Z",
+      "created_at": "2025-12-17T14:26:33Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": ".github",
       "url": "https://github.com/jerusalem-science-museum/.github",
       "description": "main index of repos in the museum",
@@ -223,7 +238,7 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-09-07T07:06:17Z",
+      "last_updated": "2026-09-14T07:40:11Z",
       "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
@@ -365,21 +380,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-light-a-fire",
-      "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-07-12T11:21:01Z",
-      "created_at": "2025-12-17T14:26:33Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-jumping-ring",
       "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
       "description": null,
@@ -458,7 +458,7 @@
       "name": "ftc-lazer-drawing",
       "url": "https://github.com/jerusalem-science-museum/ftc-lazer-drawing",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "ftc",
       "archived": false,
       "language": "Python",
