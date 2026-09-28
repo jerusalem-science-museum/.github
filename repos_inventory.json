@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:43:53.911345",
+  "generated_at": "2026-09-28T08:22:33.069119",
   "total_repos": 88,
   "by_status": {
     "Active": [
@@ -15,17 +15,13 @@
       "energy-light-a-fire",
       "energy-log-python",
       "energy-pendulum",
-      "ftc-connect-4-robot",
       "ftc-photogrammetry",
       "illusions-no-code-projects",
       "train_outside"
     ],
     "Maintenance": [
-      "Aircraft-launcher",
       "archive-ftc-shoes-ai",
-      "dl-toddlers-dept",
       "edu-Computer-Vision-Final",
-      "edu-monorepo",
       "electronic-harp",
       "energy-3-languages",
       "energy-heating-wires",
@@ -34,6 +30,7 @@
       "energy-motor",
       "ext-ariel-powers-of-10",
       "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
       "ftc-dropping-drops",
       "ftc-gatorade-water-drawings",
       "ftc-lazer-drawing",
@@ -45,6 +42,7 @@
       "space-tv"
     ],
     "Dormant": [
+      "Aircraft-launcher",
       "TwinsGuessGame",
       "arad-floating-balls",
       "arad-interactive-selfie",
@@ -68,6 +66,8 @@
       "bernoli-wind",
       "dl-catch-game",
       "dl-catch-game-simulator",
+      "dl-toddlers-dept",
+      "edu-monorepo",
       "edu-photochromic-manipulator",
       "edu-scientists-competition",
       "energy-acceleration-circuit",
@@ -98,6 +98,16 @@
     ]
   },
   "by_exhibit": {
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "Mekorot-AR-Sandbox",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside"
+    ],
     "energy": [
       "energy-3-languages",
       "energy-acceleration-circuit",
@@ -120,16 +130,6 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
-    ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "Mekorot-AR-Sandbox",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside"
     ],
     "ftc": [
       "ftc-WireBender-master",
@@ -215,6 +215,21 @@
   },
   "repos": [
     {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-09-21T07:43:58Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "energy-light-a-fire",
       "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
       "description": null,
@@ -225,21 +240,6 @@
       "topics": [],
       "last_updated": "2026-09-17T12:42:50Z",
       "created_at": "2025-12-17T14:26:33Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-09-14T07:40:11Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -443,7 +443,7 @@
       "name": "ftc-connect-4-robot",
       "url": "https://github.com/jerusalem-science-museum/ftc-connect-4-robot",
       "description": "An Elephant robotics arm that plays Connect 4 against a visitor.",
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "ftc",
       "archived": false,
       "language": "Python",
@@ -743,7 +743,7 @@
       "name": "dl-toddlers-dept",
       "url": "https://github.com/jerusalem-science-museum/dl-toddlers-dept",
       "description": null,
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "dl",
       "archived": false,
       "language": null,
@@ -758,7 +758,7 @@
       "name": "Aircraft-launcher",
       "url": "https://github.com/jerusalem-science-museum/Aircraft-launcher",
       "description": null,
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "uncategorized",
       "archived": false,
       "language": null,
@@ -773,7 +773,7 @@
       "name": "edu-monorepo",
       "url": "https://github.com/jerusalem-science-museum/edu-monorepo",
       "description": null,
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "edu",
       "archived": false,
       "language": "Python",
