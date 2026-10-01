@@ -1,8 +1,8 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-09-28 08:22:33 UTC
+**Last Updated:** 2026-10-01 11:24:19 UTC
 
-**Total Repositories:** 88
+**Total Repositories:** 89
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
@@ -76,7 +76,7 @@
 | [incondescent-vs-led](https://github.com/jerusalem-science-museum/energy-incondescent-vs-led) | N/A | C++ | Dormant | 2025-12-17 |
 | [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Maintenance | 2026-05-25 |
 | [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Python | Active | 2026-07-12 |
-| [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-09-17 |
+| [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-09-29 |
 | [log-python](https://github.com/jerusalem-science-museum/energy-log-python) | N/A | HTML | Active | 2026-09-01 |
 | [motor](https://github.com/jerusalem-science-museum/energy-motor) | N/A | C++ | Maintenance | 2026-06-03 |
 | [pendulum](https://github.com/jerusalem-science-museum/energy-pendulum) | N/A | C++ | Active | 2026-07-12 |
@@ -155,11 +155,20 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Dormant | 2026-02-23 |
+| [rfid-what-to-take](https://github.com/jerusalem-science-museum/space-rfid-what-to-take) | Interactive RFID-triggered image display system for museum e | Python | Active | 2026-09-30 |
 | [rotating_camera](https://github.com/jerusalem-science-museum/space-rotating_camera) | N/A | N/A | Dormant | 2026-03-15 |
 | [skip-screen](https://github.com/jerusalem-science-museum/space-skip-screen) | N/A | C++ | Dormant | 2026-01-18 |
 | [tv](https://github.com/jerusalem-science-museum/space-tv) | automation for tvs in space exhibition (turn on automaticall | C++ | Maintenance | 2026-04-07 |
 | [what-would-you-take-to-space](https://github.com/jerusalem-science-museum/space-what-would-you-take-to-space) | a simple interactive voting board to see what visitors would | JavaScript | Dormant | 2026-02-19 |
+
+</details>
+
+<details>
+  <summary><strong>Truth Exhibition 2027</strong> (1 repos)</summary>
+
+| Repo | Description | Language | Status | Last Updated |
+|------|-------------|----------|--------|--------------|
+| [fortune-teller](https://github.com/jerusalem-science-museum/tru-fortune-teller) | simple webapp that let's you choose which fortune teller see | N/A | Active | 2026-10-01 |
 
 </details>
 
@@ -189,7 +198,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-09-21 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-01 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
