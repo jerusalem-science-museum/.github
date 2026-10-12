@@ -1,22 +1,20 @@
 {
-  "generated_at": "2026-10-05T08:34:05.422812",
+  "generated_at": "2026-10-12T08:46:32.515647",
   "total_repos": 89,
   "by_status": {
     "Active": [
       ".github",
       "Mekorot-AR-Sandbox",
       "arad-rdworks-hack",
+      "arad-scale-plot",
       "bear-no-code-projects",
       "energy-air-pressure",
-      "energy-chliran",
-      "energy-horsepower",
       "energy-hydrogen-rocket",
-      "energy-jumping-ring",
       "energy-light-a-fire",
       "energy-log-python",
-      "energy-pendulum",
       "ftc-photogrammetry",
       "illusions-no-code-projects",
+      "leonardo-flying-wings",
       "space-rfid-what-to-take",
       "train_outside",
       "tru-fortune-teller"
@@ -26,10 +24,14 @@
       "edu-Computer-Vision-Final",
       "electronic-harp",
       "energy-3-languages",
+      "energy-chliran",
       "energy-heating-wires",
+      "energy-horsepower",
       "energy-hydroflame",
       "energy-information",
+      "energy-jumping-ring",
       "energy-motor",
+      "energy-pendulum",
       "ext-ariel-powers-of-10",
       "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
@@ -38,7 +40,6 @@
       "ftc-shoes-ai",
       "illusions-aims",
       "leonardo-browser",
-      "leonardo-flying-wings",
       "leonardo-train-inside"
     ],
     "Dormant": [
@@ -47,7 +48,6 @@
       "arad-floating-balls",
       "arad-interactive-selfie",
       "arad-polarized-camera",
-      "arad-scale-plot",
       "arad-smart-romba",
       "arad-spherical-laser-projector",
       "archive-agriculture-gargir",
@@ -99,8 +99,20 @@
     ]
   },
   "by_exhibit": {
-    "tru": [
-      "tru-fortune-teller"
+    "leonardo": [
+      "leonardo-browser",
+      "leonardo-flying-wings",
+      "leonardo-timeline",
+      "leonardo-train-inside"
+    ],
+    "arad": [
+      "arad-floating-balls",
+      "arad-interactive-selfie",
+      "arad-polarized-camera",
+      "arad-rdworks-hack",
+      "arad-scale-plot",
+      "arad-smart-romba",
+      "arad-spherical-laser-projector"
     ],
     "uncategorized": [
       ".github",
@@ -111,6 +123,9 @@
       "electronic-harp",
       "flashlight-in-the-dark",
       "train_outside"
+    ],
+    "tru": [
+      "tru-fortune-teller"
     ],
     "space": [
       "space-rfid-what-to-take",
@@ -154,15 +169,6 @@
       "ftc-photopolymer",
       "ftc-shoes-ai"
     ],
-    "arad": [
-      "arad-floating-balls",
-      "arad-interactive-selfie",
-      "arad-polarized-camera",
-      "arad-rdworks-hack",
-      "arad-scale-plot",
-      "arad-smart-romba",
-      "arad-spherical-laser-projector"
-    ],
     "bear": [
       "bear-bear-eyes",
       "bear-no-code-projects"
@@ -171,12 +177,6 @@
       "illusions-aims",
       "illusions-illusions",
       "illusions-no-code-projects"
-    ],
-    "leonardo": [
-      "leonardo-browser",
-      "leonardo-flying-wings",
-      "leonardo-timeline",
-      "leonardo-train-inside"
     ],
     "ext": [
       "ext-ariel-acceleration-circuit",
@@ -219,16 +219,31 @@
   },
   "repos": [
     {
-      "name": "tru-fortune-teller",
-      "url": "https://github.com/jerusalem-science-museum/tru-fortune-teller",
-      "description": "simple webapp that let's you choose which fortune teller seems more convincing.",
+      "name": "leonardo-flying-wings",
+      "url": "https://github.com/jerusalem-science-museum/leonardo-flying-wings",
+      "description": null,
       "status": "Active",
-      "exhibit": "tru",
+      "exhibit": "leonardo",
       "archived": false,
-      "language": "HTML",
+      "language": "Python",
       "topics": [],
-      "last_updated": "2026-10-01T11:53:11Z",
-      "created_at": "2026-10-01T11:22:25Z",
+      "last_updated": "2026-10-11T09:17:27Z",
+      "created_at": "2025-12-17T14:28:47Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "arad-scale-plot",
+      "url": "https://github.com/jerusalem-science-museum/arad-scale-plot",
+      "description": "Graph showing the weight over time axis",
+      "status": "Active",
+      "exhibit": "arad",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-11T08:19:24Z",
+      "created_at": "2019-10-11T12:51:45Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -242,8 +257,23 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-10-01T11:24:24Z",
+      "last_updated": "2026-10-05T08:34:10Z",
       "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "tru-fortune-teller",
+      "url": "https://github.com/jerusalem-science-museum/tru-fortune-teller",
+      "description": "simple webapp that let's you choose which fortune teller seems more convincing.",
+      "status": "Active",
+      "exhibit": "tru",
+      "archived": false,
+      "language": "HTML",
+      "topics": [],
+      "last_updated": "2026-10-01T11:53:11Z",
+      "created_at": "2026-10-01T11:22:25Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -417,7 +447,7 @@
       "name": "energy-jumping-ring",
       "url": "https://github.com/jerusalem-science-museum/energy-jumping-ring",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": "Python",
@@ -432,7 +462,7 @@
       "name": "energy-horsepower",
       "url": "https://github.com/jerusalem-science-museum/energy-horsepower",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": "C",
@@ -447,7 +477,7 @@
       "name": "energy-chliran",
       "url": "https://github.com/jerusalem-science-museum/energy-chliran",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": "C++",
@@ -462,7 +492,7 @@
       "name": "energy-pendulum",
       "url": "https://github.com/jerusalem-science-museum/energy-pendulum",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": "C++",
@@ -529,21 +559,6 @@
       "topics": [],
       "last_updated": "2026-06-03T13:13:28Z",
       "created_at": "2025-12-17T14:26:46Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "leonardo-flying-wings",
-      "url": "https://github.com/jerusalem-science-museum/leonardo-flying-wings",
-      "description": null,
-      "status": "Maintenance",
-      "exhibit": "leonardo",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-06-03T12:43:01Z",
-      "created_at": "2025-12-17T14:28:47Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -1069,21 +1084,6 @@
       "topics": [],
       "last_updated": "2025-12-17T15:12:53Z",
       "created_at": "2021-08-24T07:52:53Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "arad-scale-plot",
-      "url": "https://github.com/jerusalem-science-museum/arad-scale-plot",
-      "description": "Graph showing the weight over time axis",
-      "status": "Dormant",
-      "exhibit": "arad",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2025-12-17T15:12:34Z",
-      "created_at": "2019-10-11T12:51:45Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
