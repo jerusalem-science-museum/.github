@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T08:46:32.515647",
-  "total_repos": 89,
+  "generated_at": "2026-10-14T10:46:52.727283",
+  "total_repos": 90,
   "by_status": {
     "Active": [
       ".github",
@@ -8,7 +8,6 @@
       "arad-rdworks-hack",
       "arad-scale-plot",
       "bear-no-code-projects",
-      "energy-air-pressure",
       "energy-hydrogen-rocket",
       "energy-light-a-fire",
       "energy-log-python",
@@ -16,14 +15,15 @@
       "illusions-no-code-projects",
       "leonardo-flying-wings",
       "space-rfid-what-to-take",
-      "train_outside",
-      "tru-fortune-teller"
+      "tru-fortune-teller",
+      "tru-polygraph"
     ],
     "Maintenance": [
       "archive-ftc-shoes-ai",
       "edu-Computer-Vision-Final",
       "electronic-harp",
       "energy-3-languages",
+      "energy-air-pressure",
       "energy-chliran",
       "energy-heating-wires",
       "energy-horsepower",
@@ -40,7 +40,8 @@
       "ftc-shoes-ai",
       "illusions-aims",
       "leonardo-browser",
-      "leonardo-train-inside"
+      "leonardo-train-inside",
+      "train_outside"
     ],
     "Dormant": [
       "Aircraft-launcher",
@@ -99,6 +100,20 @@
     ]
   },
   "by_exhibit": {
+    "tru": [
+      "tru-fortune-teller",
+      "tru-polygraph"
+    ],
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "Mekorot-AR-Sandbox",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside"
+    ],
     "leonardo": [
       "leonardo-browser",
       "leonardo-flying-wings",
@@ -113,19 +128,6 @@
       "arad-scale-plot",
       "arad-smart-romba",
       "arad-spherical-laser-projector"
-    ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "Mekorot-AR-Sandbox",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside"
-    ],
-    "tru": [
-      "tru-fortune-teller"
     ],
     "space": [
       "space-rfid-what-to-take",
@@ -219,6 +221,36 @@
   },
   "repos": [
     {
+      "name": "tru-polygraph",
+      "url": "https://github.com/jerusalem-science-museum/tru-polygraph",
+      "description": "polygraph using heartrate sensor + skin conductivity",
+      "status": "Active",
+      "exhibit": "tru",
+      "archived": false,
+      "language": null,
+      "topics": [],
+      "last_updated": "2026-10-14T10:46:15Z",
+      "created_at": "2026-10-14T10:46:14Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-12T08:46:37Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "leonardo-flying-wings",
       "url": "https://github.com/jerusalem-science-museum/leonardo-flying-wings",
       "description": null,
@@ -244,21 +276,6 @@
       "topics": [],
       "last_updated": "2026-10-11T08:19:24Z",
       "created_at": "2019-10-11T12:51:45Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-10-05T08:34:10Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -417,7 +434,7 @@
       "name": "energy-air-pressure",
       "url": "https://github.com/jerusalem-science-museum/energy-air-pressure",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "energy",
       "archived": false,
       "language": "Python",
@@ -432,7 +449,7 @@
       "name": "train_outside",
       "url": "https://github.com/jerusalem-science-museum/train_outside",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "uncategorized",
       "archived": false,
       "language": "C",

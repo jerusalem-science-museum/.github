@@ -1,8 +1,8 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-10-12 08:46:32 UTC
+**Last Updated:** 2026-10-14 10:46:52 UTC
 
-**Total Repositories:** 89
+**Total Repositories:** 90
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
@@ -63,7 +63,7 @@
 |------|-------------|----------|--------|--------------|
 | [3-languages](https://github.com/jerusalem-science-museum/energy-3-languages) | N/A | N/A | Maintenance | 2026-05-06 |
 | [acceleration-circuit](https://github.com/jerusalem-science-museum/energy-acceleration-circuit) | N/A | C++ | Dormant | 2026-03-10 |
-| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Active | 2026-07-16 |
+| [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Maintenance | 2026-07-16 |
 | [chliran](https://github.com/jerusalem-science-museum/energy-chliran) | N/A | C++ | Maintenance | 2026-07-12 |
 | [cold-hot](https://github.com/jerusalem-science-museum/energy-cold-hot) | N/A | N/A | Dormant | 2025-12-17 |
 | [energy-from-the-wind](https://github.com/jerusalem-science-museum/energy-energy-from-the-wind) | N/A | N/A | Dormant | 2025-12-17 |
@@ -164,11 +164,12 @@
 </details>
 
 <details>
-  <summary><strong>Truth Exhibition 2027</strong> (1 repos)</summary>
+  <summary><strong>Truth Exhibition 2027</strong> (2 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [fortune-teller](https://github.com/jerusalem-science-museum/tru-fortune-teller) | simple webapp that let's you choose which fortune teller see | HTML | Active | 2026-10-01 |
+| [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | N/A | Active | 2026-10-14 |
 
 </details>
 
@@ -198,13 +199,13 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-05 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-12 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Dormant | 2025-12-17 |
 | [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-07-26 |
-| [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Active | 2026-07-14 |
+| [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Maintenance | 2026-07-14 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
 
 </details>
