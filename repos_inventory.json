@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:46:52.727283",
+  "generated_at": "2026-10-19T07:25:51.455732",
   "total_repos": 90,
   "by_status": {
     "Active": [
@@ -227,9 +227,9 @@
       "status": "Active",
       "exhibit": "tru",
       "archived": false,
-      "language": null,
+      "language": "Python",
       "topics": [],
-      "last_updated": "2026-10-14T10:46:15Z",
+      "last_updated": "2026-10-15T13:23:08Z",
       "created_at": "2026-10-14T10:46:14Z",
       "stars": 0,
       "forks": 0,
@@ -244,7 +244,7 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-10-12T08:46:37Z",
+      "last_updated": "2026-10-14T10:46:57Z",
       "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,

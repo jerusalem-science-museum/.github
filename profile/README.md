@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-10-14 10:46:52 UTC
+**Last Updated:** 2026-10-19 07:25:51 UTC
 
 **Total Repositories:** 90
 
@@ -169,7 +169,7 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [fortune-teller](https://github.com/jerusalem-science-museum/tru-fortune-teller) | simple webapp that let's you choose which fortune teller see | HTML | Active | 2026-10-01 |
-| [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | N/A | Active | 2026-10-14 |
+| [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | Python | Active | 2026-10-15 |
 
 </details>
 
@@ -199,7 +199,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-12 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-14 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
