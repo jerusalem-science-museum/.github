@@ -1,24 +1,28 @@
 {
-  "generated_at": "2026-10-19T07:25:51.455732",
-  "total_repos": 90,
+  "generated_at": "2026-10-26T07:30:51.577153",
+  "total_repos": 93,
   "by_status": {
     "Active": [
       ".github",
-      "Mekorot-AR-Sandbox",
       "arad-rdworks-hack",
       "arad-scale-plot",
       "bear-no-code-projects",
+      "bear-rentgen",
       "energy-hydrogen-rocket",
       "energy-light-a-fire",
       "energy-log-python",
+      "ftc-cartesian-polar-plotters",
       "ftc-photogrammetry",
       "illusions-no-code-projects",
       "leonardo-flying-wings",
       "space-rfid-what-to-take",
       "tru-fortune-teller",
-      "tru-polygraph"
+      "tru-opinion-or-fact",
+      "tru-polygraph",
+      "useful-scripts"
     ],
     "Maintenance": [
+      "Mekorot-AR-Sandbox",
       "archive-ftc-shoes-ai",
       "edu-Computer-Vision-Final",
       "electronic-harp",
@@ -33,7 +37,6 @@
       "energy-motor",
       "energy-pendulum",
       "ext-ariel-powers-of-10",
-      "ftc-cartesian-polar-plotters",
       "ftc-connect-4-robot",
       "ftc-gatorade-water-drawings",
       "ftc-lazer-drawing",
@@ -100,9 +103,17 @@
     ]
   },
   "by_exhibit": {
-    "tru": [
-      "tru-fortune-teller",
-      "tru-polygraph"
+    "ftc": [
+      "ftc-WireBender-master",
+      "ftc-basicPoly",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-dropping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
     ],
     "uncategorized": [
       ".github",
@@ -112,7 +123,18 @@
       "bernoli-wind",
       "electronic-harp",
       "flashlight-in-the-dark",
-      "train_outside"
+      "train_outside",
+      "useful-scripts"
+    ],
+    "tru": [
+      "tru-fortune-teller",
+      "tru-opinion-or-fact",
+      "tru-polygraph"
+    ],
+    "bear": [
+      "bear-bear-eyes",
+      "bear-no-code-projects",
+      "bear-rentgen"
     ],
     "leonardo": [
       "leonardo-browser",
@@ -158,22 +180,6 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
-    ],
-    "ftc": [
-      "ftc-WireBender-master",
-      "ftc-basicPoly",
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-dropping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
-    ],
-    "bear": [
-      "bear-bear-eyes",
-      "bear-no-code-projects"
     ],
     "illusions": [
       "illusions-aims",
@@ -221,16 +227,61 @@
   },
   "repos": [
     {
-      "name": "tru-polygraph",
-      "url": "https://github.com/jerusalem-science-museum/tru-polygraph",
-      "description": "polygraph using heartrate sensor + skin conductivity",
+      "name": "ftc-cartesian-polar-plotters",
+      "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
+      "description": "moving polar and cartesian 2D plotter positions systems",
+      "status": "Active",
+      "exhibit": "ftc",
+      "archived": false,
+      "language": "C++",
+      "topics": [],
+      "last_updated": "2026-10-25T11:59:28Z",
+      "created_at": "2025-09-11T18:32:58Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "useful-scripts",
+      "url": "https://github.com/jerusalem-science-museum/useful-scripts",
+      "description": "various general purpose make-related scripts",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-25T10:48:34Z",
+      "created_at": "2026-10-25T10:33:27Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "tru-opinion-or-fact",
+      "url": "https://github.com/jerusalem-science-museum/tru-opinion-or-fact",
+      "description": "rfid readers for the visitors to decide if the sayings on the cubes are truth or false.",
       "status": "Active",
       "exhibit": "tru",
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-10-15T13:23:08Z",
-      "created_at": "2026-10-14T10:46:14Z",
+      "last_updated": "2026-10-21T12:58:10Z",
+      "created_at": "2026-10-21T11:32:01Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "bear-rentgen",
+      "url": "https://github.com/jerusalem-science-museum/bear-rentgen",
+      "description": "rfid reader for broken arm bear in exhibition",
+      "status": "Active",
+      "exhibit": "bear",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-21T09:20:31Z",
+      "created_at": "2026-10-21T08:37:53Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -244,8 +295,23 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-10-14T10:46:57Z",
+      "last_updated": "2026-10-19T07:25:56Z",
       "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "tru-polygraph",
+      "url": "https://github.com/jerusalem-science-museum/tru-polygraph",
+      "description": "polygraph using heartrate sensor + skin conductivity",
+      "status": "Active",
+      "exhibit": "tru",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-15T13:23:08Z",
+      "created_at": "2026-10-14T10:46:14Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -419,7 +485,7 @@
       "name": "Mekorot-AR-Sandbox",
       "url": "https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox",
       "description": "Exhibit for Mekorot: Physical objects on the table have ArUco markers. The camera detects those markers, the program decides where water can flow, and the projector draws the water/other animations back onto the physical table.",
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "uncategorized",
       "archived": false,
       "language": "Python",
@@ -681,21 +747,6 @@
       "topics": [],
       "last_updated": "2026-05-20T11:22:17Z",
       "created_at": "2025-12-22T12:22:35Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "ftc-cartesian-polar-plotters",
-      "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
-      "description": "moving polar and cartesian 2D plotter positions systems",
-      "status": "Maintenance",
-      "exhibit": "ftc",
-      "archived": false,
-      "language": "C++",
-      "topics": [],
-      "last_updated": "2026-05-20T08:02:57Z",
-      "created_at": "2025-09-11T18:32:58Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false

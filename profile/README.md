@@ -1,8 +1,8 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-10-19 07:25:51 UTC
+**Last Updated:** 2026-10-26 07:30:51 UTC
 
-**Total Repositories:** 90
+**Total Repositories:** 93
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
@@ -24,12 +24,13 @@
 </details>
 
 <details>
-  <summary><strong>Bear Department</strong> (2 repos)</summary>
+  <summary><strong>Bear Department</strong> (3 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [bear-eyes](https://github.com/jerusalem-science-museum/bear-bear-eyes) | N/A | N/A | Dormant | 2025-12-17 |
 | [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Active | 2026-07-29 |
+| [rentgen](https://github.com/jerusalem-science-museum/bear-rentgen) | rfid reader for broken arm bear in exhibition | Python | Active | 2026-10-21 |
 
 </details>
 
@@ -106,7 +107,7 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [basicPoly](https://github.com/jerusalem-science-museum/ftc-basicPoly) | 3d objects with changing polygon counts | JavaScript | Dormant | 2026-02-25 |
-| [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Maintenance | 2026-05-20 |
+| [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2026-10-25 |
 | [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Maintenance | 2026-06-23 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Dormant | 2026-04-05 |
 | [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Maintenance | 2026-05-20 |
@@ -164,11 +165,12 @@
 </details>
 
 <details>
-  <summary><strong>Truth Exhibition 2027</strong> (2 repos)</summary>
+  <summary><strong>Truth Exhibition 2027</strong> (3 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [fortune-teller](https://github.com/jerusalem-science-museum/tru-fortune-teller) | simple webapp that let's you choose which fortune teller see | HTML | Active | 2026-10-01 |
+| [opinion-or-fact](https://github.com/jerusalem-science-museum/tru-opinion-or-fact) | rfid readers for the visitors to decide if the sayings on th | Python | Active | 2026-10-21 |
 | [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | Python | Active | 2026-10-15 |
 
 </details>
@@ -195,17 +197,18 @@
 </details>
 
 <details>
-  <summary><strong>uncategorized</strong> (8 repos)</summary>
+  <summary><strong>uncategorized</strong> (9 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-14 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-19 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Dormant | 2025-12-17 |
-| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Active | 2026-07-26 |
+| [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Maintenance | 2026-07-26 |
 | [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Maintenance | 2026-07-14 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
+| [useful-scripts](https://github.com/jerusalem-science-museum/useful-scripts) | various general purpose make-related scripts | Python | Active | 2026-10-25 |
 
 </details>
