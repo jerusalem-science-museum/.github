@@ -1,19 +1,17 @@
 {
-  "generated_at": "2026-10-26T07:30:51.577153",
+  "generated_at": "2026-11-02T08:59:18.273480",
   "total_repos": 93,
   "by_status": {
     "Active": [
       ".github",
       "arad-rdworks-hack",
       "arad-scale-plot",
-      "bear-no-code-projects",
       "bear-rentgen",
       "energy-hydrogen-rocket",
       "energy-light-a-fire",
       "energy-log-python",
       "ftc-cartesian-polar-plotters",
       "ftc-photogrammetry",
-      "illusions-no-code-projects",
       "leonardo-flying-wings",
       "space-rfid-what-to-take",
       "tru-fortune-teller",
@@ -24,7 +22,7 @@
     "Maintenance": [
       "Mekorot-AR-Sandbox",
       "archive-ftc-shoes-ai",
-      "edu-Computer-Vision-Final",
+      "bear-no-code-projects",
       "electronic-harp",
       "energy-3-languages",
       "energy-air-pressure",
@@ -42,6 +40,7 @@
       "ftc-lazer-drawing",
       "ftc-shoes-ai",
       "illusions-aims",
+      "illusions-no-code-projects",
       "leonardo-browser",
       "leonardo-train-inside",
       "train_outside"
@@ -71,6 +70,7 @@
       "dl-catch-game",
       "dl-catch-game-simulator",
       "dl-toddlers-dept",
+      "edu-Computer-Vision-Final",
       "edu-monorepo",
       "edu-photochromic-manipulator",
       "edu-scientists-competition",
@@ -103,29 +103,6 @@
     ]
   },
   "by_exhibit": {
-    "ftc": [
-      "ftc-WireBender-master",
-      "ftc-basicPoly",
-      "ftc-cartesian-polar-plotters",
-      "ftc-connect-4-robot",
-      "ftc-dropping-drops",
-      "ftc-gatorade-water-drawings",
-      "ftc-lazer-drawing",
-      "ftc-photogrammetry",
-      "ftc-photopolymer",
-      "ftc-shoes-ai"
-    ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "Mekorot-AR-Sandbox",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside",
-      "useful-scripts"
-    ],
     "tru": [
       "tru-fortune-teller",
       "tru-opinion-or-fact",
@@ -135,28 +112,6 @@
       "bear-bear-eyes",
       "bear-no-code-projects",
       "bear-rentgen"
-    ],
-    "leonardo": [
-      "leonardo-browser",
-      "leonardo-flying-wings",
-      "leonardo-timeline",
-      "leonardo-train-inside"
-    ],
-    "arad": [
-      "arad-floating-balls",
-      "arad-interactive-selfie",
-      "arad-polarized-camera",
-      "arad-rdworks-hack",
-      "arad-scale-plot",
-      "arad-smart-romba",
-      "arad-spherical-laser-projector"
-    ],
-    "space": [
-      "space-rfid-what-to-take",
-      "space-rotating_camera",
-      "space-skip-screen",
-      "space-tv",
-      "space-what-would-you-take-to-space"
     ],
     "energy": [
       "energy-3-languages",
@@ -180,6 +135,51 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
+    ],
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "Mekorot-AR-Sandbox",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside",
+      "useful-scripts"
+    ],
+    "ftc": [
+      "ftc-WireBender-master",
+      "ftc-basicPoly",
+      "ftc-cartesian-polar-plotters",
+      "ftc-connect-4-robot",
+      "ftc-dropping-drops",
+      "ftc-gatorade-water-drawings",
+      "ftc-lazer-drawing",
+      "ftc-photogrammetry",
+      "ftc-photopolymer",
+      "ftc-shoes-ai"
+    ],
+    "leonardo": [
+      "leonardo-browser",
+      "leonardo-flying-wings",
+      "leonardo-timeline",
+      "leonardo-train-inside"
+    ],
+    "arad": [
+      "arad-floating-balls",
+      "arad-interactive-selfie",
+      "arad-polarized-camera",
+      "arad-rdworks-hack",
+      "arad-scale-plot",
+      "arad-smart-romba",
+      "arad-spherical-laser-projector"
+    ],
+    "space": [
+      "space-rfid-what-to-take",
+      "space-rotating_camera",
+      "space-skip-screen",
+      "space-tv",
+      "space-what-would-you-take-to-space"
     ],
     "illusions": [
       "illusions-aims",
@@ -227,6 +227,66 @@
   },
   "repos": [
     {
+      "name": "tru-opinion-or-fact",
+      "url": "https://github.com/jerusalem-science-museum/tru-opinion-or-fact",
+      "description": "rfid readers for the visitors to decide if the sayings on the cubes are truth or false.",
+      "status": "Active",
+      "exhibit": "tru",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-11-01T09:45:53Z",
+      "created_at": "2026-10-21T11:32:01Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "bear-rentgen",
+      "url": "https://github.com/jerusalem-science-museum/bear-rentgen",
+      "description": "rfid reader for broken arm bear in exhibition",
+      "status": "Active",
+      "exhibit": "bear",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-29T15:13:15Z",
+      "created_at": "2026-10-21T08:37:53Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "energy-light-a-fire",
+      "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
+      "description": null,
+      "status": "Active",
+      "exhibit": "energy",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-29T14:12:55Z",
+      "created_at": "2025-12-17T14:26:33Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-10-26T07:30:57Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "ftc-cartesian-polar-plotters",
       "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
       "description": "moving polar and cartesian 2D plotter positions systems",
@@ -252,51 +312,6 @@
       "topics": [],
       "last_updated": "2026-10-25T10:48:34Z",
       "created_at": "2026-10-25T10:33:27Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "tru-opinion-or-fact",
-      "url": "https://github.com/jerusalem-science-museum/tru-opinion-or-fact",
-      "description": "rfid readers for the visitors to decide if the sayings on the cubes are truth or false.",
-      "status": "Active",
-      "exhibit": "tru",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-10-21T12:58:10Z",
-      "created_at": "2026-10-21T11:32:01Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "bear-rentgen",
-      "url": "https://github.com/jerusalem-science-museum/bear-rentgen",
-      "description": "rfid reader for broken arm bear in exhibition",
-      "status": "Active",
-      "exhibit": "bear",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-10-21T09:20:31Z",
-      "created_at": "2026-10-21T08:37:53Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-10-19T07:25:56Z",
-      "created_at": "2025-12-03T11:02:04Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -377,21 +392,6 @@
       "is_fork": false
     },
     {
-      "name": "energy-light-a-fire",
-      "url": "https://github.com/jerusalem-science-museum/energy-light-a-fire",
-      "description": null,
-      "status": "Active",
-      "exhibit": "energy",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-09-29T11:21:28Z",
-      "created_at": "2025-12-17T14:26:33Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "energy-log-python",
       "url": "https://github.com/jerusalem-science-museum/energy-log-python",
       "description": null,
@@ -455,7 +455,7 @@
       "name": "bear-no-code-projects",
       "url": "https://github.com/jerusalem-science-museum/bear-no-code-projects",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "bear",
       "archived": false,
       "language": null,
@@ -470,7 +470,7 @@
       "name": "illusions-no-code-projects",
       "url": "https://github.com/jerusalem-science-museum/illusions-no-code-projects",
       "description": null,
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "illusions",
       "archived": false,
       "language": null,
@@ -815,7 +815,7 @@
       "name": "edu-Computer-Vision-Final",
       "url": "https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final",
       "description": "Asaf Kesler's project in Machine Learning and Computer Science for the Science Museum.",
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "edu",
       "archived": false,
       "language": "Python",

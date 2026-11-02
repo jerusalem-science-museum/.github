@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-10-26 07:30:51 UTC
+**Last Updated:** 2026-11-02 08:59:18 UTC
 
 **Total Repositories:** 93
 
@@ -29,8 +29,8 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [bear-eyes](https://github.com/jerusalem-science-museum/bear-bear-eyes) | N/A | N/A | Dormant | 2025-12-17 |
-| [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Active | 2026-07-29 |
-| [rentgen](https://github.com/jerusalem-science-museum/bear-rentgen) | rfid reader for broken arm bear in exhibition | Python | Active | 2026-10-21 |
+| [no-code-projects](https://github.com/jerusalem-science-museum/bear-no-code-projects) | N/A | N/A | Maintenance | 2026-07-29 |
+| [rentgen](https://github.com/jerusalem-science-museum/bear-rentgen) | rfid reader for broken arm bear in exhibition | Python | Active | 2026-10-29 |
 
 </details>
 
@@ -50,7 +50,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [Computer-Vision-Final](https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final) | Asaf Kesler's project in Machine Learning and Computer Scien | Python | Maintenance | 2026-04-29 |
+| [Computer-Vision-Final](https://github.com/jerusalem-science-museum/edu-Computer-Vision-Final) | Asaf Kesler's project in Machine Learning and Computer Scien | Python | Dormant | 2026-04-29 |
 | [monorepo](https://github.com/jerusalem-science-museum/edu-monorepo) | N/A | Python | Dormant | 2026-03-30 |
 | [photochromic-manipulator](https://github.com/jerusalem-science-museum/edu-photochromic-manipulator) | Photochromic Manipulator - a kit that use five bar mechanism | Python | Dormant | 2025-12-17 |
 | [scientists-competition](https://github.com/jerusalem-science-museum/edu-scientists-competition) | N/A | JavaScript | Dormant | 2025-12-17 |
@@ -77,7 +77,7 @@
 | [incondescent-vs-led](https://github.com/jerusalem-science-museum/energy-incondescent-vs-led) | N/A | C++ | Dormant | 2025-12-17 |
 | [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Maintenance | 2026-05-25 |
 | [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Python | Maintenance | 2026-07-12 |
-| [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-09-29 |
+| [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-10-29 |
 | [log-python](https://github.com/jerusalem-science-museum/energy-log-python) | N/A | HTML | Active | 2026-09-01 |
 | [motor](https://github.com/jerusalem-science-museum/energy-motor) | N/A | C++ | Maintenance | 2026-06-03 |
 | [pendulum](https://github.com/jerusalem-science-museum/energy-pendulum) | N/A | C++ | Maintenance | 2026-07-12 |
@@ -135,7 +135,7 @@
 |------|-------------|----------|--------|--------------|
 | [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Maintenance | 2026-05-20 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Dormant | 2026-02-17 |
-| [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Active | 2026-07-28 |
+| [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Maintenance | 2026-07-28 |
 
 </details>
 
@@ -170,7 +170,7 @@
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
 | [fortune-teller](https://github.com/jerusalem-science-museum/tru-fortune-teller) | simple webapp that let's you choose which fortune teller see | HTML | Active | 2026-10-01 |
-| [opinion-or-fact](https://github.com/jerusalem-science-museum/tru-opinion-or-fact) | rfid readers for the visitors to decide if the sayings on th | Python | Active | 2026-10-21 |
+| [opinion-or-fact](https://github.com/jerusalem-science-museum/tru-opinion-or-fact) | rfid readers for the visitors to decide if the sayings on th | Python | Active | 2026-11-01 |
 | [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | Python | Active | 2026-10-15 |
 
 </details>
@@ -201,7 +201,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-19 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-26 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
