@@ -1,11 +1,14 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-11-02 08:59:18 UTC
+**Last Updated:** 2026-11-04 10:41:21 UTC
 
 **Total Repositories:** 93
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
+
+
+📖 **[Useful Scripts](https://github.com/jerusalem-science-museum/useful-scripts)** - Handy scripts + common arduino templates (keyboard sim for rfid, etc.)
 
 
 <details>
@@ -62,7 +65,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [3-languages](https://github.com/jerusalem-science-museum/energy-3-languages) | N/A | N/A | Maintenance | 2026-05-06 |
+| [3-languages](https://github.com/jerusalem-science-museum/energy-3-languages) | N/A | N/A | Dormant | 2026-05-06 |
 | [acceleration-circuit](https://github.com/jerusalem-science-museum/energy-acceleration-circuit) | N/A | C++ | Dormant | 2026-03-10 |
 | [air-pressure](https://github.com/jerusalem-science-museum/energy-air-pressure) | N/A | Python | Maintenance | 2026-07-16 |
 | [chliran](https://github.com/jerusalem-science-museum/energy-chliran) | N/A | C++ | Maintenance | 2026-07-12 |
@@ -147,7 +150,7 @@
 | [browser](https://github.com/jerusalem-science-museum/leonardo-browser) | N/A | Python | Maintenance | 2026-05-26 |
 | [flying-wings](https://github.com/jerusalem-science-museum/leonardo-flying-wings) | N/A | Python | Active | 2026-10-11 |
 | [timeline](https://github.com/jerusalem-science-museum/leonardo-timeline) | N/A | Python | Dormant | 2025-12-21 |
-| [train-inside](https://github.com/jerusalem-science-museum/leonardo-train-inside) | N/A | N/A | Maintenance | 2026-05-07 |
+| [train-inside](https://github.com/jerusalem-science-museum/leonardo-train-inside) | N/A | N/A | Dormant | 2026-05-07 |
 
 </details>
 
@@ -201,7 +204,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-10-26 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-11-02 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
@@ -209,6 +212,6 @@
 | [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Maintenance | 2026-07-26 |
 | [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Maintenance | 2026-07-14 |
 | [TwinsGuessGame](https://github.com/jerusalem-science-museum/TwinsGuessGame) | N/A | Haxe | Dormant | 2021-08-24 |
-| [useful-scripts](https://github.com/jerusalem-science-museum/useful-scripts) | various general purpose make-related scripts | Python | Active | 2026-10-25 |
+| [useful-scripts](https://github.com/jerusalem-science-museum/useful-scripts) | various general purpose make-related scripts | Python | Active | 2026-11-04 |
 
 </details>

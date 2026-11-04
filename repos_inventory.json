@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T08:59:18.273480",
+  "generated_at": "2026-11-04T10:41:21.135651",
   "total_repos": 93,
   "by_status": {
     "Active": [
@@ -24,7 +24,6 @@
       "archive-ftc-shoes-ai",
       "bear-no-code-projects",
       "electronic-harp",
-      "energy-3-languages",
       "energy-air-pressure",
       "energy-chliran",
       "energy-heating-wires",
@@ -42,7 +41,6 @@
       "illusions-aims",
       "illusions-no-code-projects",
       "leonardo-browser",
-      "leonardo-train-inside",
       "train_outside"
     ],
     "Dormant": [
@@ -74,6 +72,7 @@
       "edu-monorepo",
       "edu-photochromic-manipulator",
       "edu-scientists-competition",
+      "energy-3-languages",
       "energy-acceleration-circuit",
       "energy-cold-hot",
       "energy-energy-from-the-wind",
@@ -96,6 +95,7 @@
       "ftf-water-meter-card",
       "illusions-illusions",
       "leonardo-timeline",
+      "leonardo-train-inside",
       "space-rotating_camera",
       "space-skip-screen",
       "space-tv",
@@ -103,6 +103,17 @@
     ]
   },
   "by_exhibit": {
+    "uncategorized": [
+      ".github",
+      "Aircraft-launcher",
+      "Mekorot-AR-Sandbox",
+      "TwinsGuessGame",
+      "bernoli-wind",
+      "electronic-harp",
+      "flashlight-in-the-dark",
+      "train_outside",
+      "useful-scripts"
+    ],
     "tru": [
       "tru-fortune-teller",
       "tru-opinion-or-fact",
@@ -135,17 +146,6 @@
       "energy-pendulum",
       "energy-skip-sceen",
       "energy-transformator"
-    ],
-    "uncategorized": [
-      ".github",
-      "Aircraft-launcher",
-      "Mekorot-AR-Sandbox",
-      "TwinsGuessGame",
-      "bernoli-wind",
-      "electronic-harp",
-      "flashlight-in-the-dark",
-      "train_outside",
-      "useful-scripts"
     ],
     "ftc": [
       "ftc-WireBender-master",
@@ -227,6 +227,36 @@
   },
   "repos": [
     {
+      "name": "useful-scripts",
+      "url": "https://github.com/jerusalem-science-museum/useful-scripts",
+      "description": "various general purpose make-related scripts",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-11-04T10:29:59Z",
+      "created_at": "2026-10-25T10:33:27Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-11-02T08:59:24Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
       "name": "tru-opinion-or-fact",
       "url": "https://github.com/jerusalem-science-museum/tru-opinion-or-fact",
       "description": "rfid readers for the visitors to decide if the sayings on the cubes are truth or false.",
@@ -272,21 +302,6 @@
       "is_fork": false
     },
     {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-10-26T07:30:57Z",
-      "created_at": "2025-12-03T11:02:04Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
       "name": "ftc-cartesian-polar-plotters",
       "url": "https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters",
       "description": "moving polar and cartesian 2D plotter positions systems",
@@ -297,21 +312,6 @@
       "topics": [],
       "last_updated": "2026-10-25T11:59:28Z",
       "created_at": "2025-09-11T18:32:58Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": "useful-scripts",
-      "url": "https://github.com/jerusalem-science-museum/useful-scripts",
-      "description": "various general purpose make-related scripts",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-10-25T10:48:34Z",
-      "created_at": "2026-10-25T10:33:27Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -785,7 +785,7 @@
       "name": "leonardo-train-inside",
       "url": "https://github.com/jerusalem-science-museum/leonardo-train-inside",
       "description": null,
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "leonardo",
       "archived": false,
       "language": null,
@@ -800,7 +800,7 @@
       "name": "energy-3-languages",
       "url": "https://github.com/jerusalem-science-museum/energy-3-languages",
       "description": null,
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "energy",
       "archived": false,
       "language": null,
