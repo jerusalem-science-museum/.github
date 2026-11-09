@@ -1,8 +1,8 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-11-04 10:41:21 UTC
+**Last Updated:** 2026-11-09 09:20:27 UTC
 
-**Total Repositories:** 93
+**Total Repositories:** 95
 
 
 📖 **[Museum Wiki](https://github.com/jerusalem-science-museum/.github/wiki)** - Documentation and guides
@@ -19,7 +19,7 @@
 | [floating-balls](https://github.com/jerusalem-science-museum/arad-floating-balls) | N/A | C++ | Dormant | 2025-12-17 |
 | [interactive-selfie](https://github.com/jerusalem-science-museum/arad-interactive-selfie) | Interactive selfie exhibit of shlomit. | Processing | Dormant | 2025-12-17 |
 | [polarized-camera](https://github.com/jerusalem-science-museum/arad-polarized-camera) | N/A | Shell | Dormant | 2025-12-17 |
-| [rdworks-hack](https://github.com/jerusalem-science-museum/arad-rdworks-hack) | Automaticly approving RDWorks dialogs when uploading a file  | Python | Active | 2026-08-09 |
+| [rdworks-hack](https://github.com/jerusalem-science-museum/arad-rdworks-hack) | Automaticly approving RDWorks dialogs when uploading a file  | Python | Maintenance | 2026-08-09 |
 | [scale-plot](https://github.com/jerusalem-science-museum/arad-scale-plot) | Graph showing the weight over time axis | Python | Active | 2026-10-11 |
 | [smart-romba](https://github.com/jerusalem-science-museum/arad-smart-romba) | N/A | Python | Dormant | 2025-12-24 |
 | [spherical-laser-projector](https://github.com/jerusalem-science-museum/arad-spherical-laser-projector) | A spherical laser projector with SVG support | N/A | Dormant | 2025-12-17 |
@@ -168,13 +168,15 @@
 </details>
 
 <details>
-  <summary><strong>Truth Exhibition 2027</strong> (3 repos)</summary>
+  <summary><strong>Truth Exhibition 2027</strong> (5 repos)</summary>
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
+| [eye-tracking](https://github.com/jerusalem-science-museum/tru-eye-tracking) | eye tracking for the Truth Exhibition | JavaScript | Active | 2026-11-04 |
 | [fortune-teller](https://github.com/jerusalem-science-museum/tru-fortune-teller) | simple webapp that let's you choose which fortune teller see | HTML | Active | 2026-10-01 |
-| [opinion-or-fact](https://github.com/jerusalem-science-museum/tru-opinion-or-fact) | rfid readers for the visitors to decide if the sayings on th | Python | Active | 2026-11-01 |
+| [opinion-or-fact](https://github.com/jerusalem-science-museum/tru-opinion-or-fact) | rfid readers for the visitors to decide if the sayings on th | Python | Active | 2026-11-05 |
 | [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | Python | Active | 2026-10-15 |
+| [ten-shekel](https://github.com/jerusalem-science-museum/tru-ten-shekel) | overlay fake ten nis coin on visitor's existing coin + coin' | N/A | Active | 2026-11-09 |
 
 </details>
 
@@ -204,10 +206,10 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-11-02 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-11-04 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
-| [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Maintenance | 2026-05-12 |
+| [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Dormant | 2026-05-12 |
 | [flashlight-in-the-dark](https://github.com/jerusalem-science-museum/flashlight-in-the-dark) | N/A | N/A | Dormant | 2025-12-17 |
 | [Mekorot-AR-Sandbox](https://github.com/jerusalem-science-museum/Mekorot-AR-Sandbox) | Exhibit for Mekorot: Physical objects on the table have ArUc | Python | Maintenance | 2026-07-26 |
 | [train_outside](https://github.com/jerusalem-science-museum/train_outside) | N/A | C | Maintenance | 2026-07-14 |

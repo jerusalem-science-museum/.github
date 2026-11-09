@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-11-04T10:41:21.135651",
-  "total_repos": 93,
+  "generated_at": "2026-11-09T09:20:27.110613",
+  "total_repos": 95,
   "by_status": {
     "Active": [
       ".github",
-      "arad-rdworks-hack",
       "arad-scale-plot",
       "bear-rentgen",
       "energy-hydrogen-rocket",
@@ -14,16 +13,18 @@
       "ftc-photogrammetry",
       "leonardo-flying-wings",
       "space-rfid-what-to-take",
+      "tru-eye-tracking",
       "tru-fortune-teller",
       "tru-opinion-or-fact",
       "tru-polygraph",
+      "tru-ten-shekel",
       "useful-scripts"
     ],
     "Maintenance": [
       "Mekorot-AR-Sandbox",
+      "arad-rdworks-hack",
       "archive-ftc-shoes-ai",
       "bear-no-code-projects",
-      "electronic-harp",
       "energy-air-pressure",
       "energy-chliran",
       "energy-heating-wires",
@@ -72,6 +73,7 @@
       "edu-monorepo",
       "edu-photochromic-manipulator",
       "edu-scientists-competition",
+      "electronic-harp",
       "energy-3-languages",
       "energy-acceleration-circuit",
       "energy-cold-hot",
@@ -103,6 +105,13 @@
     ]
   },
   "by_exhibit": {
+    "tru": [
+      "tru-eye-tracking",
+      "tru-fortune-teller",
+      "tru-opinion-or-fact",
+      "tru-polygraph",
+      "tru-ten-shekel"
+    ],
     "uncategorized": [
       ".github",
       "Aircraft-launcher",
@@ -113,11 +122,6 @@
       "flashlight-in-the-dark",
       "train_outside",
       "useful-scripts"
-    ],
-    "tru": [
-      "tru-fortune-teller",
-      "tru-opinion-or-fact",
-      "tru-polygraph"
     ],
     "bear": [
       "bear-bear-eyes",
@@ -227,31 +231,16 @@
   },
   "repos": [
     {
-      "name": "useful-scripts",
-      "url": "https://github.com/jerusalem-science-museum/useful-scripts",
-      "description": "various general purpose make-related scripts",
+      "name": "tru-ten-shekel",
+      "url": "https://github.com/jerusalem-science-museum/tru-ten-shekel",
+      "description": "overlay fake ten nis coin on visitor's existing coin + coin's travel map",
       "status": "Active",
-      "exhibit": "uncategorized",
+      "exhibit": "tru",
       "archived": false,
-      "language": "Python",
+      "language": null,
       "topics": [],
-      "last_updated": "2026-11-04T10:29:59Z",
-      "created_at": "2026-10-25T10:33:27Z",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false
-    },
-    {
-      "name": ".github",
-      "url": "https://github.com/jerusalem-science-museum/.github",
-      "description": "main index of repos in the museum",
-      "status": "Active",
-      "exhibit": "uncategorized",
-      "archived": false,
-      "language": "Python",
-      "topics": [],
-      "last_updated": "2026-11-02T08:59:24Z",
-      "created_at": "2025-12-03T11:02:04Z",
+      "last_updated": "2026-11-09T08:55:09Z",
+      "created_at": "2026-11-09T08:54:37Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -265,8 +254,53 @@
       "archived": false,
       "language": "Python",
       "topics": [],
-      "last_updated": "2026-11-01T09:45:53Z",
+      "last_updated": "2026-11-05T09:27:05Z",
       "created_at": "2026-10-21T11:32:01Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "tru-eye-tracking",
+      "url": "https://github.com/jerusalem-science-museum/tru-eye-tracking",
+      "description": "eye tracking for the Truth Exhibition",
+      "status": "Active",
+      "exhibit": "tru",
+      "archived": false,
+      "language": "JavaScript",
+      "topics": [],
+      "last_updated": "2026-11-04T14:40:22Z",
+      "created_at": "2026-11-04T14:10:08Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/jerusalem-science-museum/.github",
+      "description": "main index of repos in the museum",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-11-04T10:43:04Z",
+      "created_at": "2025-12-03T11:02:04Z",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false
+    },
+    {
+      "name": "useful-scripts",
+      "url": "https://github.com/jerusalem-science-museum/useful-scripts",
+      "description": "various general purpose make-related scripts",
+      "status": "Active",
+      "exhibit": "uncategorized",
+      "archived": false,
+      "language": "Python",
+      "topics": [],
+      "last_updated": "2026-11-04T10:29:59Z",
+      "created_at": "2026-10-25T10:33:27Z",
       "stars": 0,
       "forks": 0,
       "is_fork": false
@@ -440,7 +474,7 @@
       "name": "arad-rdworks-hack",
       "url": "https://github.com/jerusalem-science-museum/arad-rdworks-hack",
       "description": "Automaticly approving RDWorks dialogs when uploading a file to the laser cut machine.",
-      "status": "Active",
+      "status": "Maintenance",
       "exhibit": "arad",
       "archived": false,
       "language": "Python",
@@ -448,7 +482,7 @@
       "last_updated": "2026-08-09T21:02:35Z",
       "created_at": "2021-05-05T07:32:45Z",
       "stars": 1,
-      "forks": 2,
+      "forks": 1,
       "is_fork": false
     },
     {
@@ -770,7 +804,7 @@
       "name": "electronic-harp",
       "url": "https://github.com/jerusalem-science-museum/electronic-harp",
       "description": null,
-      "status": "Maintenance",
+      "status": "Dormant",
       "exhibit": "uncategorized",
       "archived": false,
       "language": "C++",
