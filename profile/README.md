@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-11-09 09:20:27 UTC
+**Last Updated:** 2026-11-16 09:07:19 UTC
 
 **Total Repositories:** 95
 
@@ -72,7 +72,7 @@
 | [cold-hot](https://github.com/jerusalem-science-museum/energy-cold-hot) | N/A | N/A | Dormant | 2025-12-17 |
 | [energy-from-the-wind](https://github.com/jerusalem-science-museum/energy-energy-from-the-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [generator](https://github.com/jerusalem-science-museum/energy-generator) | N/A | C | Dormant | 2025-12-17 |
-| [heating-wires](https://github.com/jerusalem-science-museum/energy-heating-wires) | N/A | C | Maintenance | 2026-05-14 |
+| [heating-wires](https://github.com/jerusalem-science-museum/energy-heating-wires) | N/A | C | Dormant | 2026-05-14 |
 | [horsepower](https://github.com/jerusalem-science-museum/energy-horsepower) | N/A | C | Maintenance | 2026-07-12 |
 | [how-the-sun-sets-things-in-motion](https://github.com/jerusalem-science-museum/energy-how-the-sun-sets-things-in-motion) | N/A | N/A | Dormant | 2025-12-17 |
 | [hydroflame](https://github.com/jerusalem-science-museum/energy-hydroflame) | N/A | C | Maintenance | 2026-06-07 |
@@ -175,8 +175,8 @@
 | [eye-tracking](https://github.com/jerusalem-science-museum/tru-eye-tracking) | eye tracking for the Truth Exhibition | JavaScript | Active | 2026-11-04 |
 | [fortune-teller](https://github.com/jerusalem-science-museum/tru-fortune-teller) | simple webapp that let's you choose which fortune teller see | HTML | Active | 2026-10-01 |
 | [opinion-or-fact](https://github.com/jerusalem-science-museum/tru-opinion-or-fact) | rfid readers for the visitors to decide if the sayings on th | Python | Active | 2026-11-05 |
-| [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | Python | Active | 2026-10-15 |
-| [ten-shekel](https://github.com/jerusalem-science-museum/tru-ten-shekel) | overlay fake ten nis coin on visitor's existing coin + coin' | N/A | Active | 2026-11-09 |
+| [polygraph](https://github.com/jerusalem-science-museum/tru-polygraph) | polygraph using heartrate sensor + skin conductivity | Python | Active | 2026-11-11 |
+| [ten-shekel](https://github.com/jerusalem-science-museum/tru-ten-shekel) | overlay fake ten nis coin on visitor's existing coin + coin' | Python | Active | 2026-11-09 |
 
 </details>
 
@@ -206,7 +206,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-11-04 |
+| [.github](https://github.com/jerusalem-science-museum/.github) | main index of repos in the museum | Python | Active | 2026-11-09 |
 | [Aircraft-launcher](https://github.com/jerusalem-science-museum/Aircraft-launcher) | N/A | N/A | Dormant | 2026-03-30 |
 | [bernoli-wind](https://github.com/jerusalem-science-museum/bernoli-wind) | N/A | N/A | Dormant | 2025-12-17 |
 | [electronic-harp](https://github.com/jerusalem-science-museum/electronic-harp) | N/A | C++ | Dormant | 2026-05-12 |
