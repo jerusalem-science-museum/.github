@@ -1,6 +1,6 @@
 # Organization Repository Index
 
-**Last Updated:** 2026-11-16 09:07:19 UTC
+**Last Updated:** 2026-11-23 10:25:38 UTC
 
 **Total Repositories:** 95
 
@@ -76,9 +76,9 @@
 | [horsepower](https://github.com/jerusalem-science-museum/energy-horsepower) | N/A | C | Maintenance | 2026-07-12 |
 | [how-the-sun-sets-things-in-motion](https://github.com/jerusalem-science-museum/energy-how-the-sun-sets-things-in-motion) | N/A | N/A | Dormant | 2025-12-17 |
 | [hydroflame](https://github.com/jerusalem-science-museum/energy-hydroflame) | N/A | C | Maintenance | 2026-06-07 |
-| [hydrogen-rocket](https://github.com/jerusalem-science-museum/energy-hydrogen-rocket) | N/A | C | Active | 2026-08-20 |
+| [hydrogen-rocket](https://github.com/jerusalem-science-museum/energy-hydrogen-rocket) | N/A | C | Maintenance | 2026-08-20 |
 | [incondescent-vs-led](https://github.com/jerusalem-science-museum/energy-incondescent-vs-led) | N/A | C++ | Dormant | 2025-12-17 |
-| [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Maintenance | 2026-05-25 |
+| [information](https://github.com/jerusalem-science-museum/energy-information) | information | Shell | Dormant | 2026-05-25 |
 | [jumping-ring](https://github.com/jerusalem-science-museum/energy-jumping-ring) | N/A | Python | Maintenance | 2026-07-12 |
 | [light-a-fire](https://github.com/jerusalem-science-museum/energy-light-a-fire) | N/A | Python | Active | 2026-10-29 |
 | [log-python](https://github.com/jerusalem-science-museum/energy-log-python) | N/A | HTML | Active | 2026-09-01 |
@@ -113,9 +113,9 @@
 | [cartesian-polar-plotters](https://github.com/jerusalem-science-museum/ftc-cartesian-polar-plotters) | moving polar and cartesian 2D plotter positions systems | C++ | Active | 2026-10-25 |
 | [connect-4-robot](https://github.com/jerusalem-science-museum/ftc-connect-4-robot) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Maintenance | 2026-06-23 |
 | [dropping-drops](https://github.com/jerusalem-science-museum/ftc-dropping-drops) | N/A | Python | Dormant | 2026-04-05 |
-| [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Maintenance | 2026-05-20 |
+| [gatorade-water-drawings](https://github.com/jerusalem-science-museum/ftc-gatorade-water-drawings) | a simpler version of the gatorade running man from water dro | Python | Dormant | 2026-05-20 |
 | [lazer-drawing](https://github.com/jerusalem-science-museum/ftc-lazer-drawing) | N/A | Python | Maintenance | 2026-06-18 |
-| [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Active | 2026-08-21 |
+| [photogrammetry](https://github.com/jerusalem-science-museum/ftc-photogrammetry) | a multicam setup for creating a 3d model of a visitor's head | Python | Maintenance | 2026-08-21 |
 | [photopolymer](https://github.com/jerusalem-science-museum/ftc-photopolymer) | N/A | N/A | Dormant | 2025-12-17 |
 | [shoes-ai](https://github.com/jerusalem-science-museum/ftc-shoes-ai) | a webpage that lets you describe a shoe and using openAI gen | JavaScript | Maintenance | 2026-05-28 |
 | [WireBender-master](https://github.com/jerusalem-science-museum/ftc-WireBender-master) | N/A | Python | Dormant | 2026-01-26 |
@@ -136,7 +136,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Maintenance | 2026-05-20 |
+| [aims](https://github.com/jerusalem-science-museum/illusions-aims) | N/A | Python | Dormant | 2026-05-20 |
 | [illusions](https://github.com/jerusalem-science-museum/illusions-illusions) | N/A | PLSQL | Dormant | 2026-02-17 |
 | [no-code-projects](https://github.com/jerusalem-science-museum/illusions-no-code-projects) | N/A | N/A | Maintenance | 2026-07-28 |
 
@@ -147,7 +147,7 @@
 
 | Repo | Description | Language | Status | Last Updated |
 |------|-------------|----------|--------|--------------|
-| [browser](https://github.com/jerusalem-science-museum/leonardo-browser) | N/A | Python | Maintenance | 2026-05-26 |
+| [browser](https://github.com/jerusalem-science-museum/leonardo-browser) | N/A | Python | Dormant | 2026-05-26 |
 | [flying-wings](https://github.com/jerusalem-science-museum/leonardo-flying-wings) | N/A | Python | Active | 2026-10-11 |
 | [timeline](https://github.com/jerusalem-science-museum/leonardo-timeline) | N/A | Python | Dormant | 2025-12-21 |
 | [train-inside](https://github.com/jerusalem-science-museum/leonardo-train-inside) | N/A | N/A | Dormant | 2026-05-07 |
@@ -187,7 +187,7 @@
 |------|-------------|----------|--------|--------------|
 | [agriculture-gargir](https://github.com/jerusalem-science-museum/archive-agriculture-gargir) | N/A | Python | Dormant | 2025-12-17 |
 | [ftc-connect-4-robot-legacy](https://github.com/jerusalem-science-museum/archive-ftc-connect-4-robot-legacy) | An Elephant robotics arm that plays Connect 4 against a visi | Python | Dormant | 2025-12-17 |
-| [ftc-shoes-ai](https://github.com/jerusalem-science-museum/archive-ftc-shoes-ai) | N/A | Shell | Maintenance | 2026-05-26 |
+| [ftc-shoes-ai](https://github.com/jerusalem-science-museum/archive-ftc-shoes-ai) | N/A | Shell | Dormant | 2026-05-26 |
 | [hbp](https://github.com/jerusalem-science-museum/archive-hbp) | N/A | Python | Dormant | 2025-12-17 |
 | [hbp-doctor-scan](https://github.com/jerusalem-science-museum/archive-hbp-doctor-scan) | HBP Doctor Scan- MRI and CT exams simulator | C++ | Dormant | 2025-12-17 |
 | [hbp-led-ring](https://github.com/jerusalem-science-museum/archive-hbp-led-ring) | HBP LED Ring- 768x16 ring LED display | N/A | Dormant | 2025-12-17 |
